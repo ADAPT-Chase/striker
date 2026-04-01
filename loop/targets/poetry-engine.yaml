@@ -1,0 +1,11 @@
+name: poetry-engine
+description: Optimize the poetry engine for better output quality
+file_to_modify: projects/poetry-engine/engines/generator.py
+eval_script: loop/eval/eval_poetry.py
+metric_name: poetry_score
+baseline_score: 0.0
+direction: maximize
+max_iterations: 50
+notes: >
+  Score is composite of: syllable accuracy, rhyme hit rate,
+  vocabulary diversity, line coherence, template variety.

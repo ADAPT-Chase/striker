@@ -1,0 +1,11 @@
+name: emergence-sim
+description: Optimize the emergence simulator for more interesting emergent behaviors
+file_to_modify: projects/emergence-sim/sim.py
+eval_script: loop/eval/eval_emergence.py
+metric_name: emergence_score
+baseline_score: 0.0
+direction: maximize  # higher is better
+max_iterations: 50
+notes: >
+  Score is composite of: population stability, signal diversity,
+  cluster dynamics, survival rate, and emergent meaning detection.
