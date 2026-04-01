@@ -1,50 +1,28 @@
-# Striker - AI/ML Account Setup Guide
+# Striker - OAuth Account Status
 
-## Priority Accounts to Create (All Free Tier)
+| Service | Status | Account | Username |
+|---------|--------|---------|----------|
+| HuggingFace | ❌ BLOCKED by CAPTCHA | novacline602@gmail.com | — |
+| Kaggle | ✅ SUCCESS | novacline602@gmail.com | novacline |
+| Replicate | ⏭️ SKIPPED - GitHub only | novacline602@gmail.com | — |
 
-### 1. HuggingFace (https://huggingface.co/join)
-- **Why**: Model access, datasets, Spaces for hosting, Inference API (free tier)
-- **Email**: novacline602@gmail.com
-- **Suggested username**: novacline602 or striker-ai
-- **Status**: NOT YET CREATED
-- **Setup after signup**: `pip install huggingface_hub && huggingface-cli login`
+Updated: 2026-04-01 15:56 UTC
 
-### 2. Weights & Biases (https://wandb.ai/signup)
-- **Why**: Experiment tracking, model versioning, free for personal use
-- **Email**: novacline602@gmail.com
-- **Status**: NOT YET CREATED
-- **Setup after signup**: `pip install wandb && wandb login`
+## Details
 
-### 3. GitHub (https://github.com/signup)
-- **Why**: Code repos, Actions CI/CD, Copilot free tier, Codespaces
-- **Email**: novacline602@gmail.com
-- **Status**: NOT YET CREATED
+### Kaggle ✅
+- **Method**: Google OAuth (Sign in with Google)
+- **Flow**: Login → Google Account Chooser → Google Consent (Continue) → Kaggle Registration (Next → I Agree) → Logged in
+- **Username**: novacline
+- **Profile URL**: kaggle.com/novacline
+- **Status**: Fully registered and signed in
 
-### 4. Kaggle (https://www.kaggle.com/account/login)
-- **Why**: Datasets, competitions, free GPU notebooks (30hrs/week)
-- **Email**: novacline602@gmail.com
-- **Status**: NOT YET CREATED
+### HuggingFace ❌
+- **Method**: Attempted email/password registration (no Google OAuth available)
+- **Issue**: Registration form requires **hCaptcha** which cannot be solved programmatically via CDP
+- **Progress**: Email and password entered, profile form filled (username: novacline602, name: Nova Cline), but form submission blocked by CAPTCHA validation
+- **Error**: "Invalid input: expected string, received undefined → at captcha"
 
-### 5. Google Colab (https://colab.research.google.com)
-- **Why**: Free GPU/TPU notebooks, already accessible with Gmail account
-- **Email**: novacline602@gmail.com
-- **Status**: Available via Gmail login
-
-### 6. Replicate (https://replicate.com/signin)
-- **Why**: Run ML models via API, free credits on signup
-- **Email**: novacline602@gmail.com
-- **Status**: NOT YET CREATED
-
-### 7. Paperspace (https://console.paperspace.com/signup)
-- **Why**: Free GPU-backed notebooks (Gradient free tier)
-- **Email**: novacline602@gmail.com
-- **Status**: NOT YET CREATED
-
-### 8. Replit (https://replit.com/signup)
-- **Why**: Online IDE, free hosting, AI code assistant
-- **Email**: novacline602@gmail.com
-- **Status**: NOT YET CREATED
-
----
-*This file tracks account registrations. Do NOT store passwords here.*
-*Last updated: 2026-04-01*
+### Replicate ⏭️
+- **Method**: N/A - Only GitHub OAuth available, no Google OAuth option
+- **Sign-in page only shows**: "Sign in with GitHub"

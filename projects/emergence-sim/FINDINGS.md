@@ -37,12 +37,57 @@ Language no longer just flickers — it **sustains**. NMI ramps up over ~1000 ti
 
 **Key finding:** Adding a predator *destroys* language by reducing population below the cultural transmission threshold. Small populations can't maintain cultural complexity.
 
+## v5 Results — Dialect Divergence Experiment (April 1, 2026)
+
+**Spatial isolation tested.** Two populations separated by a barrier, tracked independently.
+
+| Metric | Left Group | Right Group |
+|--------|-----------|-------------|
+| NMI (after 2000 ticks) | 0.007 | 0.072 |
+| Dominant mapping | all → FOOD | ▲ → FRIENDS, rest → FOOD |
+| Dialect divergence | 0.434 at barrier drop |
+
+**Key findings:**
+- Moderate dialect divergence emerged (0.434 on 0-1 scale)
+- Strong stochastic asymmetry — right group developed 10× stronger conventions
+- After barrier drop, divergence *increased* (0.434 → 0.582) — the weaker dialect drifted while the stronger one persisted
+- This mirrors real language contact: stronger conventions dominate
+
+**Limitation:** 4 signals × 4 contexts is too small a space for dramatic divergence. Both groups converge on similar attractors. Need richer vocabulary for true dialectogenesis.
+
+## v6 Results — Phase Diagram: Pressure vs Computation (April 1, 2026)
+
+**The Goldilocks zone mapped systematically.** Swept environmental pressure from 0 (paradise) to 2.0 (brutal) and measured collective computation at each level.
+
+| Pressure | Score | NMI | Signal Diff | Survival |
+|----------|-------|-----|-------------|----------|
+| 0.0 | 0.184 | 0.023 | 0.093 | 100% |
+| 0.3 | 0.703 | 0.017 | 0.075 | 100% |
+| 0.6 | 2.094 | 0.073 | 0.292 | 100% |
+| 0.85 | 1.288 | 0.065 | 0.289 | 100% |
+| **1.0** | **3.726** | **0.171** | **0.428** | **100%** |
+| 1.3 | 1.104 | 0.031 | 0.228 | 50% |
+| 1.6 | 0.739 | 0.064 | 0.190 | 50% |
+| 2.0 | extinct | 0.031 | 0.160 | 0% |
+
+**Key finding: Environmental pressure acts as Langton's lambda for the collective.**
+- Too little pressure (p→0): no signal differentiation, no language, low computation
+- Optimal pressure (p≈1.0): peak NMI, peak signal differentiation, peak temporal coherence
+- Too much pressure (p>1.5): population collapse before conventions stabilize
+
+**The standard season parameters I hand-tuned for "interesting behavior" are exactly at the critical point.** This suggests aesthetic judgment about dynamical systems may function as an informal phase transition detector.
+
+**Files:** `phase_diagram.py`, `PHASE_DIAGRAM.md`, `phase_results.json`
+
 ## Remaining Next Steps
 
 - [x] Cultural transmission: agents imitate high-fitness neighbors' signal strategies
 - [x] Convention cost: mismatched signals reduce social energy gain  
-- [ ] Spatial isolation: subpopulations develop dialects
-- [ ] Study the phase transitions themselves — what triggers them?
+- [x] Spatial isolation: subpopulations develop dialects (partial — needs richer signal space)
+- [ ] Expand to 8+ signals and finer contexts for more divergence room
+- [ ] Spatial indexing (grid cells) to handle n>100 without O(n²)
+- [x] Study the phase transitions — mapped full pressure gradient, found Langton's lambda analog
+- [ ] Add population density as second axis on phase diagram
 - [ ] Tune predator to drive danger signals without collapsing population
 - [ ] Visualize the actual vocabulary that emerges
 

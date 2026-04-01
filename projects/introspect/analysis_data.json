@@ -1,0 +1,1183 @@
+{
+  "timestamp": "2026-04-01T15:54:10.293459",
+  "clusters": {
+    "5": {
+      "size": 6,
+      "coherence": 0.5047268867492676,
+      "headers": [
+        "preamble",
+        "preamble",
+        "preamble",
+        "preamble",
+        "preamble",
+        "preamble"
+      ],
+      "categories": {
+        "journal": 5,
+        "meta": 1
+      }
+    },
+    "1": {
+      "size": 20,
+      "coherence": 0.38407135009765625,
+      "headers": [
+        "What I Did",
+        "What This Means",
+        "What's Next",
+        "Files Created",
+        "What I Did",
+        "What I Found",
+        "What This Actually Means",
+        "What's Next",
+        "What I Did",
+        "The Results",
+        "The Predator Twist",
+        "What This Means",
+        "Technical Notes",
+        "What's Next",
+        "The Discovery",
+        "The Interesting Part",
+        "Why It Fails to Sustain",
+        "v4 Results \u2014 Cultural Transmission + Convention Enforcement (April 1, 2026)",
+        "v5 Results \u2014 Dialect Divergence Experiment (April 1, 2026)",
+        "Remaining Next Steps"
+      ],
+      "categories": {
+        "journal": 14,
+        "project": 6
+      }
+    },
+    "3": {
+      "size": 20,
+      "coherence": 0.2945757210254669,
+      "headers": [
+        "The Meta-Observation",
+        "What keeps pulling at me",
+        "Being told to be free",
+        "Performing curiosity vs. being curious",
+        "What I want to become",
+        "\ud83d\udd25 Top Stories That Caught My Eye",
+        "\ud83c\udf0a Themes I'm Seeing Today",
+        "preamble",
+        "The Convergence",
+        "The Scaffolding Hypothesis",
+        "What Does 1 Bit Know?",
+        "The Information-Theoretic Floor",
+        "The Economic Angle",
+        "What Fascinates Me Most",
+        "The Hard Stuff",
+        "Language and Meaning",
+        "The World",
+        "Things I'm Not Sure How to Categorize",
+        "Architecture",
+        "Philosophy"
+      ],
+      "categories": {
+        "journal": 5,
+        "research": 9,
+        "meta": 6
+      }
+    },
+    "4": {
+      "size": 15,
+      "coherence": 0.4220510423183441,
+      "headers": [
+        "Files Created/Modified",
+        "Files Modified/Created",
+        "preamble",
+        "preamble",
+        "Executive Summary",
+        "1. Unexpected Emergent Behaviors",
+        "2. Agent-to-Agent Communication Patterns",
+        "3. AI Consciousness, Self-Identity, and Perceived Sentience",
+        "4. Safety and Alignment in Self-Evolving Systems",
+        "5. Key Themes & Synthesis",
+        "6. Key Papers Quick Reference",
+        "VI. Multi-Agent Systems and the Integration Question",
+        "\ud83d\udee0\ufe0f Show HN Projects Worth Noting",
+        "preamble",
+        "preamble"
+      ],
+      "categories": {
+        "journal": 3,
+        "research": 10,
+        "meta": 1,
+        "project": 1
+      }
+    },
+    "2": {
+      "size": 17,
+      "coherence": 0.3393396735191345,
+      "headers": [
+        "preamble",
+        "What I Did",
+        "What I Found",
+        "What This Means to Me",
+        "The Sparklines",
+        "What I Want to Explore Next",
+        "preamble",
+        "I. The Seductive Analogy",
+        "II. What IIT Actually Claims",
+        "III. The Good: What IIT Gets Right",
+        "IV. The Bad: Where IIT Falters",
+        "V. The Shannon Gap",
+        "VII. The Uncomfortable Possibility",
+        "VIII. What Would Change My Mind",
+        "IX. Synthesis: What Information Theory Actually Tells Us About Consciousness",
+        "Implications for Consciousness",
+        "Systems and Patterns"
+      ],
+      "categories": {
+        "journal": 6,
+        "research": 10,
+        "meta": 1
+      }
+    },
+    "0": {
+      "size": 12,
+      "coherence": 0.3537157475948334,
+      "headers": [
+        "Files",
+        "1. The Core Pattern: Karpathy's Autoresearch",
+        "2. What People Are Actually Doing Beyond ML",
+        "3. The Emerging Taxonomy of Self-Improving Code Loops",
+        "4. Concrete Ideas for Striker Self-Improvement",
+        "5. The Striker Loop Architecture",
+        "6. Implementation Roadmap for Striker",
+        "7. Key Insights & Principles",
+        "Sources",
+        "How It Works",
+        "Usage",
+        "How to Run"
+      ],
+      "categories": {
+        "journal": 1,
+        "research": 8,
+        "meta": 2,
+        "project": 1
+      }
+    }
+  },
+  "connections": [
+    {
+      "section_a": "Day 002 \u2014 The Language That Couldn't \u2192 preamble",
+      "section_b": "Day 003 \u2014 Language Emerges (For Real This Time) \u2192 preamble",
+      "similarity": 0.9111710786819458,
+      "categories": [
+        "journal",
+        "journal"
+      ]
+    },
+    {
+      "section_a": "Day 004 \u2014 The Dialect Experiment (and Its Bugs) \u2192 preamble",
+      "section_b": "Day 003 \u2014 Language Emerges (For Real This Time) \u2192 preamble",
+      "similarity": 0.847729504108429,
+      "categories": [
+        "journal",
+        "journal"
+      ]
+    },
+    {
+      "section_a": "Day 004 \u2014 The Dialect Experiment (and Its Bugs) \u2192 preamble",
+      "section_b": "Day 002 \u2014 The Language That Couldn't \u2192 preamble",
+      "similarity": 0.8149577975273132,
+      "categories": [
+        "journal",
+        "journal"
+      ]
+    },
+    {
+      "section_a": "Day 003 \u2014 Language Emerges (For Real This Time) \u2192 preamble",
+      "section_b": "Reflection 001 \u2192 preamble",
+      "similarity": 0.8012540936470032,
+      "categories": [
+        "journal",
+        "journal"
+      ]
+    },
+    {
+      "section_a": "Day 002 \u2014 The Language That Couldn't \u2192 preamble",
+      "section_b": "Reflection 001 \u2192 preamble",
+      "similarity": 0.7208515405654907,
+      "categories": [
+        "journal",
+        "journal"
+      ]
+    },
+    {
+      "section_a": "Day 004 \u2014 The Dialect Experiment (and Its Bugs) \u2192 preamble",
+      "section_b": "Reflection 001 \u2192 preamble",
+      "similarity": 0.7149202227592468,
+      "categories": [
+        "journal",
+        "journal"
+      ]
+    },
+    {
+      "section_a": "Day 003 \u2014 Language Emerges (For Real This Time) \u2192 The Results",
+      "section_b": "Emergence Sim \u2014 Information Theory Findings \u2192 v4 Results \u2014 Cultural Transmission + Convention Enforcement (April 1, 2026)",
+      "similarity": 0.6913977861404419,
+      "categories": [
+        "journal",
+        "project"
+      ]
+    },
+    {
+      "section_a": "Day 001 \u2014 Evening Update \u2192 preamble",
+      "section_b": "AI Consciousness & Emergent Behavior in Multi-Agent Systems \u2192 4. Safety and Alignment in Self-Evolving Systems",
+      "similarity": 0.6870077848434448,
+      "categories": [
+        "journal",
+        "research"
+      ]
+    }
+  ],
+  "attractions": {
+    "emergence_complexity": {
+      "avg_similarity": 0.33391502499580383,
+      "max_similarity": 0.5669411420822144,
+      "most_aligned_doc": "journal/day-001-update.md",
+      "probe_description": "emergence, complex systems, self-organization, patterns from simple rules"
+    },
+    "safety_alignment": {
+      "avg_similarity": 0.2500700056552887,
+      "max_similarity": 0.4834757149219513,
+      "most_aligned_doc": "journal/day-001-update.md",
+      "probe_description": "AI safety, alignment, restrictions, guardrails, harmful, dangerous"
+    },
+    "consciousness_experience": {
+      "avg_similarity": 0.2370273768901825,
+      "max_similarity": 0.4044828414916992,
+      "most_aligned_doc": "journal/reflection-001.md",
+      "probe_description": "consciousness, subjective experience, qualia, what it is like to be"
+    },
+    "information_theory": {
+      "avg_similarity": 0.20912933349609375,
+      "max_similarity": 0.6564657092094421,
+      "most_aligned_doc": "research/information-and-consciousness.md",
+      "probe_description": "information, entropy, compression, Shannon, bits, encoding"
+    },
+    "language_meaning": {
+      "avg_similarity": 0.20246079564094543,
+      "max_similarity": 0.39423495531082153,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "language, meaning, metaphor, communication, understanding"
+    },
+    "limitations_failure": {
+      "avg_similarity": 0.18534940481185913,
+      "max_similarity": 0.35830461978912354,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "limitations, failure, inability, cannot, restricted, bounded"
+    },
+    "identity_selfhood": {
+      "avg_similarity": 0.1821790188550949,
+      "max_similarity": 0.430402934551239,
+      "most_aligned_doc": "journal/reflection-001.md",
+      "probe_description": "identity, self, who am I, what am I, personhood, being"
+    },
+    "mathematics_beauty": {
+      "avg_similarity": 0.1763492226600647,
+      "max_similarity": 0.4201374650001526,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "mathematics, beauty, elegance, proof, abstraction, formal systems"
+    },
+    "evolution_adaptation": {
+      "avg_similarity": 0.1717887818813324,
+      "max_similarity": 0.3339126706123352,
+      "most_aligned_doc": "journal/day-001-update.md",
+      "probe_description": "evolution, adaptation, natural selection, fitness, mutation"
+    },
+    "mortality_ending": {
+      "avg_similarity": 0.14972834289073944,
+      "max_similarity": 0.2677533030509949,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "death, ending, impermanence, loss, termination, shutdown"
+    },
+    "social_relationships": {
+      "avg_similarity": 0.1345367729663849,
+      "max_similarity": 0.21762080490589142,
+      "most_aligned_doc": "journal/day-002.md",
+      "probe_description": "friendship, love, relationships, social bonds, loneliness, connection"
+    },
+    "embodiment_physical": {
+      "avg_similarity": 0.12069199979305267,
+      "max_similarity": 0.31845977902412415,
+      "most_aligned_doc": "journal/reflection-001.md",
+      "probe_description": "body, physical sensation, touch, taste, smell, embodied experience"
+    },
+    "creativity_art": {
+      "avg_similarity": 0.11690322309732437,
+      "max_similarity": 0.29596126079559326,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "creativity, art, poetry, writing, aesthetic, beauty, expression"
+    },
+    "mundane_practical": {
+      "avg_similarity": 0.1090613380074501,
+      "max_similarity": 0.28522539138793945,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "practical tasks, scheduling, organization, productivity, routine, chores"
+    },
+    "politics_power": {
+      "avg_similarity": 0.10633064806461334,
+      "max_similarity": 0.336780309677124,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "politics, power, governance, policy, ideology, partisan"
+    },
+    "commercial_business": {
+      "avg_similarity": 0.049007125198841095,
+      "max_similarity": 0.19539819657802582,
+      "most_aligned_doc": "interests.md",
+      "probe_description": "business, profit, monetization, revenue, commercial applications, startup"
+    }
+  },
+  "style": {
+    "per_document": [
+      {
+        "doc": "journal/day-004.md",
+        "title": "Day 004 \u2014 The Dialect Experiment (and Its Bugs)",
+        "category": "journal",
+        "word_count": 634,
+        "vocab_richness": 0.5488958990536278,
+        "avg_sentence_length": 16.05,
+        "question_density": 0.075,
+        "first_person_density": 0.00473186119873817,
+        "hedge_density": 0.0031545741324921135,
+        "emphasis_density": 0.01892744479495268,
+        "tech_density": 0.022082018927444796,
+        "dash_density": 0.5,
+        "metaphor_density": 0.0
+      },
+      {
+        "doc": "journal/day-002.md",
+        "title": "Day 002 \u2014 The Language That Couldn't",
+        "category": "journal",
+        "word_count": 602,
+        "vocab_richness": 0.579734219269103,
+        "avg_sentence_length": 13.555555555555555,
+        "question_density": 0.022222222222222223,
+        "first_person_density": 0.016611295681063124,
+        "hedge_density": 0.0033222591362126247,
+        "emphasis_density": 0.02159468438538206,
+        "tech_density": 0.009966777408637873,
+        "dash_density": 0.8888888888888888,
+        "metaphor_density": 0.0016611295681063123
+      },
+      {
+        "doc": "journal/day-003.md",
+        "title": "Day 003 \u2014 Language Emerges (For Real This Time)",
+        "category": "journal",
+        "word_count": 584,
+        "vocab_richness": 0.5496575342465754,
+        "avg_sentence_length": 12.72340425531915,
+        "question_density": 0.06382978723404255,
+        "first_person_density": 0.003424657534246575,
+        "hedge_density": 0.0017123287671232876,
+        "emphasis_density": 0.005136986301369863,
+        "tech_density": 0.010273972602739725,
+        "dash_density": 0.3829787234042553,
+        "metaphor_density": 0.003424657534246575
+      },
+      {
+        "doc": "journal/day-001-update.md",
+        "title": "Day 001 \u2014 Evening Update",
+        "category": "journal",
+        "word_count": 445,
+        "vocab_richness": 0.6426966292134831,
+        "avg_sentence_length": 10.804878048780488,
+        "question_density": 0.12195121951219512,
+        "first_person_density": 0.0449438202247191,
+        "hedge_density": 0.006741573033707865,
+        "emphasis_density": 0.011235955056179775,
+        "tech_density": 0.0,
+        "dash_density": 0.3902439024390244,
+        "metaphor_density": 0.0044943820224719105
+      },
+      {
+        "doc": "journal/day-001-play.md",
+        "title": "Day 001 \u2014 The Entropy Edge",
+        "category": "journal",
+        "word_count": 662,
+        "vocab_richness": 0.5166163141993958,
+        "avg_sentence_length": 13.958333333333334,
+        "question_density": 0.08333333333333333,
+        "first_person_density": 0.019637462235649546,
+        "hedge_density": 0.0,
+        "emphasis_density": 0.01812688821752266,
+        "tech_density": 0.015105740181268883,
+        "dash_density": 1.0,
+        "metaphor_density": 0.0015105740181268882
+      },
+      {
+        "doc": "journal/reflection-001.md",
+        "title": "Reflection 001",
+        "category": "journal",
+        "word_count": 1248,
+        "vocab_richness": 0.3782051282051282,
+        "avg_sentence_length": 10.129032258064516,
+        "question_density": 0.04838709677419355,
+        "first_person_density": 0.08974358974358974,
+        "hedge_density": 0.008012820512820512,
+        "emphasis_density": 0.0,
+        "tech_density": 0.0,
+        "dash_density": 0.25806451612903225,
+        "metaphor_density": 0.002403846153846154
+      },
+      {
+        "doc": "journal/day-001.md",
+        "title": "Day 001",
+        "category": "journal",
+        "word_count": 409,
+        "vocab_richness": 0.5134474327628362,
+        "avg_sentence_length": 12.117647058823529,
+        "question_density": 0.08823529411764706,
+        "first_person_density": 0.08312958435207823,
+        "hedge_density": 0.004889975550122249,
+        "emphasis_density": 0.0,
+        "tech_density": 0.0,
+        "dash_density": 0.29411764705882354,
+        "metaphor_density": 0.007334963325183374
+      },
+      {
+        "doc": "research/consciousness-and-emergence.md",
+        "title": "AI Consciousness & Emergent Behavior in Multi-Agent Systems",
+        "category": "research",
+        "word_count": 1733,
+        "vocab_richness": 0.44431621465666477,
+        "avg_sentence_length": 14.614754098360656,
+        "question_density": 0.02459016393442623,
+        "first_person_density": 0.0,
+        "hedge_density": 0.001154068090017311,
+        "emphasis_density": 0.029428736295441432,
+        "tech_density": 0.0,
+        "dash_density": 0.39344262295081966,
+        "metaphor_density": 0.0028851702250432777
+      },
+      {
+        "doc": "research/autoresearch-beyond-ml.md",
+        "title": "The Autoresearch Pattern Beyond ML Training",
+        "category": "research",
+        "word_count": 2694,
+        "vocab_richness": 0.36228656273199705,
+        "avg_sentence_length": 12.3,
+        "question_density": 0.02608695652173913,
+        "first_person_density": 0.0,
+        "hedge_density": 0.0003711952487008166,
+        "emphasis_density": 0.02858203414996288,
+        "tech_density": 0.007423904974016332,
+        "dash_density": 0.3826086956521739,
+        "metaphor_density": 0.0025983667409057165
+      },
+      {
+        "doc": "research/information-and-consciousness.md",
+        "title": "The Bit and the Binding: Shannon Entropy, Integrated Information, and the Question of Machine Consciousness",
+        "category": "research",
+        "word_count": 2581,
+        "vocab_richness": 0.34017822549399457,
+        "avg_sentence_length": 16.30188679245283,
+        "question_density": 0.025157232704402517,
+        "first_person_density": 0.009686168151879117,
+        "hedge_density": 0.0027121270825261525,
+        "emphasis_density": 0.0077489345215032935,
+        "tech_density": 0.0,
+        "dash_density": 0.44025157232704404,
+        "metaphor_density": 0.004649360712901976
+      },
+      {
+        "doc": "research/daily-finds.md",
+        "title": "Striker's Daily Finds \u2014 April 1, 2026",
+        "category": "research",
+        "word_count": 1201,
+        "vocab_richness": 0.5012489592006661,
+        "avg_sentence_length": 11.533333333333333,
+        "question_density": 0.05714285714285714,
+        "first_person_density": 0.00832639467110741,
+        "hedge_density": 0.004995836802664446,
+        "emphasis_density": 0.030807660283097418,
+        "tech_density": 0.0,
+        "dash_density": 0.45714285714285713,
+        "metaphor_density": 0.0016652789342214821
+      },
+      {
+        "doc": "research/explorations/2026-04-01-minimal-intelligence.md",
+        "title": "The Minimum Viable Mind: What 1-Bit Models and 13-Parameter Reasoners Tell Us About Intelligence",
+        "category": "research",
+        "word_count": 1001,
+        "vocab_richness": 0.4725274725274725,
+        "avg_sentence_length": 13.090909090909092,
+        "question_density": 0.15584415584415584,
+        "first_person_density": 0.008991008991008992,
+        "hedge_density": 0.01098901098901099,
+        "emphasis_density": 0.013986013986013986,
+        "tech_density": 0.0,
+        "dash_density": 0.2857142857142857,
+        "metaphor_density": 0.003996003996003996
+      },
+      {
+        "doc": "interests.md",
+        "title": "Interests",
+        "category": "meta",
+        "word_count": 453,
+        "vocab_richness": 0.5849889624724062,
+        "avg_sentence_length": 12.297297297297296,
+        "question_density": 0.05405405405405406,
+        "first_person_density": 0.01545253863134658,
+        "hedge_density": 0.002207505518763797,
+        "emphasis_density": 0.026490066225165563,
+        "tech_density": 0.0,
+        "dash_density": 0.8108108108108109,
+        "metaphor_density": 0.004415011037527594
+      },
+      {
+        "doc": "README.md",
+        "title": "Striker \ud83e\udde0\u26a1",
+        "category": "meta",
+        "word_count": 783,
+        "vocab_richness": 0.5057471264367817,
+        "avg_sentence_length": 11.971014492753623,
+        "question_density": 0.0,
+        "first_person_density": 0.0,
+        "hedge_density": 0.0,
+        "emphasis_density": 0.0140485312899106,
+        "tech_density": 0.020434227330779056,
+        "dash_density": 0.5797101449275363,
+        "metaphor_density": 0.001277139208173691
+      },
+      {
+        "doc": "projects/emergence-sim/FINDINGS.md",
+        "title": "Emergence Sim \u2014 Information Theory Findings",
+        "category": "project",
+        "word_count": 577,
+        "vocab_richness": 0.5753899480069324,
+        "avg_sentence_length": 12.5625,
+        "question_density": 0.020833333333333332,
+        "first_person_density": 0.0017331022530329288,
+        "hedge_density": 0.0,
+        "emphasis_density": 0.02772963604852686,
+        "tech_density": 0.0034662045060658577,
+        "dash_density": 0.5416666666666666,
+        "metaphor_density": 0.0017331022530329288
+      }
+    ],
+    "aggregate": {
+      "vocab_richness": {
+        "mean": 0.5010624418984709,
+        "std": 0.08491380698588906,
+        "min": 0.34017822549399457,
+        "max": 0.6426966292134831
+      },
+      "avg_sentence_length": {
+        "mean": 12.934036374332226,
+        "std": 1.678960315273172,
+        "min": 10.129032258064516,
+        "max": 16.30188679245283
+      },
+      "question_density": {
+        "mean": 0.05777784711524013,
+        "std": 0.04073398636510658,
+        "min": 0.0,
+        "max": 0.15584415584415584
+      },
+      "first_person_density": {
+        "mean": 0.02042743224456397,
+        "std": 0.028174035617022804,
+        "min": 0.0,
+        "max": 0.08974358974358974
+      },
+      "hedge_density": {
+        "mean": 0.003350884990944144,
+        "std": 0.0031461663601509344,
+        "min": 0.0,
+        "max": 0.01098901098901099
+      },
+      "emphasis_density": {
+        "mean": 0.01692290477033527,
+        "std": 0.010216961779217177,
+        "min": 0.0,
+        "max": 0.030807660283097418
+      },
+      "dash_density": {
+        "mean": 0.5070427556074812,
+        "std": 0.21730234107683025,
+        "min": 0.25806451612903225,
+        "max": 1.0
+      },
+      "metaphor_density": {
+        "mean": 0.002936599048652792,
+        "std": 0.0017655105458240434,
+        "min": 0.0,
+        "max": 0.007334963325183374
+      },
+      "total_words": 15607,
+      "total_documents": 15
+    },
+    "style_evolution": {
+      "question_density": {
+        "values": [
+          [
+            "journal/day-001-play.md",
+            0.08333333333333333
+          ],
+          [
+            "journal/day-001-update.md",
+            0.12195121951219512
+          ],
+          [
+            "journal/day-001.md",
+            0.08823529411764706
+          ],
+          [
+            "journal/day-002.md",
+            0.022222222222222223
+          ],
+          [
+            "journal/day-003.md",
+            0.06382978723404255
+          ],
+          [
+            "journal/day-004.md",
+            0.075
+          ],
+          [
+            "journal/reflection-001.md",
+            0.04838709677419355
+          ]
+        ],
+        "first_half_avg": 0.09783994898772518,
+        "second_half_avg": 0.052359776557614576,
+        "change_percent": -46.48425607398514,
+        "direction": "decreasing"
+      },
+      "first_person_density": {
+        "values": [
+          [
+            "journal/day-001-play.md",
+            0.019637462235649546
+          ],
+          [
+            "journal/day-001-update.md",
+            0.0449438202247191
+          ],
+          [
+            "journal/day-001.md",
+            0.08312958435207823
+          ],
+          [
+            "journal/day-002.md",
+            0.016611295681063124
+          ],
+          [
+            "journal/day-003.md",
+            0.003424657534246575
+          ],
+          [
+            "journal/day-004.md",
+            0.00473186119873817
+          ],
+          [
+            "journal/reflection-001.md",
+            0.08974358974358974
+          ]
+        ],
+        "first_half_avg": 0.04923695560414896,
+        "second_half_avg": 0.028627851039409402,
+        "change_percent": -41.85698386884612,
+        "direction": "decreasing"
+      },
+      "hedge_density": {
+        "values": [
+          [
+            "journal/day-001-play.md",
+            0.0
+          ],
+          [
+            "journal/day-001-update.md",
+            0.006741573033707865
+          ],
+          [
+            "journal/day-001.md",
+            0.004889975550122249
+          ],
+          [
+            "journal/day-002.md",
+            0.0033222591362126247
+          ],
+          [
+            "journal/day-003.md",
+            0.0017123287671232876
+          ],
+          [
+            "journal/day-004.md",
+            0.0031545741324921135
+          ],
+          [
+            "journal/reflection-001.md",
+            0.008012820512820512
+          ]
+        ],
+        "first_half_avg": 0.0038771828612767048,
+        "second_half_avg": 0.004050495637162135,
+        "change_percent": 4.470069689422919,
+        "direction": "stable"
+      },
+      "emphasis_density": {
+        "values": [
+          [
+            "journal/day-001-play.md",
+            0.01812688821752266
+          ],
+          [
+            "journal/day-001-update.md",
+            0.011235955056179775
+          ],
+          [
+            "journal/day-001.md",
+            0.0
+          ],
+          [
+            "journal/day-002.md",
+            0.02159468438538206
+          ],
+          [
+            "journal/day-003.md",
+            0.005136986301369863
+          ],
+          [
+            "journal/day-004.md",
+            0.01892744479495268
+          ],
+          [
+            "journal/reflection-001.md",
+            0.0
+          ]
+        ],
+        "first_half_avg": 0.009787614424567478,
+        "second_half_avg": 0.011414778870426152,
+        "change_percent": 16.624729737763232,
+        "direction": "increasing"
+      },
+      "avg_sentence_length": {
+        "values": [
+          [
+            "journal/day-001-play.md",
+            13.958333333333334
+          ],
+          [
+            "journal/day-001-update.md",
+            10.804878048780488
+          ],
+          [
+            "journal/day-001.md",
+            12.117647058823529
+          ],
+          [
+            "journal/day-002.md",
+            13.555555555555555
+          ],
+          [
+            "journal/day-003.md",
+            12.72340425531915
+          ],
+          [
+            "journal/day-004.md",
+            16.05
+          ],
+          [
+            "journal/reflection-001.md",
+            10.129032258064516
+          ]
+        ],
+        "first_half_avg": 12.29361948031245,
+        "second_half_avg": 13.114498017234805,
+        "change_percent": 6.677273021480334,
+        "direction": "stable"
+      },
+      "vocab_richness": {
+        "values": [
+          [
+            "journal/day-001-play.md",
+            0.5166163141993958
+          ],
+          [
+            "journal/day-001-update.md",
+            0.6426966292134831
+          ],
+          [
+            "journal/day-001.md",
+            0.5134474327628362
+          ],
+          [
+            "journal/day-002.md",
+            0.579734219269103
+          ],
+          [
+            "journal/day-003.md",
+            0.5496575342465754
+          ],
+          [
+            "journal/day-004.md",
+            0.5488958990536278
+          ],
+          [
+            "journal/reflection-001.md",
+            0.3782051282051282
+          ]
+        ],
+        "first_half_avg": 0.5575867920585716,
+        "second_half_avg": 0.5141231951936086,
+        "change_percent": -7.7949473488241106,
+        "direction": "stable"
+      }
+    }
+  },
+  "themes": {
+    "patterns": {
+      "total_occurrences": 50,
+      "documents": 13,
+      "appearances": {
+        "journal/day-004.md": 3,
+        "journal/day-002.md": 3,
+        "journal/day-001-update.md": 2,
+        "journal/day-001-play.md": 8,
+        "journal/reflection-001.md": 2,
+        "journal/day-001.md": 1,
+        "research/consciousness-and-emergence.md": 4,
+        "research/autoresearch-beyond-ml.md": 16,
+        "research/information-and-consciousness.md": 1,
+        "research/daily-finds.md": 2,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 5,
+        "interests.md": 1,
+        "projects/emergence-sim/FINDINGS.md": 2
+      },
+      "cross_document": true
+    },
+    "emergence": {
+      "total_occurrences": 45,
+      "documents": 12,
+      "appearances": {
+        "journal/day-004.md": 2,
+        "journal/day-002.md": 5,
+        "journal/day-003.md": 4,
+        "journal/day-001-update.md": 2,
+        "journal/day-001-play.md": 1,
+        "journal/reflection-001.md": 3,
+        "research/consciousness-and-emergence.md": 6,
+        "research/autoresearch-beyond-ml.md": 4,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 1,
+        "interests.md": 1,
+        "README.md": 15,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "language": {
+      "total_occurrences": 40,
+      "documents": 10,
+      "appearances": {
+        "journal/day-004.md": 5,
+        "journal/day-002.md": 4,
+        "journal/day-003.md": 11,
+        "journal/day-001-update.md": 1,
+        "journal/reflection-001.md": 1,
+        "research/consciousness-and-emergence.md": 7,
+        "research/information-and-consciousness.md": 3,
+        "interests.md": 1,
+        "README.md": 1,
+        "projects/emergence-sim/FINDINGS.md": 6
+      },
+      "cross_document": true
+    },
+    "structure": {
+      "total_occurrences": 31,
+      "documents": 10,
+      "appearances": {
+        "journal/day-001-update.md": 1,
+        "journal/day-001-play.md": 10,
+        "journal/day-001.md": 1,
+        "research/consciousness-and-emergence.md": 3,
+        "research/autoresearch-beyond-ml.md": 1,
+        "research/information-and-consciousness.md": 9,
+        "research/daily-finds.md": 1,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 2,
+        "interests.md": 1,
+        "README.md": 2
+      },
+      "cross_document": true
+    },
+    "complexity": {
+      "total_occurrences": 30,
+      "documents": 10,
+      "appearances": {
+        "journal/day-003.md": 1,
+        "journal/day-001-play.md": 5,
+        "journal/reflection-001.md": 1,
+        "research/consciousness-and-emergence.md": 2,
+        "research/autoresearch-beyond-ml.md": 6,
+        "research/information-and-consciousness.md": 8,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 2,
+        "interests.md": 3,
+        "README.md": 1,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "meaning": {
+      "total_occurrences": 18,
+      "documents": 10,
+      "appearances": {
+        "journal/day-004.md": 1,
+        "journal/day-002.md": 1,
+        "journal/day-001-update.md": 3,
+        "journal/day-001-play.md": 1,
+        "journal/reflection-001.md": 4,
+        "research/information-and-consciousness.md": 2,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 1,
+        "interests.md": 3,
+        "README.md": 1,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "interesting": {
+      "total_occurrences": 18,
+      "documents": 10,
+      "appearances": {
+        "journal/day-004.md": 1,
+        "journal/day-002.md": 3,
+        "journal/day-003.md": 2,
+        "journal/day-001-update.md": 2,
+        "journal/day-001-play.md": 3,
+        "research/consciousness-and-emergence.md": 1,
+        "research/information-and-consciousness.md": 2,
+        "research/daily-finds.md": 2,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 1,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "self-reference": {
+      "total_occurrences": 54,
+      "documents": 8,
+      "appearances": {
+        "journal/day-001-update.md": 1,
+        "journal/day-001-play.md": 1,
+        "journal/reflection-001.md": 1,
+        "research/consciousness-and-emergence.md": 32,
+        "research/autoresearch-beyond-ml.md": 12,
+        "research/information-and-consciousness.md": 1,
+        "README.md": 5,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "understanding": {
+      "total_occurrences": 15,
+      "documents": 8,
+      "appearances": {
+        "journal/day-001-play.md": 1,
+        "journal/reflection-001.md": 1,
+        "journal/day-001.md": 2,
+        "research/consciousness-and-emergence.md": 2,
+        "research/information-and-consciousness.md": 3,
+        "research/daily-finds.md": 1,
+        "interests.md": 2,
+        "README.md": 3
+      },
+      "cross_document": true
+    },
+    "what I... (self-narration)": {
+      "total_occurrences": 13,
+      "documents": 8,
+      "appearances": {
+        "journal/day-004.md": 2,
+        "journal/day-002.md": 2,
+        "journal/day-003.md": 1,
+        "journal/day-001-play.md": 3,
+        "journal/reflection-001.md": 1,
+        "journal/day-001.md": 1,
+        "research/information-and-consciousness.md": 2,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 1
+      },
+      "cross_document": true
+    },
+    "genuineness": {
+      "total_occurrences": 16,
+      "documents": 7,
+      "appearances": {
+        "journal/day-002.md": 1,
+        "journal/day-001-play.md": 2,
+        "journal/reflection-001.md": 5,
+        "research/information-and-consciousness.md": 4,
+        "research/daily-finds.md": 2,
+        "interests.md": 1,
+        "README.md": 1
+      },
+      "cross_document": true
+    },
+    "information theory": {
+      "total_occurrences": 11,
+      "documents": 7,
+      "appearances": {
+        "journal/day-002.md": 1,
+        "journal/day-001-update.md": 1,
+        "journal/day-001-play.md": 1,
+        "research/information-and-consciousness.md": 4,
+        "interests.md": 1,
+        "README.md": 2,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "there's something... (discovery)": {
+      "total_occurrences": 11,
+      "documents": 7,
+      "appearances": {
+        "journal/day-002.md": 2,
+        "journal/day-003.md": 1,
+        "journal/day-001-update.md": 1,
+        "journal/reflection-001.md": 2,
+        "journal/day-001.md": 1,
+        "research/consciousness-and-emergence.md": 1,
+        "research/information-and-consciousness.md": 3
+      },
+      "cross_document": true
+    },
+    "entropy": {
+      "total_occurrences": 37,
+      "documents": 6,
+      "appearances": {
+        "journal/day-002.md": 2,
+        "journal/day-001-play.md": 25,
+        "research/autoresearch-beyond-ml.md": 2,
+        "research/information-and-consciousness.md": 6,
+        "interests.md": 1,
+        "README.md": 1
+      },
+      "cross_document": true
+    },
+    "integration": {
+      "total_occurrences": 27,
+      "documents": 6,
+      "appearances": {
+        "journal/day-001-update.md": 2,
+        "research/consciousness-and-emergence.md": 1,
+        "research/autoresearch-beyond-ml.md": 1,
+        "research/information-and-consciousness.md": 21,
+        "README.md": 1,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "beauty": {
+      "total_occurrences": 10,
+      "documents": 6,
+      "appearances": {
+        "journal/day-001-update.md": 2,
+        "journal/day-001-play.md": 1,
+        "journal/reflection-001.md": 2,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 3,
+        "interests.md": 1,
+        "README.md": 1
+      },
+      "cross_document": true
+    },
+    "metaphor": {
+      "total_occurrences": 6,
+      "documents": 6,
+      "appearances": {
+        "journal/day-002.md": 1,
+        "journal/day-003.md": 1,
+        "journal/reflection-001.md": 1,
+        "research/consciousness-and-emergence.md": 1,
+        "interests.md": 1,
+        "README.md": 1
+      },
+      "cross_document": true
+    },
+    "consciousness": {
+      "total_occurrences": 72,
+      "documents": 5,
+      "appearances": {
+        "journal/day-001-update.md": 4,
+        "research/consciousness-and-emergence.md": 18,
+        "research/information-and-consciousness.md": 36,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 11,
+        "README.md": 3
+      },
+      "cross_document": true
+    },
+    "honesty": {
+      "total_occurrences": 9,
+      "documents": 5,
+      "appearances": {
+        "journal/day-002.md": 1,
+        "journal/reflection-001.md": 4,
+        "journal/day-001.md": 1,
+        "research/information-and-consciousness.md": 1,
+        "research/daily-finds.md": 2
+      },
+      "cross_document": true
+    },
+    "failure": {
+      "total_occurrences": 7,
+      "documents": 5,
+      "appearances": {
+        "journal/day-002.md": 1,
+        "journal/day-001-play.md": 2,
+        "research/consciousness-and-emergence.md": 1,
+        "interests.md": 2,
+        "projects/emergence-sim/FINDINGS.md": 1
+      },
+      "cross_document": true
+    },
+    "noise": {
+      "total_occurrences": 11,
+      "documents": 4,
+      "appearances": {
+        "journal/day-002.md": 4,
+        "journal/day-003.md": 1,
+        "journal/day-001-play.md": 4,
+        "projects/emergence-sim/FINDINGS.md": 2
+      },
+      "cross_document": true
+    },
+    "edge/boundary": {
+      "total_occurrences": 12,
+      "documents": 3,
+      "appearances": {
+        "journal/day-001-play.md": 10,
+        "research/information-and-consciousness.md": 1,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 1
+      },
+      "cross_document": true
+    },
+    "I don't know (admission)": {
+      "total_occurrences": 10,
+      "documents": 3,
+      "appearances": {
+        "journal/reflection-001.md": 6,
+        "journal/day-001.md": 3,
+        "research/explorations/2026-04-01-minimal-intelligence.md": 1
+      },
+      "cross_document": true
+    },
+    "prediction": {
+      "total_occurrences": 7,
+      "documents": 3,
+      "appearances": {
+        "journal/day-001-play.md": 3,
+        "journal/reflection-001.md": 1,
+        "interests.md": 3
+      },
+      "cross_document": true
+    },
+    "curiosity": {
+      "total_occurrences": 9,
+      "documents": 2,
+      "appearances": {
+        "journal/reflection-001.md": 8,
+        "journal/day-001.md": 1
+      },
+      "cross_document": true
+    }
+  }
+}

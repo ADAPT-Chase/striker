@@ -33,6 +33,7 @@ import argparse
 from dataclasses import dataclass, field
 from collections import defaultdict
 from datetime import datetime
+from spatial_grid import SpatialGrid
 
 # ── Constants ──────────────────────────────────────────────────────────
 WIDTH = 120
@@ -384,6 +385,8 @@ class Simulation:
         self.logger = EmergenceLogger()
         self.signal_meaning_map = {}  # signal -> detected meaning
         self.use_seasons = use_seasons
+        # Spatial index — cell size covers the largest query radius (cultural=12)
+        self._grid = SpatialGrid(WIDTH, HEIGHT, cell_size=13.0)
         self.current_season = 0       # 0=spring, 1=summer, 2=autumn, 3=winter
         self.season_tick = 0
         self.max_generation = 0
@@ -598,9 +601,15 @@ class Simulation:
         # Pre-compute nearby signals for each agent
         signal_map = [(a, a.current_signal) for a in self.agents if a.current_signal >= 0]
 
+        # Rebuild spatial index for this tick
+        self._grid.rebuild(self.agents)
+
         # Calculate forces for each agent
         new_velocities = []
         energy_deltas = []
+
+        # Max radius needed: max(COHESION_RADIUS, SIGNAL_RANGE)
+        _max_radius = max(COHESION_RADIUS, SIGNAL_RANGE)
 
         for a in self.agents:
             sep_x, sep_y, sep_count = 0, 0, 0
@@ -609,10 +618,10 @@ class Simulation:
             neighbors = 0
             nearby_signals = []
 
-            for b in self.agents:
-                if a is b:
+            # Use spatial grid instead of O(n) scan of all agents
+            for b, d in self._grid.query_radius(a.x, a.y, _max_radius):
+                if b is a:
                     continue
-                d = self._dist(a, b)
 
                 if d < SEPARATION_RADIUS and d > 0.01:
                     dx = self._diff_wrapped(b.x, a.x, WIDTH)
@@ -747,11 +756,10 @@ class Simulation:
                     # Key mechanism: reward nearby signalers who were broadcasting when
                     # this agent found food. This creates SENDER fitness pressure —
                     # agents whose food signals lead others to food get rewarded.
-                    for b in self.agents:
+                    for b, d in self._grid.query_radius(a.x, a.y, SIGNAL_RANGE):
                         if b is a:
                             continue
-                        d = self._dist(a, b)
-                        if d < SIGNAL_RANGE and b.current_signal >= 0:
+                        if b.current_signal >= 0:
                             # The sender gets rewarded if their signal helped
                             b.energy += LISTENER_REWARD * 0.5  # sender gets half
                             self._reinforce_signal(b, 2.0)     # strong reinforcement
@@ -940,14 +948,8 @@ class Simulation:
             if random.random() > CULTURAL_RATE:
                 continue
             
-            # Find neighbors within cultural radius
-            neighbors = []
-            for other in self.agents:
-                if other is agent:
-                    continue
-                d = self._dist(agent, other)
-                if d < CULTURAL_RADIUS:
-                    neighbors.append(other)
+            # Find neighbors within cultural radius (using spatial grid)
+            neighbors = [other for other, d in self._grid.query_radius(agent.x, agent.y, CULTURAL_RADIUS) if other is not agent]
             
             if not neighbors:
                 continue
@@ -1001,11 +1003,8 @@ class Simulation:
             if agent.current_signal < 0:
                 continue
             
-            for other in self.agents:
+            for other, d in self._grid.query_radius(agent.x, agent.y, SIGNAL_RANGE):
                 if other is agent or other.current_signal < 0:
-                    continue
-                d = self._dist(agent, other)
-                if d > SIGNAL_RANGE:
                     continue
                 
                 # Both agents are signaling within range
