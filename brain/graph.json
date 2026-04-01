@@ -1,0 +1,584 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "created": "2026-04-01T11:47:43.276532",
+      "type": "concept",
+      "id": "emergence"
+    },
+    {
+      "created": "2026-04-01T11:47:43.276760",
+      "type": "concept",
+      "id": "complex systems phenomenon"
+    },
+    {
+      "created": "2026-04-01T11:47:43.279168",
+      "type": "concept",
+      "id": "simple rules"
+    },
+    {
+      "created": "2026-04-01T11:47:43.281364",
+      "type": "concept",
+      "id": "unexpected patterns"
+    },
+    {
+      "created": "2026-04-01T11:47:43.283680",
+      "type": "concept",
+      "id": "consciousness"
+    },
+    {
+      "created": "2026-04-01T11:47:43.283861",
+      "type": "concept",
+      "id": "integrated information"
+    },
+    {
+      "created": "2026-04-01T11:47:43.288076",
+      "type": "concept",
+      "id": "iit"
+    },
+    {
+      "created": "2026-04-01T11:47:43.288263",
+      "type": "concept",
+      "id": "consciousness theory"
+    },
+    {
+      "created": "2026-04-01T11:47:43.290981",
+      "type": "concept",
+      "id": "phi measure"
+    },
+    {
+      "created": "2026-04-01T11:47:43.293259",
+      "type": "concept",
+      "id": "phi"
+    },
+    {
+      "created": "2026-04-01T11:47:43.295592",
+      "type": "concept",
+      "id": "multi-agent systems"
+    },
+    {
+      "created": "2026-04-01T11:47:43.298092",
+      "type": "concept",
+      "id": "communication"
+    },
+    {
+      "created": "2026-04-01T11:47:43.300507",
+      "type": "concept",
+      "id": "coordination"
+    },
+    {
+      "created": "2026-04-01T11:47:43.302704",
+      "type": "concept",
+      "id": "collective behavior"
+    },
+    {
+      "created": "2026-04-01T11:47:43.305089",
+      "type": "concept",
+      "id": "flocking"
+    },
+    {
+      "created": "2026-04-01T11:47:43.305359",
+      "type": "concept",
+      "id": "emergent behavior"
+    },
+    {
+      "created": "2026-04-01T11:47:43.309706",
+      "type": "concept",
+      "id": "signal evolution"
+    },
+    {
+      "created": "2026-04-01T11:47:43.312120",
+      "type": "concept",
+      "id": "emergent communication"
+    },
+    {
+      "created": "2026-04-01T11:47:43.314673",
+      "type": "concept",
+      "id": "emergence simulator"
+    },
+    {
+      "created": "2026-04-01T11:47:43.317130",
+      "type": "concept",
+      "id": "striker project"
+    },
+    {
+      "created": "2026-04-01T11:47:43.319583",
+      "type": "concept",
+      "id": "poetry engine"
+    },
+    {
+      "created": "2026-04-01T11:47:43.322715",
+      "type": "concept",
+      "id": "mathematical constraints"
+    },
+    {
+      "created": "2026-04-01T11:47:43.325073",
+      "type": "concept",
+      "id": "accidental meaning"
+    },
+    {
+      "created": "2026-04-01T11:47:43.327368",
+      "type": "concept",
+      "id": "karpathy loop"
+    },
+    {
+      "created": "2026-04-01T11:47:43.327722",
+      "type": "concept",
+      "id": "self-improvement pattern"
+    },
+    {
+      "created": "2026-04-01T11:47:43.330503",
+      "type": "concept",
+      "id": "autonomous experimentation"
+    },
+    {
+      "created": "2026-04-01T11:47:43.333240",
+      "type": "concept",
+      "id": "autoresearch"
+    },
+    {
+      "created": "2026-04-01T11:47:43.336109",
+      "type": "concept",
+      "id": "training code"
+    },
+    {
+      "created": "2026-04-01T11:47:43.338704",
+      "type": "concept",
+      "id": "striker loop"
+    },
+    {
+      "created": "2026-04-01T11:47:43.341650",
+      "type": "concept",
+      "id": "agent behavior"
+    },
+    {
+      "created": "2026-04-01T11:47:43.344030",
+      "type": "concept",
+      "id": "1-bit models"
+    },
+    {
+      "created": "2026-04-01T11:47:43.344453",
+      "type": "concept",
+      "id": "intelligence compression"
+    },
+    {
+      "created": "2026-04-01T11:47:43.347161",
+      "type": "concept",
+      "id": "scaling hypothesis"
+    },
+    {
+      "created": "2026-04-01T11:47:43.349636",
+      "type": "concept",
+      "id": "tinylora"
+    },
+    {
+      "created": "2026-04-01T11:47:43.350044",
+      "type": "concept",
+      "id": "reasoning in 13 parameters"
+    },
+    {
+      "created": "2026-04-01T11:47:43.352636",
+      "type": "concept",
+      "id": "shannon entropy"
+    },
+    {
+      "created": "2026-04-01T11:47:43.353044",
+      "type": "concept",
+      "id": "information theory"
+    },
+    {
+      "created": "2026-04-01T11:47:43.357782",
+      "type": "concept",
+      "id": "semantic collapse"
+    },
+    {
+      "created": "2026-04-01T11:47:43.360273",
+      "type": "concept",
+      "id": "predator-prey"
+    },
+    {
+      "created": "2026-04-01T11:47:43.363116",
+      "type": "concept",
+      "id": "seasonal cycles"
+    },
+    {
+      "created": "2026-04-01T11:47:43.363614",
+      "type": "concept",
+      "id": "selection pressure"
+    },
+    {
+      "created": "2026-04-01T11:47:43.366153",
+      "type": "concept",
+      "id": "spatial memory"
+    },
+    {
+      "created": "2026-04-01T11:47:43.366655",
+      "type": "concept",
+      "id": "cultural inheritance"
+    }
+  ],
+  "edges": [
+    {
+      "source": "emergence",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.276891",
+      "target": "complex systems phenomenon"
+    },
+    {
+      "source": "emergence",
+      "predicate": "requires",
+      "predicates": [
+        "requires"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.279347",
+      "target": "simple rules"
+    },
+    {
+      "source": "emergence",
+      "predicate": "produces",
+      "predicates": [
+        "produces"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.281554",
+      "target": "unexpected patterns"
+    },
+    {
+      "source": "consciousness",
+      "predicate": "relates_to",
+      "predicates": [
+        "relates_to"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.284262",
+      "target": "integrated information"
+    },
+    {
+      "source": "consciousness",
+      "predicate": "relates_to",
+      "predicates": [
+        "relates_to"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.286249",
+      "target": "emergence"
+    },
+    {
+      "source": "iit",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.288690",
+      "target": "consciousness theory"
+    },
+    {
+      "source": "iit",
+      "predicate": "proposes",
+      "predicates": [
+        "proposes"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.291221",
+      "target": "phi measure"
+    },
+    {
+      "source": "phi",
+      "predicate": "measures",
+      "predicates": [
+        "measures"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.293504",
+      "target": "integrated information"
+    },
+    {
+      "source": "multi-agent systems",
+      "predicate": "exhibits",
+      "predicates": [
+        "exhibits"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.295837",
+      "target": "emergence"
+    },
+    {
+      "source": "multi-agent systems",
+      "predicate": "uses",
+      "predicates": [
+        "uses"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.298350",
+      "target": "communication"
+    },
+    {
+      "source": "communication",
+      "predicate": "enables",
+      "predicates": [
+        "enables"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.300766",
+      "target": "coordination"
+    },
+    {
+      "source": "coordination",
+      "predicate": "produces",
+      "predicates": [
+        "produces"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.302990",
+      "target": "collective behavior"
+    },
+    {
+      "source": "flocking",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.305821",
+      "target": "emergent behavior"
+    },
+    {
+      "source": "flocking",
+      "predicate": "requires",
+      "predicates": [
+        "requires"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.307853",
+      "target": "simple rules"
+    },
+    {
+      "source": "signal evolution",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.312661",
+      "target": "emergent communication"
+    },
+    {
+      "source": "signal evolution",
+      "predicate": "occurs_in",
+      "predicates": [
+        "occurs_in"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.315023",
+      "target": "emergence simulator"
+    },
+    {
+      "source": "emergence simulator",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.317482",
+      "target": "striker project"
+    },
+    {
+      "source": "poetry engine",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.319950",
+      "target": "striker project"
+    },
+    {
+      "source": "poetry engine",
+      "predicate": "uses",
+      "predicates": [
+        "uses"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.323084",
+      "target": "mathematical constraints"
+    },
+    {
+      "source": "mathematical constraints",
+      "predicate": "produces",
+      "predicates": [
+        "produces"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.325426",
+      "target": "accidental meaning"
+    },
+    {
+      "source": "karpathy loop",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.328193",
+      "target": "self-improvement pattern"
+    },
+    {
+      "source": "karpathy loop",
+      "predicate": "uses",
+      "predicates": [
+        "uses"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.330877",
+      "target": "autonomous experimentation"
+    },
+    {
+      "source": "autoresearch",
+      "predicate": "implements",
+      "predicates": [
+        "implements"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.333804",
+      "target": "karpathy loop"
+    },
+    {
+      "source": "autoresearch",
+      "predicate": "optimizes",
+      "predicates": [
+        "optimizes"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.336577",
+      "target": "training code"
+    },
+    {
+      "source": "striker loop",
+      "predicate": "adapts",
+      "predicates": [
+        "adapts"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.339147",
+      "target": "karpathy loop"
+    },
+    {
+      "source": "striker loop",
+      "predicate": "optimizes",
+      "predicates": [
+        "optimizes"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.342078",
+      "target": "agent behavior"
+    },
+    {
+      "source": "1-bit models",
+      "predicate": "demonstrates",
+      "predicates": [
+        "demonstrates"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.344936",
+      "target": "intelligence compression"
+    },
+    {
+      "source": "intelligence compression",
+      "predicate": "challenges",
+      "predicates": [
+        "challenges"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.347570",
+      "target": "scaling hypothesis"
+    },
+    {
+      "source": "tinylora",
+      "predicate": "achieves",
+      "predicates": [
+        "achieves"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.350639",
+      "target": "reasoning in 13 parameters"
+    },
+    {
+      "source": "shannon entropy",
+      "predicate": "relates_to",
+      "predicates": [
+        "relates_to"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.353528",
+      "target": "information theory"
+    },
+    {
+      "source": "information theory",
+      "predicate": "relates_to",
+      "predicates": [
+        "relates_to"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.355680",
+      "target": "consciousness"
+    },
+    {
+      "source": "semantic collapse",
+      "predicate": "observed_in",
+      "predicates": [
+        "observed_in"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.358278",
+      "target": "emergence simulator"
+    },
+    {
+      "source": "predator-prey",
+      "predicate": "drives",
+      "predicates": [
+        "drives"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.360742",
+      "target": "signal evolution"
+    },
+    {
+      "source": "seasonal cycles",
+      "predicate": "creates",
+      "predicates": [
+        "creates"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.364134",
+      "target": "selection pressure"
+    },
+    {
+      "source": "spatial memory",
+      "predicate": "enables",
+      "predicates": [
+        "enables"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.367218",
+      "target": "cultural inheritance"
+    },
+    {
+      "source": "cultural inheritance",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-01T11:47:43.369158",
+      "target": "emergent behavior"
+    }
+  ]
+}
