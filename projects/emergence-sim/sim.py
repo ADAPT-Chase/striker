@@ -90,8 +90,8 @@ LISTENER_REWARD = 0.4        # energy bonus for acting on a correct signal
 
 # Cultural transmission
 CULTURAL_RADIUS = 12.0       # how far agents look for role models
-CULTURAL_RATE = 0.08         # probability per tick of copying a neighbor
-CULTURAL_BLEND = 0.3         # how much of the role model's weights to adopt (0=none, 1=full copy)
+CULTURAL_RATE = 0.15         # probability per tick of copying a neighbor
+CULTURAL_BLEND = 0.45        # how much of the role model's weights to adopt (0=none, 1=full copy)
 CULTURAL_ENERGY_BIAS = 2.0   # how much energy advantage matters in choosing role models
 
 # Convention enforcement
