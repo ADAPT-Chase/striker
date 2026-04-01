@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-🌊 EMERGENCE SIMULATOR v3 — Seasons, Memory & Predator Co-Evolution
+🌊 EMERGENCE SIMULATOR v4 — Cultural Transmission & Convention Pressure
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Agents follow flocking rules AND can emit signals (0-3) that nearby agents
@@ -87,6 +87,16 @@ SIGNAL_COLORS = ['\033[93m', '\033[92m', '\033[96m', '\033[95m']  # yellow, gree
 SIGNAL_MEANINGS = ['unknown', 'unknown', 'unknown', 'unknown']
 SIGNAL_COST = 0.03           # energy cost to emit a signal (makes noise expensive)
 LISTENER_REWARD = 0.4        # energy bonus for acting on a correct signal
+
+# Cultural transmission
+CULTURAL_RADIUS = 12.0       # how far agents look for role models
+CULTURAL_RATE = 0.08         # probability per tick of copying a neighbor
+CULTURAL_BLEND = 0.3         # how much of the role model's weights to adopt (0=none, 1=full copy)
+CULTURAL_ENERGY_BIAS = 2.0   # how much energy advantage matters in choosing role models
+
+# Convention enforcement
+CONVENTION_BONUS = 0.03      # energy bonus when nearby agent uses same signal in same context
+CONVENTION_PENALTY = 0.01    # energy penalty when nearby agent uses different signal in same context
 
 # Predator
 PREDATOR_SPEED = 1.15
@@ -750,6 +760,13 @@ class Simulation:
 
         self.food_sources = [f for j, f in enumerate(self.food_sources) if j not in eaten_food]
 
+        # Cultural transmission — agents copy successful neighbors' signal strategies
+        if self.tick % 3 == 0:  # every 3 ticks to save compute
+            self._cultural_transmission()
+
+        # Convention enforcement — social pressure toward shared signal meanings
+        self._convention_enforcement()
+
         # Predator
         if self.predator:
             p = self.predator
@@ -910,6 +927,94 @@ class Simulation:
             self._log_signal_landscape()
         if self.tick % 500 == 0 and self.tick > 0:
             self._log_signal_landscape()
+
+    def _cultural_transmission(self):
+        """Agents copy signal strategies from high-energy neighbors.
+        
+        This is the missing coordination mechanism: instead of each agent
+        learning in isolation, successful strategies spread horizontally
+        through the population. Agents preferentially copy neighbors
+        who have more energy (proxy for fitness).
+        """
+        for agent in self.agents:
+            if random.random() > CULTURAL_RATE:
+                continue
+            
+            # Find neighbors within cultural radius
+            neighbors = []
+            for other in self.agents:
+                if other is agent:
+                    continue
+                d = self._dist(agent, other)
+                if d < CULTURAL_RADIUS:
+                    neighbors.append(other)
+            
+            if not neighbors:
+                continue
+            
+            # Pick a role model — weighted by energy (successful agents get copied)
+            weights = []
+            for n in neighbors:
+                # Softmax-ish: energy advantage matters
+                w = max(0.01, n.energy - agent.energy + CULTURAL_ENERGY_BIAS)
+                weights.append(w)
+            
+            total_w = sum(weights)
+            r = random.uniform(0, total_w)
+            cumulative = 0
+            role_model = neighbors[0]
+            for i, n in enumerate(neighbors):
+                cumulative += weights[i]
+                if r <= cumulative:
+                    role_model = n
+                    break
+            
+            # Only copy if role model has more energy (don't copy losers)
+            if role_model.energy <= agent.energy:
+                continue
+            
+            # Blend signal weights toward role model's
+            blend = CULTURAL_BLEND
+            for s in range(NUM_SIGNALS):
+                for ctx in agent.signal_weights[s]:
+                    mine = agent.signal_weights[s][ctx]
+                    theirs = role_model.signal_weights[s].get(ctx, 0)
+                    agent.signal_weights[s][ctx] = mine * (1 - blend) + theirs * blend
+            
+            # Blend response weights too
+            for s in range(NUM_SIGNALS):
+                mine = agent.response_weights[s]
+                theirs = role_model.response_weights[s]
+                agent.response_weights[s] = mine * (1 - blend) + theirs * blend
+
+    def _convention_enforcement(self):
+        """Agents who signal consistently with neighbors get social energy bonuses.
+        
+        This creates pressure toward shared conventions: if you and your neighbor
+        both signal ◆ when food is near, you both benefit. If you signal ▲ while
+        everyone else signals ◆ in the same context, you pay a small cost.
+        
+        This is the 'social norm' mechanism — it doesn't enforce a specific mapping,
+        it enforces AGREEMENT on whatever mapping the group converges on.
+        """
+        for agent in self.agents:
+            if agent.current_signal < 0:
+                continue
+            
+            for other in self.agents:
+                if other is agent or other.current_signal < 0:
+                    continue
+                d = self._dist(agent, other)
+                if d > SIGNAL_RANGE:
+                    continue
+                
+                # Both agents are signaling within range
+                # Same context, same signal = convention match
+                if agent.last_context == other.last_context:
+                    if agent.current_signal == other.current_signal:
+                        agent.energy += CONVENTION_BONUS
+                    else:
+                        agent.energy -= CONVENTION_PENALTY
 
     def _log_signal_landscape(self):
         """Log the current signal weight landscape across agents."""

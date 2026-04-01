@@ -22,12 +22,29 @@ This is a flickering criticality pattern — the system briefly hits a configura
 3. **High mutation** during reproduction disperses learned conventions
 4. **Context imbalance** — 'friends_near' dominates, diluting signal specificity
 
-## Next Steps for Real Emergence
+## v4 Results — Cultural Transmission + Convention Enforcement (April 1, 2026)
 
-- [ ] Cultural transmission: agents imitate high-fitness neighbors' signal strategies
-- [ ] Convention cost: mismatched signals reduce social energy gain
+**Both mechanisms implemented and tested. Results: 12.9x NMI improvement.**
+
+| Metric | v3 Baseline | v4 (cultural + convention) |
+|--------|------------|---------------------------|
+| Final NMI | 0.010 | 0.126 |
+| Max windowed NMI | 0.019 | 0.440 |
+| Sustained NMI > 0.1 | 0 ticks | 1800/3000 ticks |
+| Signal specificity | ~0.27 | ~0.83 |
+
+Language no longer just flickers — it **sustains**. NMI ramps up over ~1000 ticks as cultural transmission synchronizes the population, then holds at 0.30-0.44 indefinitely.
+
+**Key finding:** Adding a predator *destroys* language by reducing population below the cultural transmission threshold. Small populations can't maintain cultural complexity.
+
+## Remaining Next Steps
+
+- [x] Cultural transmission: agents imitate high-fitness neighbors' signal strategies
+- [x] Convention cost: mismatched signals reduce social energy gain  
 - [ ] Spatial isolation: subpopulations develop dialects
 - [ ] Study the phase transitions themselves — what triggers them?
+- [ ] Tune predator to drive danger signals without collapsing population
+- [ ] Visualize the actual vocabulary that emerges
 
 ## How to Run
 
