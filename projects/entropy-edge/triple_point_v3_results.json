@@ -1,0 +1,5531 @@
+{
+  "version": "v3-perturbation-coherence",
+  "perturbation_results": {
+    "0": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "1": {
+      "mean_coherence": 0.8,
+      "mean_spread": 0.48630895259651374,
+      "mean_damage": 0.018109163563709018,
+      "damage_structure": 0.5773847970211607
+    },
+    "2": {
+      "mean_coherence": 0.3127845771267863,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "3": {
+      "mean_coherence": 0.30874308307459486,
+      "mean_spread": 0.9516483516483516,
+      "mean_damage": 0.013186813186813187,
+      "damage_structure": 0.22100576298328695
+    },
+    "4": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "5": {
+      "mean_coherence": 0.8,
+      "mean_spread": 0.5956043956043956,
+      "mean_damage": 0.013186813186813187,
+      "damage_structure": 0.5726593406593408
+    },
+    "6": {
+      "mean_coherence": 0.17572315115872797,
+      "mean_spread": 0.32857142857142857,
+      "mean_damage": 0.009881028062846246,
+      "damage_structure": 0.0
+    },
+    "7": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "8": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "9": {
+      "mean_coherence": 0.25118669574693153,
+      "mean_spread": 5.027799721785724,
+      "mean_damage": 0.04124965943147761,
+      "damage_structure": 0.188264325806787
+    },
+    "10": {
+      "mean_coherence": 0.3023447178371713,
+      "mean_spread": 0.45714285714285713,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "11": {
+      "mean_coherence": 0.38819257049330097,
+      "mean_spread": 1.8800152642764085,
+      "mean_damage": 0.019834710743801654,
+      "damage_structure": 0.2809744241636636
+    },
+    "12": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "13": {
+      "mean_coherence": 0.2305839673595474,
+      "mean_spread": 7.430071013464586,
+      "mean_damage": 0.15228754901890756,
+      "damage_structure": 0.20354685783037268
+    },
+    "14": {
+      "mean_coherence": 0.31232727692813056,
+      "mean_spread": 1.1538461538461537,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.2248240150449601
+    },
+    "15": {
+      "mean_coherence": 0.2363413190150375,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "16": {
+      "mean_coherence": 0.2599414020752503,
+      "mean_spread": 0.45714285714285713,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "17": {
+      "mean_coherence": 0.7034016201355895,
+      "mean_spread": 0.5593406593406594,
+      "mean_damage": 0.013186813186813187,
+      "damage_structure": 0.5035118850069484
+    },
+    "18": {
+      "mean_coherence": 0.007290952557524448,
+      "mean_spread": 34.31620724536116,
+      "mean_damage": 0.15635273817092,
+      "damage_structure": 0.006471619265758977
+    },
+    "19": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "20": {
+      "mean_coherence": 0.35052596143883974,
+      "mean_spread": 1.3862468303238153,
+      "mean_damage": 0.014821542094269368,
+      "damage_structure": 0.25160257535830777
+    },
+    "21": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "22": {
+      "mean_coherence": 0.13042869837689586,
+      "mean_spread": 39.18204890162117,
+      "mean_damage": 0.22039778403414764,
+      "damage_structure": 0.1257955241798984
+    },
+    "23": {
+      "mean_coherence": 0.2,
+      "mean_spread": 0.1,
+      "mean_damage": 0.003305785123966942,
+      "damage_structure": 0.0
+    },
+    "24": {
+      "mean_coherence": 0.33976204615409167,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "25": {
+      "mean_coherence": 0.6727091648046573,
+      "mean_spread": 5.981322310333218,
+      "mean_damage": 0.06359095450004541,
+      "damage_structure": 0.522230276832288
+    },
+    "26": {
+      "mean_coherence": 0.08097011755593357,
+      "mean_spread": 29.687408516544828,
+      "mean_damage": 0.11330487694124058,
+      "damage_structure": 0.06768825333586491
+    },
+    "27": {
+      "mean_coherence": 0.2994245291470512,
+      "mean_spread": 0.5469091184312365,
+      "mean_damage": 0.010752883480156208,
+      "damage_structure": 0.2134607828905585
+    },
+    "28": {
+      "mean_coherence": 0.4527727691144299,
+      "mean_spread": 13.615814364372563,
+      "mean_damage": 0.2751022215782175,
+      "damage_structure": 0.4391340462645576
+    },
+    "29": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "30": {
+      "mean_coherence": 0.41876228190574905,
+      "mean_spread": 30.86751566948799,
+      "mean_damage": 0.37878485151212427,
+      "damage_structure": 0.35404599595281677
+    },
+    "31": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "32": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "33": {
+      "mean_coherence": 0.6,
+      "mean_spread": 0.5688558596793168,
+      "mean_damage": 0.019780219780219783,
+      "damage_structure": 0.4342417582417583
+    },
+    "34": {
+      "mean_coherence": 0.267826549427017,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "35": {
+      "mean_coherence": 0.3145529567807616,
+      "mean_spread": 0.7703296703296704,
+      "mean_damage": 0.012351285078557806,
+      "damage_structure": 0.2248492296363361
+    },
+    "36": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "37": {
+      "mean_coherence": 0.4,
+      "mean_spread": 0.8909703936248441,
+      "mean_damage": 0.02806284624466443,
+      "damage_structure": 0.293470166197439
+    },
+    "38": {
+      "mean_coherence": 0.1544171827066087,
+      "mean_spread": 0.378021978021978,
+      "mean_damage": 0.012351285078557806,
+      "damage_structure": 0.11038072866819058
+    },
+    "39": {
+      "mean_coherence": 0.3843556448838292,
+      "mean_spread": 1.4285714285714286,
+      "mean_damage": 0.011570247933884299,
+      "damage_structure": 0.2743854595459931
+    },
+    "40": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "41": {
+      "mean_coherence": 0.5310331097336602,
+      "mean_spread": 11.271990104374146,
+      "mean_damage": 0.08246299155390066,
+      "damage_structure": 0.42427187142493233
+    },
+    "42": {
+      "mean_coherence": 0.20794525776302208,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "43": {
+      "mean_coherence": 0.27310313570136324,
+      "mean_spread": 1.8800152642764085,
+      "mean_damage": 0.019834710743801654,
+      "damage_structure": 0.19767250103078834
+    },
+    "44": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "45": {
+      "mean_coherence": 0.4808183653542958,
+      "mean_spread": 29.417160058941683,
+      "mean_damage": 0.40036327309054587,
+      "damage_structure": 0.3940614575422344
+    },
+    "46": {
+      "mean_coherence": 0.3036977703237243,
+      "mean_spread": 1.3802197802197802,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.2186121966545156
+    },
+    "47": {
+      "mean_coherence": 0.27462463258605974,
+      "mean_spread": 2.449148929710888,
+      "mean_damage": 0.023140495867768597,
+      "damage_structure": 0.19986318302089603
+    },
+    "48": {
+      "mean_coherence": 0.19413535977754506,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "49": {
+      "mean_coherence": 0.8774982600949611,
+      "mean_spread": 0.378021978021978,
+      "mean_damage": 0.012351285078557806,
+      "damage_structure": 0.6272546594661184
+    },
+    "50": {
+      "mean_coherence": 0.5902887533228303,
+      "mean_spread": 15.671182321250404,
+      "mean_damage": 0.44030514939605847,
+      "damage_structure": 0.45548676605733307
+    },
+    "51": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "52": {
+      "mean_coherence": 0.2807264914585933,
+      "mean_spread": 0.32857142857142857,
+      "mean_damage": 0.011533920624829715,
+      "damage_structure": 0.20039399650473974
+    },
+    "53": {
+      "mean_coherence": 0.8291184280476885,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "54": {
+      "mean_coherence": 0.46948419581746387,
+      "mean_spread": 30.61090982203296,
+      "mean_damage": 0.4519117246389973,
+      "damage_structure": 0.35573095941555566
+    },
+    "55": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "56": {
+      "mean_coherence": 0.23419639523353272,
+      "mean_spread": 0.4073337027221048,
+      "mean_damage": 0.011570247933884299,
+      "damage_structure": 0.16718912909316164
+    },
+    "57": {
+      "mean_coherence": 0.4459294749803597,
+      "mean_spread": 16.391095880284993,
+      "mean_damage": 0.15933157751339572,
+      "damage_structure": 0.397411408536261
+    },
+    "58": {
+      "mean_coherence": 0.4233556573180458,
+      "mean_spread": 20.17270517447187,
+      "mean_damage": 0.5277994732540188,
+      "damage_structure": 0.2822260829955714
+    },
+    "59": {
+      "mean_coherence": 0.38486621601588494,
+      "mean_spread": 1.0043956043956044,
+      "mean_damage": 0.013259467804922351,
+      "damage_structure": 0.2755300966516774
+    },
+    "60": {
+      "mean_coherence": 0.30678257639874207,
+      "mean_spread": 27.061987276393616,
+      "mean_damage": 0.14312959767505223,
+      "damage_structure": 0.26743940355952095
+    },
+    "61": {
+      "mean_coherence": 0.5723291038051029,
+      "mean_spread": 4.373662111074608,
+      "mean_damage": 0.03639996367269095,
+      "damage_structure": 0.4256296829683675
+    },
+    "62": {
+      "mean_coherence": 0.3756660772082791,
+      "mean_spread": 29.49209730113845,
+      "mean_damage": 0.24715284715284716,
+      "damage_structure": 0.37438258271871633
+    },
+    "63": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "64": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "65": {
+      "mean_coherence": 0.35204898120725336,
+      "mean_spread": 3.7614293557626937,
+      "mean_damage": 0.03627281809099991,
+      "damage_structure": 0.2617580572304204
+    },
+    "66": {
+      "mean_coherence": 0.24412116934014402,
+      "mean_spread": 0.0,
+      "mean_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "67": {
+      "mean_coherence": 0.8502931924788101,
+      "mean_spread": 2.5992650105960395,
+      "mean_damage": 0.03714467350830987,
+      "damage_structure": 0.6331058703603237
+    },
+    "68": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.1,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "69": {
+      "mean_coherence": 0.14148076795180464,
+      "mean_spread": 1.7739209800673166,
+      "mean_damage": 0.029859211268812903,
+      "damage_structure": 0.10410594253515945
+    },
+    "70": {
+      "mean_coherence": 0.2727963852321248,
+      "mean_spread": 7.392573399073929,
+      "mean_damage": 0.14432594984178232,
+      "damage_structure": 0.23820338655692477
+    },
+    "71": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "72": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "73": {
+      "mean_coherence": 0.2736807211933882,
+      "mean_spread": 31.43357600781162,
+      "mean_damage": 0.42334029606756884,
+      "damage_structure": 0.21675284450581103
+    },
+    "74": {
+      "mean_coherence": 0.1937791993286458,
+      "mean_spread": 0.6318681318681318,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "75": {
+      "mean_coherence": 0.3913976508012964,
+      "mean_spread": 29.108376266077634,
+      "mean_damage": 0.42670057215511764,
+      "damage_structure": 0.3084054241971868
+    },
+    "76": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "77": {
+      "mean_coherence": 0.5982733778162863,
+      "mean_spread": 15.734318607321551,
+      "mean_damage": 0.43423848878394333,
+      "damage_structure": 0.46600339820604103
+    },
+    "78": {
+      "mean_coherence": 0.3515114869350354,
+      "mean_spread": 10.970579861360747,
+      "mean_damage": 0.15508168599077693,
+      "damage_structure": 0.3114736337013371
+    },
+    "79": {
+      "mean_coherence": 0.2939292874136694,
+      "mean_spread": 9.192684758364738,
+      "mean_damage": 0.1599895054440509,
+      "damage_structure": 0.2621812227841709
+    },
+    "80": {
+      "mean_coherence": 0.29117980396825416,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "81": {
+      "mean_coherence": 0.24303529286397807,
+      "mean_spread": 1.1538461538461537,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.17494523973927678
+    },
+    "82": {
+      "mean_coherence": 0.12240307253627329,
+      "mean_spread": 13.760832955641522,
+      "mean_damage": 0.049332485696122065,
+      "damage_structure": 0.09292828816545981
+    },
+    "83": {
+      "mean_coherence": 0.8342778607962369,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "84": {
+      "mean_coherence": 0.29993317637561406,
+      "mean_spread": 1.8800152642764085,
+      "mean_damage": 0.019834710743801654,
+      "damage_structure": 0.21709212881798576
+    },
+    "85": {
+      "mean_coherence": 0.2145975718548096,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "86": {
+      "mean_coherence": 0.28701643319007475,
+      "mean_spread": 30.005848843262488,
+      "mean_damage": 0.26319135410044503,
+      "damage_structure": 0.28247307070664635
+    },
+    "87": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "88": {
+      "mean_coherence": 0.29236875925035555,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "89": {
+      "mean_coherence": 0.36914901906773223,
+      "mean_spread": 29.295560398465664,
+      "mean_damage": 0.3981109799291617,
+      "damage_structure": 0.30353899152291947
+    },
+    "90": {
+      "mean_coherence": 0.002064176838219627,
+      "mean_spread": 33.91304887900765,
+      "mean_damage": 0.14312959767505223,
+      "damage_structure": 0.0017994575472151826
+    },
+    "91": {
+      "mean_coherence": 0.8,
+      "mean_spread": 1.235581755817919,
+      "mean_damage": 0.02815366451730088,
+      "damage_structure": 0.5870275179366089
+    },
+    "92": {
+      "mean_coherence": 0.37662374571284624,
+      "mean_spread": 12.204253309488497,
+      "mean_damage": 0.2674410438046802,
+      "damage_structure": 0.3687412922166136
+    },
+    "93": {
+      "mean_coherence": 0.2670058871613696,
+      "mean_spread": 9.053533045071035,
+      "mean_damage": 0.1469322596595324,
+      "damage_structure": 0.23398225502458048
+    },
+    "94": {
+      "mean_coherence": 0.7387085737510297,
+      "mean_spread": 26.601558283823874,
+      "mean_damage": 0.22047043865225682,
+      "damage_structure": 0.7125320855750078
+    },
+    "95": {
+      "mean_coherence": 0.2,
+      "mean_spread": 0.1010989010989011,
+      "mean_damage": 0.002488420670238852,
+      "damage_structure": 0.0
+    },
+    "96": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "97": {
+      "mean_coherence": 0.4184756423475573,
+      "mean_spread": 4.892910124677727,
+      "mean_damage": 0.038761238761238756,
+      "damage_structure": 0.31239771078984585
+    },
+    "98": {
+      "mean_coherence": 0.250497718155651,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "99": {
+      "mean_coherence": 0.09118767995965969,
+      "mean_spread": 16.53170930342424,
+      "mean_damage": 0.0911088911088911,
+      "damage_structure": 0.07380098605646224
+    },
+    "100": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "101": {
+      "mean_coherence": 0.3848815681865255,
+      "mean_spread": 29.2168274864115,
+      "mean_damage": 0.40979020979020975,
+      "damage_structure": 0.3110812003566338
+    },
+    "102": {
+      "mean_coherence": 0.3300094248726352,
+      "mean_spread": 26.667322520493304,
+      "mean_damage": 0.14312959767505223,
+      "damage_structure": 0.28768753686403936
+    },
+    "103": {
+      "mean_coherence": 0.33911923648864783,
+      "mean_spread": 7.6275239478352415,
+      "mean_damage": 0.05376441740078104,
+      "damage_structure": 0.25926252335710526
+    },
+    "104": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "105": {
+      "mean_coherence": 0.11259512707394545,
+      "mean_spread": 34.0537099721379,
+      "mean_damage": 0.2678230860049042,
+      "damage_structure": 0.110186975913659
+    },
+    "106": {
+      "mean_coherence": 0.3048535228166397,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "107": {
+      "mean_coherence": 0.46706248447833615,
+      "mean_spread": 12.297932780997884,
+      "mean_damage": 0.0630097175551721,
+      "damage_structure": 0.3622591094079516
+    },
+    "108": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "109": {
+      "mean_coherence": 0.42275167497099675,
+      "mean_spread": 25.552711111255007,
+      "mean_damage": 0.31094360185269276,
+      "damage_structure": 0.39183486325660705
+    },
+    "110": {
+      "mean_coherence": 0.7097659305735038,
+      "mean_spread": 25.473226834453286,
+      "mean_damage": 0.28291708291708295,
+      "damage_structure": 0.6817298217874136
+    },
+    "111": {
+      "mean_coherence": 0.3722971158097226,
+      "mean_spread": 5.007517851290936,
+      "mean_damage": 0.041394968667695944,
+      "damage_structure": 0.27910145399962627
+    },
+    "112": {
+      "mean_coherence": 0.21828428420565277,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "113": {
+      "mean_coherence": 0.26359678255814467,
+      "mean_spread": 1.8800152642764085,
+      "mean_damage": 0.019834710743801654,
+      "damage_structure": 0.19079178691274634
+    },
+    "114": {
+      "mean_coherence": 0.36967685641923914,
+      "mean_spread": 6.409087466918116,
+      "mean_damage": 0.02699724517906336,
+      "damage_structure": 0.27075010756919815
+    },
+    "115": {
+      "mean_coherence": 0.7717211511298979,
+      "mean_spread": 0.5142857142857142,
+      "mean_damage": 0.01244210335119426,
+      "damage_structure": 0.5517270069757215
+    },
+    "116": {
+      "mean_coherence": 0.185380757205932,
+      "mean_spread": 0.923076923076923,
+      "mean_damage": 0.013223140495867768,
+      "damage_structure": 0.13270810900146968
+    },
+    "117": {
+      "mean_coherence": 0.2352217456352237,
+      "mean_spread": 0.923076923076923,
+      "mean_damage": 0.013223140495867768,
+      "damage_structure": 0.16838766617291798
+    },
+    "118": {
+      "mean_coherence": 0.38613826739118895,
+      "mean_spread": 27.475799188990642,
+      "mean_damage": 0.23772591045318317,
+      "damage_structure": 0.3804508725854943
+    },
+    "119": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "120": {
+      "mean_coherence": 0.2939221423628115,
+      "mean_spread": 2.07771352006993,
+      "mean_damage": 0.016220143492870764,
+      "damage_structure": 0.21146645084379623
+    },
+    "121": {
+      "mean_coherence": 0.48312718725547465,
+      "mean_spread": 8.65407099683215,
+      "mean_damage": 0.07089274362001635,
+      "damage_structure": 0.3792892852651866
+    },
+    "122": {
+      "mean_coherence": 0.47694315739455073,
+      "mean_spread": 28.903993325201043,
+      "mean_damage": 0.35600762873490144,
+      "damage_structure": 0.4162716216064709
+    },
+    "123": {
+      "mean_coherence": 0.6,
+      "mean_spread": 0.5742393536194996,
+      "mean_damage": 0.01988920170738353,
+      "damage_structure": 0.4343202252293161
+    },
+    "124": {
+      "mean_coherence": 0.6062825396020651,
+      "mean_spread": 21.570649283472456,
+      "mean_damage": 0.2500227045681591,
+      "damage_structure": 0.6062660211421723
+    },
+    "125": {
+      "mean_coherence": 0.370910819331029,
+      "mean_spread": 5.2765890122755135,
+      "mean_damage": 0.04637181000817365,
+      "damage_structure": 0.2802773407845137
+    },
+    "126": {
+      "mean_coherence": 0.06802482882280896,
+      "mean_spread": 35.43342367250453,
+      "mean_damage": 0.3030605757878485,
+      "damage_structure": 0.06369350492055927
+    },
+    "127": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "128": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "129": {
+      "mean_coherence": 0.012550163583937016,
+      "mean_spread": 30.28821297656058,
+      "mean_damage": 0.23734447370811007,
+      "damage_structure": 0.012359568873692175
+    },
+    "130": {
+      "mean_coherence": 0.2705882229507284,
+      "mean_spread": 0.0,
+      "mean_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "131": {
+      "mean_coherence": 0.5597286575614536,
+      "mean_spread": 27.08377893782112,
+      "mean_damage": 0.2616656071201526,
+      "damage_structure": 0.5518931680258509
+    },
+    "132": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "133": {
+      "mean_coherence": 0.440072379224344,
+      "mean_spread": 21.803255857515033,
+      "mean_damage": 0.20352374897829445,
+      "damage_structure": 0.4155288819868842
+    },
+    "134": {
+      "mean_coherence": 0.16221833812649789,
+      "mean_spread": 0.4593406593406593,
+      "mean_damage": 0.009881028062846246,
+      "damage_structure": 0.0
+    },
+    "135": {
+      "mean_coherence": 0.40700499659664785,
+      "mean_spread": 31.33410439521644,
+      "mean_damage": 0.44371991644718917,
+      "damage_structure": 0.31239102787549844
+    },
+    "136": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "137": {
+      "mean_coherence": 0.5861576612558517,
+      "mean_spread": 24.252687487179383,
+      "mean_damage": 0.2971392244119517,
+      "damage_structure": 0.5530004402141825
+    },
+    "138": {
+      "mean_coherence": 0.2377370648776373,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "139": {
+      "mean_coherence": 0.2703885280891901,
+      "mean_spread": 1.4966061929070065,
+      "mean_damage": 0.019834710743801654,
+      "damage_structure": 0.1957076635541427
+    },
+    "140": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "141": {
+      "mean_coherence": 0.2851572507299612,
+      "mean_spread": 8.663498546059175,
+      "mean_damage": 0.15072996462169086,
+      "damage_structure": 0.2511881662879476
+    },
+    "142": {
+      "mean_coherence": 0.35375401015582336,
+      "mean_spread": 2.039860337814804,
+      "mean_damage": 0.023140495867768597,
+      "damage_structure": 0.25745105896133724
+    },
+    "143": {
+      "mean_coherence": 0.20350174347123956,
+      "mean_spread": 1.1538461538461537,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.14648761864747906
+    },
+    "144": {
+      "mean_coherence": 0.09422984966423087,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "145": {
+      "mean_coherence": 0.27691019992241317,
+      "mean_spread": 22.339865293448156,
+      "mean_damage": 0.2173644537280901,
+      "damage_structure": 0.2660656611511351
+    },
+    "146": {
+      "mean_coherence": 0.0023548783552909984,
+      "mean_spread": 35.61766868307686,
+      "mean_damage": 0.1533375715193897,
+      "damage_structure": 0.0020817244425723742
+    },
+    "147": {
+      "mean_coherence": 0.6377527498470348,
+      "mean_spread": 30.592207874254967,
+      "mean_damage": 0.3586776859504132,
+      "damage_structure": 0.5545813581727685
+    },
+    "148": {
+      "mean_coherence": 0.16641539424741886,
+      "mean_spread": 1.3862468303238153,
+      "mean_damage": 0.014821542094269368,
+      "damage_structure": 0.11945061529836025
+    },
+    "149": {
+      "mean_coherence": 0.4106282704509427,
+      "mean_spread": 31.490543274297927,
+      "mean_damage": 0.4427209154481882,
+      "damage_structure": 0.31566428302268845
+    },
+    "150": {
+      "mean_coherence": 0.10016437244728019,
+      "mean_spread": 34.25189195132318,
+      "mean_damage": 0.2678230860049042,
+      "damage_structure": 0.09802208657757404
+    },
+    "151": {
+      "mean_coherence": 0.0036488500445365788,
+      "mean_spread": 8.164947607316815,
+      "mean_damage": 0.03672690945418218,
+      "damage_structure": 0.0027150082134127056
+    },
+    "152": {
+      "mean_coherence": 0.10687157702107515,
+      "mean_spread": 0.0,
+      "mean_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "153": {
+      "mean_coherence": 0.2740691772769638,
+      "mean_spread": 27.825890938634608,
+      "mean_damage": 0.14312959767505223,
+      "damage_structure": 0.2389213173884159
+    },
+    "154": {
+      "mean_coherence": 0.038344421538417675,
+      "mean_spread": 32.80912929122598,
+      "mean_damage": 0.11174280265189356,
+      "damage_structure": 0.03198275083141448
+    },
+    "155": {
+      "mean_coherence": 0.3294670834839176,
+      "mean_spread": 1.033195204318742,
+      "mean_damage": 0.014912360366905821,
+      "damage_structure": 0.23652271669227706
+    },
+    "156": {
+      "mean_coherence": 0.3709951676459558,
+      "mean_spread": 10.527453791049343,
+      "mean_damage": 0.16667071437245085,
+      "damage_structure": 0.3338974528965034
+    },
+    "157": {
+      "mean_coherence": 0.34195307324951774,
+      "mean_spread": 7.464750512081484,
+      "mean_damage": 0.149350851169033,
+      "damage_structure": 0.300652330334281
+    },
+    "158": {
+      "mean_coherence": 0.1139784692688834,
+      "mean_spread": 14.946875566698063,
+      "mean_damage": 0.1207192807192807,
+      "damage_structure": 0.09629620708136749
+    },
+    "159": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "160": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "161": {
+      "mean_coherence": 0.2764981232339268,
+      "mean_spread": 35.02922983755815,
+      "mean_damage": 0.29396058486967575,
+      "damage_structure": 0.26191210017864947
+    },
+    "162": {
+      "mean_coherence": 0.28419315304179915,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "163": {
+      "mean_coherence": 0.4502810441692543,
+      "mean_spread": 15.853846014924835,
+      "mean_damage": 0.3715920443193171,
+      "damage_structure": 0.38458033295472266
+    },
+    "164": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "165": {
+      "mean_coherence": 0.003000375855359998,
+      "mean_spread": 35.04870701515796,
+      "mean_damage": 0.14312959767505223,
+      "damage_structure": 0.0026155942056139392
+    },
+    "166": {
+      "mean_coherence": 0.23014250762920763,
+      "mean_spread": 0.378021978021978,
+      "mean_damage": 0.012351285078557806,
+      "damage_structure": 0.16451082220495236
+    },
+    "167": {
+      "mean_coherence": 0.10080469517327562,
+      "mean_spread": 27.358950367807143,
+      "mean_damage": 0.1256016710562165,
+      "damage_structure": 0.08575677241818405
+    },
+    "168": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "169": {
+      "mean_coherence": 0.5263886222483073,
+      "mean_spread": 11.456123042672454,
+      "mean_damage": 0.07049314322041596,
+      "damage_structure": 0.4130001818191119
+    },
+    "170": {
+      "mean_coherence": 0.19604507365375026,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "171": {
+      "mean_coherence": 0.29562849187852686,
+      "mean_spread": 1.1538461538461537,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.2128036499390057
+    },
+    "172": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.2,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "173": {
+      "mean_coherence": 0.33180420308755953,
+      "mean_spread": 1.466162237285775,
+      "mean_damage": 0.013223140495867768,
+      "damage_structure": 0.23752793447474715
+    },
+    "174": {
+      "mean_coherence": 0.21051269109287302,
+      "mean_spread": 0.923076923076923,
+      "mean_damage": 0.013223140495867768,
+      "damage_structure": 0.15069925043359222
+    },
+    "175": {
+      "mean_coherence": 0.3151694784111347,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "176": {
+      "mean_coherence": 0.30340751198348237,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "177": {
+      "mean_coherence": 0.37816622271885797,
+      "mean_spread": 11.96729752059103,
+      "mean_damage": 0.2149123603669058,
+      "damage_structure": 0.3622434705458567
+    },
+    "178": {
+      "mean_coherence": 0.6180801382223077,
+      "mean_spread": 7.984827323010913,
+      "mean_damage": 0.18637725910453182,
+      "damage_structure": 0.5708913952382041
+    },
+    "179": {
+      "mean_coherence": 0.6301629647696372,
+      "mean_spread": 8.884667733107106,
+      "mean_damage": 0.19398783035146674,
+      "damage_structure": 0.5878068109029576
+    },
+    "180": {
+      "mean_coherence": 0.27196726343418554,
+      "mean_spread": 0.378021978021978,
+      "mean_damage": 0.012351285078557806,
+      "damage_structure": 0.1944080586471829
+    },
+    "181": {
+      "mean_coherence": 0.07739979835090863,
+      "mean_spread": 26.41363721822326,
+      "mean_damage": 0.09610389610389611,
+      "damage_structure": 0.06310596546064992
+    },
+    "182": {
+      "mean_coherence": 0.10876875394035715,
+      "mean_spread": 34.32867611477631,
+      "mean_damage": 0.1617473435655254,
+      "damage_structure": 0.09724979617359206
+    },
+    "183": {
+      "mean_coherence": 0.2,
+      "mean_spread": 7.595572243466812,
+      "mean_damage": 0.02277722277722278,
+      "damage_structure": 0.14546653346653346
+    },
+    "184": {
+      "mean_coherence": 0.292884406375002,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "185": {
+      "mean_coherence": 0.33654526160295967,
+      "mean_spread": 2.4012346887098963,
+      "mean_damage": 0.021487603305785124,
+      "damage_structure": 0.24425954441299105
+    },
+    "186": {
+      "mean_coherence": 0.1590587921370444,
+      "mean_spread": 12.564068062225568,
+      "mean_damage": 0.20409368409368409,
+      "damage_structure": 0.15029662834562016
+    },
+    "187": {
+      "mean_coherence": 0.36440252120879657,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "188": {
+      "mean_coherence": 0.5494668070401679,
+      "mean_spread": 19.28046057818809,
+      "mean_damage": 0.22744528199073652,
+      "damage_structure": 0.5345951243742783
+    },
+    "189": {
+      "mean_coherence": 0.23131197308557735,
+      "mean_spread": 0.0,
+      "mean_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "190": {
+      "mean_coherence": 0.23703260531986717,
+      "mean_spread": 12.65097696577256,
+      "mean_damage": 0.12744871290325835,
+      "damage_structure": 0.20217422428085474
+    },
+    "191": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "192": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "193": {
+      "mean_coherence": 0.7248973062010525,
+      "mean_spread": 24.293591703528396,
+      "mean_damage": 0.2635182998819362,
+      "damage_structure": 0.7131380511984523
+    },
+    "194": {
+      "mean_coherence": 0.3781796983767226,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "195": {
+      "mean_coherence": 0.3481809152826342,
+      "mean_spread": 27.4516188934357,
+      "mean_damage": 0.14312959767505223,
+      "damage_structure": 0.30352863388488577
+    },
+    "196": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.1,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "197": {
+      "mean_coherence": 0.42725626809772166,
+      "mean_spread": 13.465154226482474,
+      "mean_damage": 0.2732244262377051,
+      "damage_structure": 0.41534893007808243
+    },
+    "198": {
+      "mean_coherence": 0.15077801014646378,
+      "mean_spread": 3.1715022181334644,
+      "mean_damage": 0.03844368093602006,
+      "damage_structure": 0.11250036115961103
+    },
+    "199": {
+      "mean_coherence": 0.33747318288519323,
+      "mean_spread": 9.063715545306527,
+      "mean_damage": 0.15209719573355937,
+      "damage_structure": 0.2978256977221751
+    },
+    "200": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "201": {
+      "mean_coherence": 0.6,
+      "mean_spread": 1.0721467191239917,
+      "mean_damage": 0.021451275996730544,
+      "damage_structure": 0.43544491871764596
+    },
+    "202": {
+      "mean_coherence": 0.35924932907672036,
+      "mean_spread": 6.088366120844687,
+      "mean_damage": 0.13386613386613386,
+      "damage_structure": 0.3091841128867079
+    },
+    "203": {
+      "mean_coherence": 0.6,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0049586776859504135,
+      "damage_structure": 0.0
+    },
+    "204": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "205": {
+      "mean_coherence": 1.0,
+      "mean_spread": 1.0,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.7198347107438017
+    },
+    "206": {
+      "mean_coherence": 0.07824247142646548,
+      "mean_spread": 4.696951852790502,
+      "mean_damage": 0.06791390427754065,
+      "damage_structure": 0.06114623205640005
+    },
+    "207": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "208": {
+      "mean_coherence": 0.23012648984538506,
+      "mean_spread": 0.0,
+      "mean_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "209": {
+      "mean_coherence": 0.12139926880382586,
+      "mean_spread": 0.923076923076923,
+      "mean_damage": 0.013223140495867768,
+      "damage_structure": 0.08690582366766443
+    },
+    "210": {
+      "mean_coherence": 0.07265487095546508,
+      "mean_spread": 27.456468888470233,
+      "mean_damage": 0.09541367723185906,
+      "damage_structure": 0.05917713175682609
+    },
+    "211": {
+      "mean_coherence": 0.22797350827103244,
+      "mean_spread": 0.8736263736263735,
+      "mean_damage": 0.013259467804922351,
+      "damage_structure": 0.1632088246616767
+    },
+    "212": {
+      "mean_coherence": 0.20486841589757815,
+      "mean_spread": 1.649246033507178,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.14747139689817404
+    },
+    "213": {
+      "mean_coherence": 0.3432310129132746,
+      "mean_spread": 2.7660294482450594,
+      "mean_damage": 0.026446280991735537,
+      "damage_structure": 0.2511543296143912
+    },
+    "214": {
+      "mean_coherence": 0.21143748792833636,
+      "mean_spread": 13.411964954529363,
+      "mean_damage": 0.12256470801925345,
+      "damage_structure": 0.17910397031654862
+    },
+    "215": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "216": {
+      "mean_coherence": 0.2115603738966702,
+      "mean_spread": 5.63122326370183,
+      "mean_damage": 0.13056034874216693,
+      "damage_structure": 0.18123793716283612
+    },
+    "217": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.7,
+      "mean_damage": 0.013223140495867768,
+      "damage_structure": 0.7158677685950413
+    },
+    "218": {
+      "mean_coherence": 0.38538139378567493,
+      "mean_spread": 23.13988659707255,
+      "mean_damage": 0.3327581509399691,
+      "damage_structure": 0.34710925191803027
+    },
+    "219": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "220": {
+      "mean_coherence": 0.2046002251361653,
+      "mean_spread": 12.113424338714811,
+      "mean_damage": 0.05667060212514759,
+      "damage_structure": 0.1571339391394044
+    },
+    "221": {
+      "mean_coherence": 0.8,
+      "mean_spread": 0.0,
+      "mean_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "222": {
+      "mean_coherence": 0.6467103676312634,
+      "mean_spread": 3.464670593758316,
+      "mean_damage": 0.021669239851058033,
+      "damage_structure": 0.4695137238263258
+    },
+    "223": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "224": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "225": {
+      "mean_coherence": 0.5622146596973847,
+      "mean_spread": 13.733863434115836,
+      "mean_damage": 0.07766778675869586,
+      "damage_structure": 0.4459494237505564
+    },
+    "226": {
+      "mean_coherence": 0.2587101887622371,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "227": {
+      "mean_coherence": 0.37537032599932557,
+      "mean_spread": 1.9440918315670395,
+      "mean_damage": 0.019834710743801654,
+      "damage_structure": 0.27169366240513165
+    },
+    "228": {
+      "mean_coherence": 0.6,
+      "mean_spread": 0.2,
+      "mean_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "229": {
+      "mean_coherence": 0.3062072303575278,
+      "mean_spread": 1.6124222103147006,
+      "mean_damage": 0.01487603305785124,
+      "damage_structure": 0.21981123990789142
+    },
+    "230": {
+      "mean_coherence": 0.14491788129348326,
+      "mean_spread": 2.7446538706160237,
+      "mean_damage": 0.059031877213695405,
+      "damage_structure": 0.11170824639494124
+    },
+    "231": {
+      "mean_coherence": 0.18001472483360575,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "232": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "233": {
+      "mean_coherence": 0.18823529411764706,
+      "mean_spread": 0.2690059360460046,
+      "mean_damage": 0.005289256198347107,
+      "damage_structure": 0.0
+    },
+    "234": {
+      "mean_coherence": 0.36456843803569644,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "235": {
+      "mean_coherence": 0.19593220338983053,
+      "mean_spread": 0.075,
+      "mean_damage": 0.0028925619834710746,
+      "damage_structure": 0.0
+    },
+    "236": {
+      "mean_coherence": 1.0,
+      "mean_spread": 0.1,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "237": {
+      "mean_coherence": 0.2,
+      "mean_spread": 0.1,
+      "mean_damage": 0.003305785123966942,
+      "damage_structure": 0.0
+    },
+    "238": {
+      "mean_coherence": 0.31460088539915687,
+      "mean_spread": 8.234966658713315,
+      "mean_damage": 0.15770431588613407,
+      "damage_structure": 0.2797573206702651
+    },
+    "239": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "240": {
+      "mean_coherence": 0.19128126267793238,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "241": {
+      "mean_coherence": 0.23733193347929876,
+      "mean_spread": 1.3802197802197802,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.17083976368633821
+    },
+    "242": {
+      "mean_coherence": 0.4729499975993443,
+      "mean_spread": 13.362672633730924,
+      "mean_damage": 0.3416579380215744,
+      "damage_structure": 0.420930451718627
+    },
+    "243": {
+      "mean_coherence": 0.228289687484981,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "244": {
+      "mean_coherence": 0.30268825063713745,
+      "mean_spread": 1.1538461538461537,
+      "mean_damage": 0.01652892561983471,
+      "damage_structure": 0.2178855093429312
+    },
+    "245": {
+      "mean_coherence": 0.2953212837758835,
+      "mean_spread": 0.45714285714285713,
+      "mean_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "246": {
+      "mean_coherence": 0.5221690762341314,
+      "mean_spread": 25.81176322940309,
+      "mean_damage": 0.3524112251384979,
+      "damage_structure": 0.4579979064422413
+    },
+    "247": {
+      "mean_coherence": 0.06432132667841793,
+      "mean_spread": 0.0,
+      "mean_damage": 0.001652892561983471,
+      "damage_structure": 0.0
+    },
+    "248": {
+      "mean_coherence": 0.2161018729048433,
+      "mean_spread": 0.0,
+      "mean_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "249": {
+      "mean_coherence": 0.08,
+      "mean_spread": 0.1,
+      "mean_damage": 0.0028925619834710746,
+      "damage_structure": 0.0
+    },
+    "250": {
+      "mean_coherence": 0.6226615612610911,
+      "mean_spread": 16.313327783915234,
+      "mean_damage": 0.23478420569329658,
+      "damage_structure": 0.6112924129744837
+    },
+    "251": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "252": {
+      "mean_coherence": 0.2098862410521718,
+      "mean_spread": 3.9361334561008454,
+      "mean_damage": 0.06844811753902663,
+      "damage_structure": 0.1641599504533565
+    },
+    "253": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "254": {
+      "mean_coherence": 0.18408970798036525,
+      "mean_spread": 11.80076365102655,
+      "mean_damage": 0.07191919191919191,
+      "damage_structure": 0.14475029523256114
+    },
+    "255": {
+      "mean_coherence": 0.0,
+      "mean_spread": 0.0,
+      "mean_damage": 0.0,
+      "damage_structure": 0.0
+    }
+  },
+  "coordinates": {
+    "0": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "1": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19515953087298293,
+      "transform_norm": 0.040912029553917276,
+      "memory_raw": 0.0,
+      "transport_raw": 0.12075462818747291,
+      "transform_raw": 0.03584420340498327,
+      "triple": 0.04306061847879865,
+      "balance": 0.0,
+      "combined": 0.03014243293515905,
+      "perturbation_coherence": 0.8,
+      "perturbation_damage": 0.018109163563709018,
+      "damage_structure": 0.5773847970211607
+    },
+    "2": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.3127845771267863,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "3": {
+      "memory_norm": 0.09341099452621429,
+      "transport_norm": 0.7213492651881197,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.02877612679467548,
+      "transport_raw": 0.4463336323952848,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.1325869015729811,
+      "balance": 0.0,
+      "combined": 0.09281083110108676,
+      "perturbation_coherence": 0.30874308307459486,
+      "perturbation_damage": 0.013186813186813187,
+      "damage_structure": 0.22100576298328695
+    },
+    "4": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "5": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19084525521484963,
+      "transform_norm": 0.04926481564251659,
+      "memory_raw": 0.0,
+      "transport_raw": 0.1180851774531646,
+      "transform_raw": 0.04316231905024833,
+      "triple": 0.04547151348870931,
+      "balance": 0.0,
+      "combined": 0.03183005944209651,
+      "perturbation_coherence": 0.8,
+      "perturbation_damage": 0.013186813186813187,
+      "damage_structure": 0.5726593406593408
+    },
+    "6": {
+      "memory_norm": 0.13182700543383175,
+      "transport_norm": 0.4778503269334415,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.04061053672072552,
+      "transport_raw": 0.2956690780101594,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.1651058022079357,
+      "balance": 0.2113645434967656,
+      "combined": 0.12604331529925925,
+      "perturbation_coherence": 0.17572315115872797,
+      "perturbation_damage": 0.009881028062846246,
+      "damage_structure": 0.0
+    },
+    "7": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "8": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "9": {
+      "memory_norm": 0.19574492465629334,
+      "transport_norm": 0.4394556167193688,
+      "transform_norm": 0.11432684482312265,
+      "memory_raw": 0.06030104700087468,
+      "transport_raw": 0.27191241629076013,
+      "transform_raw": 0.10016503031435635,
+      "triple": 0.21424856214918206,
+      "balance": 0.4471099553766772,
+      "combined": 0.17871179302303886,
+      "perturbation_coherence": 0.25118669574693153,
+      "perturbation_damage": 0.04124965943147761,
+      "damage_structure": 0.188264325806787
+    },
+    "10": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.3023447178371713,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "11": {
+      "memory_norm": 0.22232359677410626,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06848885447231375,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2055518297606449,
+      "balance": 0.3378630482744127,
+      "combined": 0.16472079116684582,
+      "perturbation_coherence": 0.38819257049330097,
+      "perturbation_damage": 0.019834710743801654,
+      "damage_structure": 0.2809744241636636
+    },
+    "12": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "13": {
+      "memory_norm": 0.06735276667076373,
+      "transport_norm": 0.7995223663811661,
+      "transform_norm": 0.05380020145272209,
+      "memory_raw": 0.020748647025122708,
+      "transport_raw": 0.4947031059567465,
+      "transform_raw": 0.04713590073939029,
+      "triple": 0.14255747237780927,
+      "balance": 0.0,
+      "combined": 0.09979023066446649,
+      "perturbation_coherence": 0.2305839673595474,
+      "perturbation_damage": 0.15228754901890756,
+      "damage_structure": 0.20354685783037268
+    },
+    "14": {
+      "memory_norm": 0.20472986288434106,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06306894089820461,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.20987085392765356,
+      "balance": 0.25473765624193845,
+      "combined": 0.1629482005822649,
+      "perturbation_coherence": 0.31232727692813056,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.2248240150449601
+    },
+    "15": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.2363413190150375,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "16": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.2599414020752503,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "17": {
+      "memory_norm": 0.13403615526317567,
+      "transport_norm": 0.4524994440247166,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.04129108589933207,
+      "transport_raw": 0.2799832622768781,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.12801654316282918,
+      "balance": 0.1390661117727343,
+      "combined": 0.09495240908405274,
+      "perturbation_coherence": 0.7034016201355895,
+      "perturbation_damage": 0.013186813186813187,
+      "damage_structure": 0.5035118850069484
+    },
+    "18": {
+      "memory_norm": 0.27238661252340707,
+      "transport_norm": 0.3048599328955167,
+      "transform_norm": 0.40552549759939854,
+      "memory_raw": 0.08391123270768762,
+      "transport_raw": 0.1886315655780885,
+      "transform_raw": 0.35529252839200975,
+      "triple": 0.32292481894965064,
+      "balance": 0.826977907932747,
+      "combined": 0.30616288062311836,
+      "perturbation_coherence": 0.007290952557524448,
+      "perturbation_damage": 0.15635273817092,
+      "damage_structure": 0.006471619265758977
+    },
+    "19": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "20": {
+      "memory_norm": 0.209219038261325,
+      "transport_norm": 0.5085241645565071,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.06445187318050007,
+      "transport_raw": 0.314648462930217,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.19662308673529202,
+      "balance": 0.3064328529251654,
+      "combined": 0.15571169274047875,
+      "perturbation_coherence": 0.35052596143883974,
+      "perturbation_damage": 0.014821542094269368,
+      "damage_structure": 0.25160257535830777
+    },
+    "21": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "22": {
+      "memory_norm": 0.41707133071598634,
+      "transport_norm": 0.5991752640921569,
+      "transform_norm": 0.39560971837375997,
+      "memory_raw": 0.12848270758683733,
+      "transport_raw": 0.370738676768338,
+      "transform_raw": 0.3466050295962267,
+      "triple": 0.46239208183361086,
+      "balance": 0.8059481636012067,
+      "combined": 0.43547367204878884,
+      "perturbation_coherence": 0.13042869837689586,
+      "perturbation_damage": 0.22039778403414764,
+      "damage_structure": 0.1257955241798984
+    },
+    "23": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.2,
+      "perturbation_damage": 0.003305785123966942,
+      "damage_structure": 0.0
+    },
+    "24": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.33976204615409167,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "25": {
+      "memory_norm": 0.16799712597679753,
+      "transport_norm": 0.37188315346777745,
+      "transform_norm": 0.053368172769386116,
+      "memory_raw": 0.051753079204105094,
+      "transport_raw": 0.2301020694470376,
+      "transform_raw": 0.046757388009243936,
+      "triple": 0.1493929937004266,
+      "balance": 0.3338840715969339,
+      "combined": 0.11953907789172467,
+      "perturbation_coherence": 0.6727091648046573,
+      "perturbation_damage": 0.06359095450004541,
+      "damage_structure": 0.522230276832288
+    },
+    "26": {
+      "memory_norm": 0.24699655090819927,
+      "transport_norm": 0.46143944827135064,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.07608958777103293,
+      "transport_raw": 0.2855148747170583,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.3262039364715843,
+      "balance": 0.7316182564764915,
+      "combined": 0.2999397821072416,
+      "perturbation_coherence": 0.08097011755593357,
+      "perturbation_damage": 0.11330487694124058,
+      "damage_structure": 0.06768825333586491
+    },
+    "27": {
+      "memory_norm": 0.10601785130391259,
+      "transport_norm": 0.7210075595266027,
+      "transform_norm": 0.0312544112169067,
+      "memory_raw": 0.03265978643193106,
+      "transport_raw": 0.4461222025977163,
+      "transform_raw": 0.027382886773812665,
+      "triple": 0.13368316302968403,
+      "balance": 0.0,
+      "combined": 0.09357821412077881,
+      "perturbation_coherence": 0.2994245291470512,
+      "perturbation_damage": 0.010752883480156208,
+      "damage_structure": 0.2134607828905585
+    },
+    "28": {
+      "memory_norm": 0.09248603007521555,
+      "transport_norm": 0.7101609500210655,
+      "transform_norm": 0.041545693519915515,
+      "memory_raw": 0.028491182881407996,
+      "transport_raw": 0.4394108813925618,
+      "transform_raw": 0.03639937459388056,
+      "triple": 0.1397396484258425,
+      "balance": 0.0,
+      "combined": 0.09781775389808973,
+      "perturbation_coherence": 0.4527727691144299,
+      "perturbation_damage": 0.2751022215782175,
+      "damage_structure": 0.4391340462645576
+    },
+    "29": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.18638458725921497,
+      "transform_norm": 0.03430068104741824,
+      "memory_raw": 0.0,
+      "transport_raw": 0.11532514673347093,
+      "transform_raw": 0.03005181121050967,
+      "triple": 0.039985657941025356,
+      "balance": 0.0,
+      "combined": 0.027989960558717747,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "30": {
+      "memory_norm": 0.7036765002904498,
+      "transport_norm": 0.39327423372657355,
+      "transform_norm": 0.9977472498212945,
+      "memory_raw": 0.2167740992106545,
+      "transport_raw": 0.2433377640176526,
+      "transform_raw": 0.8741550042689786,
+      "triple": 0.6511729630974948,
+      "balance": 0.6465288578159355,
+      "combined": 0.5821217077898588,
+      "perturbation_coherence": 0.41876228190574905,
+      "perturbation_damage": 0.37878485151212427,
+      "damage_structure": 0.35404599595281677
+    },
+    "31": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "32": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "33": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19515953087298293,
+      "transform_norm": 0.040912029553917276,
+      "memory_raw": 0.0,
+      "transport_raw": 0.12075462818747291,
+      "transform_raw": 0.03584420340498327,
+      "triple": 0.04306061847879865,
+      "balance": 0.0,
+      "combined": 0.03014243293515905,
+      "perturbation_coherence": 0.6,
+      "perturbation_damage": 0.019780219780219783,
+      "damage_structure": 0.4342417582417583
+    },
+    "34": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.267826549427017,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "35": {
+      "memory_norm": 0.09396369564804766,
+      "transport_norm": 0.7213492651881197,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.02894639152252797,
+      "transport_raw": 0.4463336323952848,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.1328478875218338,
+      "balance": 0.0,
+      "combined": 0.09299352126528365,
+      "perturbation_coherence": 0.3145529567807616,
+      "perturbation_damage": 0.012351285078557806,
+      "damage_structure": 0.2248492296363361
+    },
+    "36": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "37": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19744628328382585,
+      "transform_norm": 0.07439921187014363,
+      "memory_raw": 0.0,
+      "transport_raw": 0.1221695523569098,
+      "transform_raw": 0.06518328502694712,
+      "triple": 0.052764168592640937,
+      "balance": 0.10149062774919448,
+      "combined": 0.038541438592788094,
+      "perturbation_coherence": 0.4,
+      "perturbation_damage": 0.02806284624466443,
+      "damage_structure": 0.293470166197439
+    },
+    "38": {
+      "memory_norm": 0.16577971424233945,
+      "transport_norm": 0.5685435917578374,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.051069984868685504,
+      "transport_raw": 0.35178538154906097,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.18884056714380196,
+      "balance": 0.197414848471262,
+      "combined": 0.14337237658503763,
+      "perturbation_coherence": 0.1544171827066087,
+      "perturbation_damage": 0.012351285078557806,
+      "damage_structure": 0.11038072866819058
+    },
+    "39": {
+      "memory_norm": 0.11421028569184666,
+      "transport_norm": 0.73963732986664,
+      "transform_norm": 0.03125430710206382,
+      "memory_raw": 0.03518354214077422,
+      "transport_raw": 0.4576493413470575,
+      "transform_raw": 0.027382795555810375,
+      "triple": 0.1382116457643227,
+      "balance": 0.0,
+      "combined": 0.09674815203502589,
+      "perturbation_coherence": 0.3843556448838292,
+      "perturbation_damage": 0.011570247933884299,
+      "damage_structure": 0.2743854595459931
+    },
+    "40": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "41": {
+      "memory_norm": 0.2613838639127945,
+      "transport_norm": 0.6663316624602335,
+      "transform_norm": 0.0920860184809309,
+      "memory_raw": 0.08052173353026398,
+      "transport_raw": 0.4122915841722036,
+      "transform_raw": 0.08067920396947144,
+      "triple": 0.25218600002565666,
+      "balance": 0.2912599510106385,
+      "combined": 0.19856570462187215,
+      "perturbation_coherence": 0.5310331097336602,
+      "perturbation_damage": 0.08246299155390066,
+      "damage_structure": 0.42427187142493233
+    },
+    "42": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.20794525776302208,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "43": {
+      "memory_norm": 0.1962224179740163,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.060448143264265286,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.1971706953985377,
+      "balance": 0.30543452907918034,
+      "combined": 0.15608630832815645,
+      "perturbation_coherence": 0.27310313570136324,
+      "perturbation_damage": 0.019834710743801654,
+      "damage_structure": 0.19767250103078834
+    },
+    "44": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "45": {
+      "memory_norm": 0.7696346717451155,
+      "transport_norm": 0.7224745312155776,
+      "transform_norm": 0.9999999999999998,
+      "memory_raw": 0.2370931281916783,
+      "transport_raw": 0.44702988883815414,
+      "transform_raw": 0.8761287033620463,
+      "triple": 0.8223102847032763,
+      "balance": 0.8540400810683468,
+      "combined": 0.7863029819556898,
+      "perturbation_coherence": 0.4808183653542958,
+      "perturbation_damage": 0.40036327309054587,
+      "damage_structure": 0.3940614575422344
+    },
+    "46": {
+      "memory_norm": 0.20278349986671834,
+      "transport_norm": 0.5676540529285334,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06246934564426627,
+      "transport_raw": 0.3512349809095922,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2072579352888308,
+      "balance": 0.26405853632995835,
+      "combined": 0.1614990228127229,
+      "perturbation_coherence": 0.3036977703237243,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.2186121966545156
+    },
+    "47": {
+      "memory_norm": 0.19690882928563427,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06065959866131574,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.19740033733672482,
+      "balance": 0.30635462611129616,
+      "combined": 0.1563225880974182,
+      "perturbation_coherence": 0.27462463258605974,
+      "perturbation_damage": 0.023140495867768597,
+      "damage_structure": 0.19986318302089603
+    },
+    "48": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.19413535977754506,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "49": {
+      "memory_norm": 0.15183070805527513,
+      "transport_norm": 0.4524994440247166,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.046772863606519416,
+      "transport_raw": 0.2799832622768781,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.1334479728180673,
+      "balance": 0.1735905646906618,
+      "combined": 0.10036317366014083,
+      "perturbation_coherence": 0.8774982600949611,
+      "perturbation_damage": 0.012351285078557806,
+      "damage_structure": 0.6272546594661184
+    },
+    "50": {
+      "memory_norm": 0.019061355872448373,
+      "transport_norm": 0.4054275735371094,
+      "transform_norm": 0.0018158954233533932,
+      "memory_raw": 0.005872028193748386,
+      "transport_raw": 0.25085762237913034,
+      "transform_raw": 0.001590958102703683,
+      "triple": 0.04259471243654154,
+      "balance": 0.0,
+      "combined": 0.029816298705579076,
+      "perturbation_coherence": 0.5902887533228303,
+      "perturbation_damage": 0.44030514939605847,
+      "damage_structure": 0.45548676605733307
+    },
+    "51": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "52": {
+      "memory_norm": 0.1934674665214861,
+      "transport_norm": 0.4887246420669471,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.05959945481261909,
+      "transport_raw": 0.3023975420255526,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.1890402595156197,
+      "balance": 0.3026735178445056,
+      "combined": 0.14949342576948305,
+      "perturbation_coherence": 0.2807264914585933,
+      "perturbation_damage": 0.011533920624829715,
+      "damage_structure": 0.20039399650473974
+    },
+    "53": {
+      "memory_norm": 0.06963053655764105,
+      "transport_norm": 0.47652328922672244,
+      "transform_norm": 0.03125430710206382,
+      "memory_raw": 0.02145033525150682,
+      "transport_raw": 0.2948479756835202,
+      "transform_raw": 0.027382795555810375,
+      "triple": 0.10121959204592722,
+      "balance": 0.0,
+      "combined": 0.07085371443214905,
+      "perturbation_coherence": 0.8291184280476885,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "54": {
+      "memory_norm": 0.24825888820651187,
+      "transport_norm": 0.6854504511583714,
+      "transform_norm": 0.0364128426970392,
+      "memory_raw": 0.07647846253184813,
+      "transport_raw": 0.4241213021998672,
+      "transform_raw": 0.03190233665788312,
+      "triple": 0.18367292938543484,
+      "balance": 0.16431265211617518,
+      "combined": 0.1376249864145847,
+      "perturbation_coherence": 0.46948419581746387,
+      "perturbation_damage": 0.4519117246389973,
+      "damage_structure": 0.35573095941555566
+    },
+    "55": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "56": {
+      "memory_norm": 0.17844729548933566,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.054972351244231575,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.18247834670526064,
+      "balance": 0.23516619902973457,
+      "combined": 0.1406086644536543,
+      "perturbation_coherence": 0.23419639523353272,
+      "perturbation_damage": 0.011570247933884299,
+      "damage_structure": 0.16718912909316164
+    },
+    "57": {
+      "memory_norm": 0.2158983116873562,
+      "transport_norm": 0.3002663414654923,
+      "transform_norm": 0.14245921833749986,
+      "memory_raw": 0.06650948556305361,
+      "transport_raw": 0.18578928868442873,
+      "transform_raw": 0.12481261024400443,
+      "triple": 0.2098048315426758,
+      "balance": 0.7063150765631085,
+      "combined": 0.1913198767761856,
+      "perturbation_coherence": 0.4459294749803597,
+      "perturbation_damage": 0.15933157751339572,
+      "damage_structure": 0.397411408536261
+    },
+    "58": {
+      "memory_norm": 0.2132440233496472,
+      "transport_norm": 0.46430776056606204,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.06569180732139751,
+      "transport_raw": 0.2872896380766754,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.16551455587844627,
+      "balance": 0.28669267272497323,
+      "combined": 0.130095732234816,
+      "perturbation_coherence": 0.4233556573180458,
+      "perturbation_damage": 0.5277994732540188,
+      "damage_structure": 0.2822260829955714
+    },
+    "59": {
+      "memory_norm": 0.08903767996566511,
+      "transport_norm": 0.7020581607326976,
+      "transform_norm": 0.03454464281199393,
+      "memory_raw": 0.027428886515887454,
+      "transport_raw": 0.43439729428553436,
+      "transform_raw": 0.030265553114977282,
+      "triple": 0.1292535692066139,
+      "balance": 0.0,
+      "combined": 0.09047749844462973,
+      "perturbation_coherence": 0.38486621601588494,
+      "perturbation_damage": 0.013259467804922351,
+      "damage_structure": 0.2755300966516774
+    },
+    "60": {
+      "memory_norm": 0.34903132613775273,
+      "transport_norm": 0.5138604147085564,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.10752235052411395,
+      "transport_raw": 0.31795025864648896,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.3903697654775058,
+      "balance": 0.7938243952914639,
+      "combined": 0.36622434874032955,
+      "perturbation_coherence": 0.30678257639874207,
+      "perturbation_damage": 0.14312959767505223,
+      "damage_structure": 0.26743940355952095
+    },
+    "61": {
+      "memory_norm": 0.14105761563150823,
+      "transport_norm": 0.9811325850986367,
+      "transform_norm": 0.053361414495241836,
+      "memory_raw": 0.0434541121562276,
+      "transport_raw": 0.607074120265788,
+      "transform_raw": 0.04675146689128094,
+      "triple": 0.19473791856441988,
+      "balance": 0.0,
+      "combined": 0.1363165429950939,
+      "perturbation_coherence": 0.5723291038051029,
+      "perturbation_damage": 0.03639996367269095,
+      "damage_structure": 0.4256296829683675
+    },
+    "62": {
+      "memory_norm": 0.19666903292767168,
+      "transport_norm": 0.616634364186783,
+      "transform_norm": 0.5538415471508706,
+      "memory_raw": 0.06058572716003656,
+      "transport_raw": 0.38154146529208466,
+      "transform_raw": 0.48523647657332203,
+      "triple": 0.40648988756126075,
+      "balance": 0.5941360987224047,
+      "combined": 0.35699601608260945,
+      "perturbation_coherence": 0.3756660772082791,
+      "perturbation_damage": 0.24715284715284716,
+      "damage_structure": 0.37438258271871633
+    },
+    "63": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "64": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "65": {
+      "memory_norm": 0.21906721882961083,
+      "transport_norm": 0.5112356688985211,
+      "transform_norm": 0.11432684482312265,
+      "memory_raw": 0.06748569692006343,
+      "transport_raw": 0.3163262016354905,
+      "transform_raw": 0.10016503031435635,
+      "triple": 0.23394597980802315,
+      "balance": 0.40346084725347,
+      "combined": 0.19207859883308265,
+      "perturbation_coherence": 0.35204898120725336,
+      "perturbation_damage": 0.03627281809099991,
+      "damage_structure": 0.2617580572304204
+    },
+    "66": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.24412116934014402,
+      "perturbation_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "67": {
+      "memory_norm": 0.1875877314077928,
+      "transport_norm": 1.0,
+      "transform_norm": 0.053368172769386116,
+      "memory_raw": 0.0577881476532326,
+      "transport_raw": 0.6187483011837352,
+      "transform_raw": 0.046757388009243936,
+      "triple": 0.21552397498266726,
+      "balance": 0.0,
+      "combined": 0.15086678248786708,
+      "perturbation_coherence": 0.8502931924788101,
+      "perturbation_damage": 0.03714467350830987,
+      "damage_structure": 0.6331058703603237
+    },
+    "68": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "69": {
+      "memory_norm": 0.05675724853834193,
+      "transport_norm": 0.24474772528281727,
+      "transform_norm": 0.053800201452722095,
+      "memory_raw": 0.017484598989018264,
+      "transport_raw": 0.15143723923732672,
+      "transform_raw": 0.0471359007393903,
+      "triple": 0.09074888545397157,
+      "balance": 0.24579172358717039,
+      "combined": 0.070215817308584,
+      "perturbation_coherence": 0.14148076795180464,
+      "perturbation_damage": 0.029859211268812903,
+      "damage_structure": 0.10410594253515945
+    },
+    "70": {
+      "memory_norm": 0.07106945547049079,
+      "transport_norm": 0.12771467428630964,
+      "transform_norm": 0.04154569351991554,
+      "memory_raw": 0.021893607623173956,
+      "transport_raw": 0.07902323775088817,
+      "transform_raw": 0.03639937459388058,
+      "triple": 0.07224646472010682,
+      "balance": 0.5536827262460597,
+      "combined": 0.06257301116843532,
+      "perturbation_coherence": 0.2727963852321248,
+      "perturbation_damage": 0.14432594984178232,
+      "damage_structure": 0.23820338655692477
+    },
+    "71": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.18638458725921497,
+      "transform_norm": 0.03430068104741824,
+      "memory_raw": 0.0,
+      "transport_raw": 0.11532514673347093,
+      "transform_raw": 0.03005181121050967,
+      "triple": 0.039985657941025356,
+      "balance": 0.0,
+      "combined": 0.027989960558717747,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "72": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "73": {
+      "memory_norm": 0.5616364847205166,
+      "transport_norm": 0.0018015062657719242,
+      "transform_norm": 0.6769968060833813,
+      "memory_raw": 0.17301734960436457,
+      "transport_raw": 0.0011146789415182328,
+      "transform_raw": 0.5931363338940797,
+      "triple": 0.1560800195345931,
+      "balance": 0.28681979097140164,
+      "combined": 0.12268606524753245,
+      "perturbation_coherence": 0.2736807211933882,
+      "perturbation_damage": 0.42334029606756884,
+      "damage_structure": 0.21675284450581103
+    },
+    "74": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.1937791993286458,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "75": {
+      "memory_norm": 0.6898730832237047,
+      "transport_norm": 0.7960134003025775,
+      "transform_norm": 0.9969284651462597,
+      "memory_raw": 0.2125218280328653,
+      "transport_raw": 0.49253193915670845,
+      "transform_raw": 0.8734376435133077,
+      "triple": 0.8180588084187488,
+      "balance": 0.8461467880620949,
+      "combined": 0.7803005158499529,
+      "perturbation_coherence": 0.3913976508012964,
+      "perturbation_damage": 0.42670057215511764,
+      "damage_structure": 0.3084054241971868
+    },
+    "76": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "77": {
+      "memory_norm": 0.019288107085416128,
+      "transport_norm": 0.4054275735371094,
+      "transform_norm": 0.0018158954233533932,
+      "memory_raw": 0.005941881016623271,
+      "transport_raw": 0.25085762237913034,
+      "transform_raw": 0.001590958102703683,
+      "triple": 0.042762947329479495,
+      "balance": 0.0,
+      "combined": 0.029934063130635645,
+      "perturbation_coherence": 0.5982733778162863,
+      "perturbation_damage": 0.43423848878394333,
+      "damage_structure": 0.46600339820604103
+    },
+    "78": {
+      "memory_norm": 0.07761113416254249,
+      "transport_norm": 0.05051495973307253,
+      "transform_norm": 0.03339983759747701,
+      "memory_raw": 0.023908832666513783,
+      "transport_raw": 0.03125604551920342,
+      "transform_raw": 0.029262556406780462,
+      "triple": 0.05078040170379075,
+      "balance": 0.6619392659083727,
+      "combined": 0.04563034374055538,
+      "perturbation_coherence": 0.3515114869350354,
+      "perturbation_damage": 0.15508168599077693,
+      "damage_structure": 0.3114736337013371
+    },
+    "79": {
+      "memory_norm": 0.0736868052044048,
+      "transport_norm": 0.8013812220115153,
+      "transform_norm": 0.05503870328059685,
+      "memory_raw": 0.022699906583924057,
+      "transport_raw": 0.49585326972017085,
+      "transform_raw": 0.048220987739957734,
+      "triple": 0.14812636344009297,
+      "balance": 0.0,
+      "combined": 0.10368845440806508,
+      "perturbation_coherence": 0.2939292874136694,
+      "perturbation_damage": 0.1599895054440509,
+      "damage_structure": 0.2621812227841709
+    },
+    "80": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.29117980396825416,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "81": {
+      "memory_norm": 0.18910123411299212,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.05825439625672731,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.20438852935984156,
+      "balance": 0.2334621659456041,
+      "combined": 0.15738706717952466,
+      "perturbation_coherence": 0.24303529286397807,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.17494523973927678
+    },
+    "82": {
+      "memory_norm": 0.2595589285806159,
+      "transport_norm": 0.3665368994060307,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.0799595452056753,
+      "transport_raw": 0.22679408382863514,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.3071415368642806,
+      "balance": 0.858624956778171,
+      "combined": 0.2941148924494586,
+      "perturbation_coherence": 0.12240307253627329,
+      "perturbation_damage": 0.049332485696122065,
+      "damage_structure": 0.09292828816545981
+    },
+    "83": {
+      "memory_norm": 0.07076938068874643,
+      "transport_norm": 0.4533802412998844,
+      "transform_norm": 0.0312544112169067,
+      "memory_raw": 0.021801166792079527,
+      "transport_raw": 0.28052825409457544,
+      "transform_raw": 0.027382886773812665,
+      "triple": 0.10009362901692415,
+      "balance": 0.0,
+      "combined": 0.07006554031184689,
+      "perturbation_coherence": 0.8342778607962369,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "84": {
+      "memory_norm": 0.20230721359507675,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06232262122266218,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.1991880515174701,
+      "balance": 0.31346181749227775,
+      "combined": 0.15816299065765255,
+      "perturbation_coherence": 0.29993317637561406,
+      "perturbation_damage": 0.019834710743801654,
+      "damage_structure": 0.21709212881798576
+    },
+    "85": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.2145975718548096,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "86": {
+      "memory_norm": 0.6393229809659962,
+      "transport_norm": 0.412841642102927,
+      "transform_norm": 0.9977472498212945,
+      "memory_raw": 0.19694939826236957,
+      "transport_raw": 0.25544506470908973,
+      "transform_raw": 0.8741550042689786,
+      "triple": 0.6409755307733283,
+      "balance": 0.6475896894468818,
+      "combined": 0.5732096150162946,
+      "perturbation_coherence": 0.28701643319007475,
+      "perturbation_damage": 0.26319135410044503,
+      "damage_structure": 0.28247307070664635
+    },
+    "87": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "88": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.29236875925035555,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "89": {
+      "memory_norm": 0.6853176878938712,
+      "transport_norm": 0.6436242558158862,
+      "transform_norm": 0.9969284651462599,
+      "memory_raw": 0.21111849607739216,
+      "transport_raw": 0.39824141488672543,
+      "transform_raw": 0.8734376435133079,
+      "triple": 0.7604361949548392,
+      "balance": 0.7966650522005687,
+      "combined": 0.714049218753057,
+      "perturbation_coherence": 0.36914901906773223,
+      "perturbation_damage": 0.3981109799291617,
+      "damage_structure": 0.30353899152291947
+    },
+    "90": {
+      "memory_norm": 0.2714813175655261,
+      "transport_norm": 0.27616369770715427,
+      "transform_norm": 0.42842056500840336,
+      "memory_raw": 0.08363234816495585,
+      "transport_raw": 0.1708758188049203,
+      "transform_raw": 0.3753515541144478,
+      "triple": 0.3178768853266469,
+      "balance": 0.7759270781226086,
+      "combined": 0.296508604578919,
+      "perturbation_coherence": 0.002064176838219627,
+      "perturbation_damage": 0.14312959767505223,
+      "damage_structure": 0.0017994575472151826
+    },
+    "91": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19744628328382585,
+      "transform_norm": 0.07439921187014363,
+      "memory_raw": 0.0,
+      "transport_raw": 0.1221695523569098,
+      "transform_raw": 0.06518328502694712,
+      "triple": 0.052764168592640937,
+      "balance": 0.10149062774919448,
+      "combined": 0.038541438592788094,
+      "perturbation_coherence": 0.8,
+      "perturbation_damage": 0.02815366451730088,
+      "damage_structure": 0.5870275179366089
+    },
+    "92": {
+      "memory_norm": 0.08361699536585122,
+      "transport_norm": 0.5833686132608659,
+      "transform_norm": 0.03339983759747699,
+      "memory_raw": 0.025758994142410858,
+      "transport_raw": 0.3609583384190722,
+      "transform_raw": 0.02926255640678045,
+      "triple": 0.11766861925921618,
+      "balance": 0.0,
+      "combined": 0.08236803348145132,
+      "perturbation_coherence": 0.37662374571284624,
+      "perturbation_damage": 0.2674410438046802,
+      "damage_structure": 0.3687412922166136
+    },
+    "93": {
+      "memory_norm": 0.07067864904287814,
+      "transport_norm": 0.24455883473886575,
+      "transform_norm": 0.05503870328059685,
+      "memory_raw": 0.021773216063591536,
+      "transport_raw": 0.15132036353414705,
+      "transform_raw": 0.048220987739957734,
+      "triple": 0.09835126038509005,
+      "balance": 0.3040984323231122,
+      "combined": 0.07781842149959546,
+      "perturbation_coherence": 0.2670058871613696,
+      "perturbation_damage": 0.1469322596595324,
+      "damage_structure": 0.23398225502458048
+    },
+    "94": {
+      "memory_norm": 0.020948862245901916,
+      "transport_norm": 0.6659840873881558,
+      "transform_norm": 0.005827905655623078,
+      "memory_raw": 0.006453492110322087,
+      "transport_raw": 0.4120765226868217,
+      "transform_raw": 0.005105995425377385,
+      "triple": 0.05186504565174781,
+      "balance": 0.0,
+      "combined": 0.036305531956223464,
+      "perturbation_coherence": 0.7387085737510297,
+      "perturbation_damage": 0.22047043865225682,
+      "damage_structure": 0.7125320855750078
+    },
+    "95": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.2,
+      "perturbation_damage": 0.002488420670238852,
+      "damage_structure": 0.0
+    },
+    "96": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "97": {
+      "memory_norm": 0.22709608750776872,
+      "transport_norm": 0.7455809578599161,
+      "transform_norm": 0.09208601848093093,
+      "memory_raw": 0.06995906468873259,
+      "transport_raw": 0.46132695107076516,
+      "transform_raw": 0.08067920396947147,
+      "triple": 0.24982317212604152,
+      "balance": 0.2063490245414168,
+      "combined": 0.1903414508510444,
+      "perturbation_coherence": 0.4184756423475573,
+      "perturbation_damage": 0.038761238761238756,
+      "damage_structure": 0.31239771078984585
+    },
+    "98": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.250497718155651,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "99": {
+      "memory_norm": 0.131311876329364,
+      "transport_norm": 0.1847980001350005,
+      "transform_norm": 0.14245921833749972,
+      "memory_raw": 0.040451846402728406,
+      "transport_raw": 0.11434344864568323,
+      "transform_raw": 0.12481261024400432,
+      "triple": 0.15120423098073157,
+      "balance": 0.8492698394776144,
+      "combined": 0.1443669195785147,
+      "perturbation_coherence": 0.09118767995965969,
+      "perturbation_damage": 0.0911088911088911,
+      "damage_structure": 0.07380098605646224
+    },
+    "100": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "101": {
+      "memory_norm": 0.6920004267757975,
+      "transport_norm": 0.5542335074245573,
+      "transform_norm": 1.0,
+      "memory_raw": 0.2131771760259078,
+      "transport_raw": 0.34293104117804796,
+      "transform_raw": 0.8761287033620465,
+      "triple": 0.7265514607344808,
+      "balance": 0.7511110473064659,
+      "combined": 0.6723022710924321,
+      "perturbation_coherence": 0.3848815681865255,
+      "perturbation_damage": 0.40979020979020975,
+      "damage_structure": 0.3110812003566338
+    },
+    "102": {
+      "memory_norm": 0.35918523825066134,
+      "transport_norm": 0.49591456492006775,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.11065035771325753,
+      "transport_raw": 0.3068462945765631,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.3894766549955902,
+      "balance": 0.8184468714808737,
+      "combined": 0.368263443435706,
+      "perturbation_coherence": 0.3300094248726352,
+      "perturbation_damage": 0.14312959767505223,
+      "damage_structure": 0.28768753686403936
+    },
+    "103": {
+      "memory_norm": 0.11358474707968841,
+      "transport_norm": 0.40028345576575175,
+      "transform_norm": 0.053361414495241836,
+      "memory_raw": 0.034990839145696055,
+      "transport_raw": 0.24767470824701374,
+      "transform_raw": 0.04675146689128094,
+      "triple": 0.13437082894403513,
+      "balance": 0.19949848335514775,
+      "combined": 0.10210161323527729,
+      "perturbation_coherence": 0.33911923648864783,
+      "perturbation_damage": 0.05376441740078104,
+      "damage_structure": 0.25926252335710526
+    },
+    "104": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "105": {
+      "memory_norm": 0.3824477549789515,
+      "transport_norm": 0.1120854285003318,
+      "transform_norm": 0.6193264360916393,
+      "memory_raw": 0.11781659263380191,
+      "transport_raw": 0.06935266847203132,
+      "transform_raw": 0.5426096674108053,
+      "triple": 0.29831857573760734,
+      "balance": 0.4418580012684836,
+      "combined": 0.24836733790132912,
+      "perturbation_coherence": 0.11259512707394545,
+      "perturbation_damage": 0.2678230860049042,
+      "damage_structure": 0.110186975913659
+    },
+    "106": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.3048535228166397,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "107": {
+      "memory_norm": 0.29602054753605417,
+      "transport_norm": 0.5173788811154106,
+      "transform_norm": 0.1831693207797204,
+      "memory_raw": 0.0911918864897239,
+      "transport_raw": 0.32012730375850207,
+      "transform_raw": 0.1604798995104432,
+      "triple": 0.3038512984894051,
+      "balance": 0.5821157274062936,
+      "combined": 0.26575889483563564,
+      "perturbation_coherence": 0.46706248447833615,
+      "perturbation_damage": 0.0630097175551721,
+      "damage_structure": 0.3622591094079516
+    },
+    "108": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "109": {
+      "memory_norm": 0.6798196258604731,
+      "transport_norm": 0.005048689947553539,
+      "transform_norm": 0.7794741110374974,
+      "memory_raw": 0.20942476686488865,
+      "transport_raw": 0.003123868328252154,
+      "transform_raw": 0.6829196422075665,
+      "triple": 0.1743405711863449,
+      "balance": 0.29526084788672513,
+      "combined": 0.13748118329130227,
+      "perturbation_coherence": 0.42275167497099675,
+      "perturbation_damage": 0.31094360185269276,
+      "damage_structure": 0.39183486325660705
+    },
+    "110": {
+      "memory_norm": 0.9660185495946242,
+      "transport_norm": 0.6648937752822867,
+      "transform_norm": 0.742955896724311,
+      "memory_raw": 0.297591010674255,
+      "transport_raw": 0.4114018939235551,
+      "transform_raw": 0.650924986452257,
+      "triple": 0.7814483088654496,
+      "balance": 0.8387491978179231,
+      "combined": 0.7436455588649351,
+      "perturbation_coherence": 0.7097659305735038,
+      "perturbation_damage": 0.28291708291708295,
+      "damage_structure": 0.6817298217874136
+    },
+    "111": {
+      "memory_norm": 0.2051005291106474,
+      "transport_norm": 0.442113375038314,
+      "transform_norm": 0.11428632511808051,
+      "memory_raw": 0.06318312808121017,
+      "transport_raw": 0.2735568997355644,
+      "transform_raw": 0.10012952983771717,
+      "triple": 0.21802095325257342,
+      "balance": 0.4555488619172613,
+      "combined": 0.18241042641529925,
+      "perturbation_coherence": 0.3722971158097226,
+      "perturbation_damage": 0.041394968667695944,
+      "damage_structure": 0.27910145399962627
+    },
+    "112": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.21828428420565277,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "113": {
+      "memory_norm": 0.19406646835469182,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.05978398290580552,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.20616197463301333,
+      "balance": 0.2403928984231397,
+      "combined": 0.1591813446311097,
+      "perturbation_coherence": 0.26359678255814467,
+      "perturbation_damage": 0.019834710743801654,
+      "damage_structure": 0.19079178691274634
+    },
+    "114": {
+      "memory_norm": 0.20980115371102606,
+      "transport_norm": 0.8351321038965783,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.06463119926598603,
+      "transport_raw": 0.5167365705500065,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.20019947759280723,
+      "balance": 0.06458131140978773,
+      "combined": 0.14401837775691442,
+      "perturbation_coherence": 0.36967685641923914,
+      "perturbation_damage": 0.02699724517906336,
+      "damage_structure": 0.27075010756919815
+    },
+    "115": {
+      "memory_norm": 0.1239643648654676,
+      "transport_norm": 0.42919374234116203,
+      "transform_norm": 0.03454464281199393,
+      "memory_raw": 0.03818837706935053,
+      "transport_raw": 0.2655628989522838,
+      "transform_raw": 0.030265553114977282,
+      "triple": 0.12249273054141883,
+      "balance": 0.13755433586178256,
+      "combined": 0.09079973323824952,
+      "perturbation_coherence": 0.7717211511298979,
+      "perturbation_damage": 0.01244210335119426,
+      "damage_structure": 0.5517270069757215
+    },
+    "116": {
+      "memory_norm": 0.17586697900904,
+      "transport_norm": 0.4837113240218875,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.05417746072214703,
+      "transport_raw": 0.2992955600018782,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.18738258864194046,
+      "balance": 0.295391108954255,
+      "combined": 0.14777315724665685,
+      "perturbation_coherence": 0.185380757205932,
+      "perturbation_damage": 0.013223140495867768,
+      "damage_structure": 0.13270810900146968
+    },
+    "117": {
+      "memory_norm": 0.18704653484899966,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.05762142701316594,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.20364556357883234,
+      "balance": 0.23054669278879247,
+      "combined": 0.15663683786044552,
+      "perturbation_coherence": 0.2352217456352237,
+      "perturbation_damage": 0.013223140495867768,
+      "damage_structure": 0.16838766617291798
+    },
+    "118": {
+      "memory_norm": 0.19815535055339117,
+      "transport_norm": 0.4840293911376651,
+      "transform_norm": 0.5538415471508705,
+      "memory_raw": 0.06104360114662453,
+      "transport_raw": 0.299492363489428,
+      "transform_raw": 0.4852364765733219,
+      "triple": 0.37591329836553095,
+      "balance": 0.6265137751706849,
+      "combined": 0.33379376676462746,
+      "perturbation_coherence": 0.38613826739118895,
+      "perturbation_damage": 0.23772591045318317,
+      "damage_structure": 0.3804508725854943
+    },
+    "119": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "120": {
+      "memory_norm": 0.1917096174343883,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.05905793303059764,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.18689139866900017,
+      "balance": 0.2545137925005043,
+      "combined": 0.1450939106665914,
+      "perturbation_coherence": 0.2939221423628115,
+      "perturbation_damage": 0.016220143492870764,
+      "damage_structure": 0.21146645084379623
+    },
+    "121": {
+      "memory_norm": 0.3023952153565138,
+      "transport_norm": 0.6194562134848344,
+      "transform_norm": 0.1831693207797204,
+      "memory_raw": 0.09315566227870778,
+      "transport_raw": 0.3832874797514505,
+      "transform_raw": 0.1604798995104432,
+      "triple": 0.3249471666983963,
+      "balance": 0.5001465904238722,
+      "combined": 0.2762193819365076,
+      "perturbation_coherence": 0.48312718725547465,
+      "perturbation_damage": 0.07089274362001635,
+      "damage_structure": 0.3792892852651866
+    },
+    "122": {
+      "memory_norm": 0.6055779177471639,
+      "transport_norm": 0.47507823557175083,
+      "transform_norm": 0.22668566030483892,
+      "memory_raw": 0.18655391727209977,
+      "transport_raw": 0.2939538511893872,
+      "transform_raw": 0.19860581363364785,
+      "triple": 0.4025190180169529,
+      "balance": 0.6393638733982288,
+      "combined": 0.35897014815459816,
+      "perturbation_coherence": 0.47694315739455073,
+      "perturbation_damage": 0.35600762873490144,
+      "damage_structure": 0.4162716216064709
+    },
+    "123": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19515953087298293,
+      "transform_norm": 0.040912029553917276,
+      "memory_raw": 0.0,
+      "transport_raw": 0.12075462818747291,
+      "transform_raw": 0.03584420340498327,
+      "triple": 0.04306061847879865,
+      "balance": 0.0,
+      "combined": 0.03014243293515905,
+      "perturbation_coherence": 0.6,
+      "perturbation_damage": 0.01988920170738353,
+      "damage_structure": 0.4343202252293161
+    },
+    "124": {
+      "memory_norm": 0.9003612054975578,
+      "transport_norm": 0.6946153450920257,
+      "transform_norm": 0.742955896724311,
+      "memory_raw": 0.2773646543623264,
+      "transport_raw": 0.42979206475184495,
+      "transform_raw": 0.650924986452257,
+      "triple": 0.7745356173133378,
+      "balance": 0.8872835558843719,
+      "combined": 0.7483447471259991,
+      "perturbation_coherence": 0.6062825396020651,
+      "perturbation_damage": 0.2500227045681591,
+      "damage_structure": 0.6062660211421723
+    },
+    "125": {
+      "memory_norm": 0.20544132922846234,
+      "transport_norm": 0.5167712483251486,
+      "transform_norm": 0.11428632511808051,
+      "memory_raw": 0.06328811473135369,
+      "transport_raw": 0.3197513320017839,
+      "transform_raw": 0.10012952983771717,
+      "triple": 0.22978771634230216,
+      "balance": 0.3820163865484657,
+      "combined": 0.18718620336070452,
+      "perturbation_coherence": 0.370910819331029,
+      "perturbation_damage": 0.04637181000817365,
+      "damage_structure": 0.2802773407845137
+    },
+    "126": {
+      "memory_norm": 0.30856539002436234,
+      "transport_norm": 0.29461081965155855,
+      "transform_norm": 0.41142164082515237,
+      "memory_raw": 0.09505644204759757,
+      "transport_raw": 0.18228994416974967,
+      "transform_raw": 0.36045830871122636,
+      "triple": 0.3344216193342653,
+      "balance": 0.8459828203515778,
+      "combined": 0.3189696169472687,
+      "perturbation_coherence": 0.06802482882280896,
+      "perturbation_damage": 0.3030605757878485,
+      "damage_structure": 0.06369350492055927
+    },
+    "127": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "128": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "129": {
+      "memory_norm": 0.276387847160556,
+      "transport_norm": 0.29461081965155855,
+      "transform_norm": 0.41142164082515237,
+      "memory_raw": 0.08514385030091463,
+      "transport_raw": 0.18228994416974967,
+      "transform_raw": 0.36045830871122636,
+      "triple": 0.32236775079958674,
+      "balance": 0.8173142926273615,
+      "combined": 0.30470015662290206,
+      "perturbation_coherence": 0.012550163583937016,
+      "perturbation_damage": 0.23734447370811007,
+      "damage_structure": 0.012359568873692175
+    },
+    "130": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.2705882229507284,
+      "perturbation_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "131": {
+      "memory_norm": 0.047228021399607474,
+      "transport_norm": 0.6086796143741261,
+      "transform_norm": 0.46467564873083816,
+      "memory_raw": 0.01454903182382197,
+      "transport_raw": 0.3766194773591616,
+      "transform_raw": 0.40711567360646705,
+      "triple": 0.23727180860977953,
+      "balance": 0.3625621983759657,
+      "combined": 0.19189800258950657,
+      "perturbation_coherence": 0.5597286575614536,
+      "perturbation_damage": 0.2616656071201526,
+      "damage_structure": 0.5518931680258509
+    },
+    "132": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "133": {
+      "memory_norm": 0.015496351477662602,
+      "transport_norm": 0.05140261207313577,
+      "transform_norm": 0.005827905655623078,
+      "memory_raw": 0.0047737953892668826,
+      "transport_raw": 0.031805278896659316,
+      "transform_raw": 0.005105995425377385,
+      "triple": 0.01997123317294805,
+      "balance": 0.19122052896802444,
+      "combined": 0.015125536152506098,
+      "perturbation_coherence": 0.440072379224344,
+      "perturbation_damage": 0.20352374897829445,
+      "damage_structure": 0.4155288819868842
+    },
+    "134": {
+      "memory_norm": 0.13182700543383175,
+      "transport_norm": 0.4778503269334415,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.04061053672072552,
+      "transport_raw": 0.2956690780101594,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.1651058022079357,
+      "balance": 0.2113645434967656,
+      "combined": 0.12604331529925925,
+      "perturbation_coherence": 0.16221833812649789,
+      "perturbation_damage": 0.009881028062846246,
+      "damage_structure": 0.0
+    },
+    "135": {
+      "memory_norm": 0.668595733496269,
+      "transport_norm": 0.41403796914041235,
+      "transform_norm": 0.9994068009321218,
+      "memory_raw": 0.20596714229467292,
+      "transport_raw": 0.25618529003119395,
+      "transform_raw": 0.8756089846318708,
+      "triple": 0.6516014224342676,
+      "balance": 0.65468865114389,
+      "combined": 0.5840998126050664,
+      "perturbation_coherence": 0.40700499659664785,
+      "perturbation_damage": 0.44371991644718917,
+      "damage_structure": 0.31239102787549844
+    },
+    "136": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "137": {
+      "memory_norm": 0.8597387393012219,
+      "transport_norm": 0.6514480200282776,
+      "transform_norm": 0.7497555601863573,
+      "memory_raw": 0.26485052533600356,
+      "transport_raw": 0.4030823557020047,
+      "transform_raw": 0.656882366784558,
+      "triple": 0.7488393425019513,
+      "balance": 0.8871105438384467,
+      "combined": 0.7234785226637251,
+      "perturbation_coherence": 0.5861576612558517,
+      "perturbation_damage": 0.2971392244119517,
+      "damage_structure": 0.5530004402141825
+    },
+    "138": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.2377370648776373,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "139": {
+      "memory_norm": 0.19712624718559274,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06072657627019754,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.20723982446095565,
+      "balance": 0.24458385960791984,
+      "combined": 0.16027413196200743,
+      "perturbation_coherence": 0.2703885280891901,
+      "perturbation_damage": 0.019834710743801654,
+      "damage_structure": 0.1957076635541427
+    },
+    "140": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "141": {
+      "memory_norm": 0.06946968128580179,
+      "transport_norm": 0.26259131678990466,
+      "transform_norm": 0.032703867606204286,
+      "memory_raw": 0.021400782286981435,
+      "transport_raw": 0.16247793116935355,
+      "transform_raw": 0.028652797120747794,
+      "triple": 0.0841831026014905,
+      "balance": 0.17074540103524216,
+      "combined": 0.06324033510526808,
+      "perturbation_coherence": 0.2851572507299612,
+      "perturbation_damage": 0.15072996462169086,
+      "damage_structure": 0.2511881662879476
+    },
+    "142": {
+      "memory_norm": 0.2149529678854267,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06621826360094026,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2133075428725008,
+      "balance": 0.26781340493208916,
+      "combined": 0.16645326581706515,
+      "perturbation_coherence": 0.35375401015582336,
+      "perturbation_damage": 0.023140495867768597,
+      "damage_structure": 0.25745105896133724
+    },
+    "143": {
+      "memory_norm": 0.18158577961882102,
+      "transport_norm": 0.6163106089594093,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.05593919050883016,
+      "transport_raw": 0.3813411422951479,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.205320765353352,
+      "balance": 0.1999414021630772,
+      "combined": 0.15604017226272998,
+      "perturbation_coherence": 0.20350174347123956,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.14648761864747906
+    },
+    "144": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.09422984966423087,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "145": {
+      "memory_norm": 0.03345998973571638,
+      "transport_norm": 0.04413866746475342,
+      "transform_norm": 0.46467564873083833,
+      "memory_raw": 0.010307661448924052,
+      "transport_raw": 0.027310725510329988,
+      "transform_raw": 0.40711567360646717,
+      "triple": 0.08820603731678457,
+      "balance": 0.0,
+      "combined": 0.06174422612174919,
+      "perturbation_coherence": 0.27691019992241317,
+      "perturbation_damage": 0.2173644537280901,
+      "damage_structure": 0.2660656611511351
+    },
+    "146": {
+      "memory_norm": 0.26963803721306373,
+      "transport_norm": 0.3048599328955167,
+      "transform_norm": 0.40552549759939854,
+      "memory_raw": 0.0830645084860227,
+      "transport_raw": 0.1886315655780885,
+      "transform_raw": 0.35529252839200975,
+      "triple": 0.3218349642572374,
+      "balance": 0.8237376383984232,
+      "combined": 0.30481674700345546,
+      "perturbation_coherence": 0.0023548783552909984,
+      "perturbation_damage": 0.1533375715193897,
+      "damage_structure": 0.0020817244425723742
+    },
+    "147": {
+      "memory_norm": 0.30587531464630063,
+      "transport_norm": 0.6930499608607502,
+      "transform_norm": 0.036943769053610596,
+      "memory_raw": 0.0942277392748783,
+      "transport_raw": 0.4288234859180434,
+      "transform_raw": 0.03236749647824675,
+      "triple": 0.19858665367631453,
+      "balance": 0.22007437751636716,
+      "combined": 0.15212180783068216,
+      "perturbation_coherence": 0.6377527498470348,
+      "perturbation_damage": 0.3586776859504132,
+      "damage_structure": 0.5545813581727685
+    },
+    "148": {
+      "memory_norm": 0.16856957822852522,
+      "transport_norm": 0.5085241645565071,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.051929428451462596,
+      "transport_raw": 0.314648462930217,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.1829618358226303,
+      "balance": 0.248977406586941,
+      "combined": 0.14173929409209243,
+      "perturbation_coherence": 0.16641539424741886,
+      "perturbation_damage": 0.014821542094269368,
+      "damage_structure": 0.11945061529836025
+    },
+    "149": {
+      "memory_norm": 0.6715493034201088,
+      "transport_norm": 0.38867945439679336,
+      "transform_norm": 0.9994068009321219,
+      "memory_raw": 0.2068770170161277,
+      "transport_raw": 0.240494752113037,
+      "transform_raw": 0.8756089846318709,
+      "triple": 0.6389554751982004,
+      "balance": 0.6365078649794265,
+      "combined": 0.5692788882393367,
+      "perturbation_coherence": 0.4106282704509427,
+      "perturbation_damage": 0.4427209154481882,
+      "damage_structure": 0.31566428302268845
+    },
+    "150": {
+      "memory_norm": 0.37381228019577933,
+      "transport_norm": 0.1120854285003318,
+      "transform_norm": 0.6193264360916393,
+      "memory_raw": 0.11515635420519757,
+      "transport_raw": 0.06935266847203132,
+      "transform_raw": 0.5426096674108053,
+      "triple": 0.29605616767025594,
+      "balance": 0.4378094313721276,
+      "combined": 0.24612417209575696,
+      "perturbation_coherence": 0.10016437244728019,
+      "perturbation_damage": 0.2678230860049042,
+      "damage_structure": 0.09802208657757404
+    },
+    "151": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0036488500445365788,
+      "perturbation_damage": 0.03672690945418218,
+      "damage_structure": 0.0027150082134127056
+    },
+    "152": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.10687157702107515,
+      "perturbation_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "153": {
+      "memory_norm": 0.3347302477985886,
+      "transport_norm": 0.49591456492006775,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.10311677015666712,
+      "transport_raw": 0.3068462945765631,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.3804289785368087,
+      "balance": 0.8020033171964928,
+      "combined": 0.35783187579902426,
+      "perturbation_coherence": 0.2740691772769638,
+      "perturbation_damage": 0.14312959767505223,
+      "damage_structure": 0.2389213173884159
+    },
+    "154": {
+      "memory_norm": 0.22922533900327802,
+      "transport_norm": 0.46143944827135064,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.07061500044151309,
+      "transport_raw": 0.2855148747170583,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.31818505405883946,
+      "balance": 0.7084138850896687,
+      "combined": 0.2903515509381742,
+      "perturbation_coherence": 0.038344421538417675,
+      "perturbation_damage": 0.11174280265189356,
+      "damage_structure": 0.03198275083141448
+    },
+    "155": {
+      "memory_norm": 0.1786030122470602,
+      "transport_norm": 0.5839456181787422,
+      "transform_norm": 0.07132851988714456,
+      "memory_raw": 0.055020321241629255,
+      "transport_raw": 0.3613153592317829,
+      "transform_raw": 0.062492963641457906,
+      "triple": 0.19521272856391136,
+      "balance": 0.20580769965247925,
+      "combined": 0.14870179477732468,
+      "perturbation_coherence": 0.3294670834839176,
+      "perturbation_damage": 0.014912360366905821,
+      "damage_structure": 0.23652271669227706
+    },
+    "156": {
+      "memory_norm": 0.08126918862208216,
+      "transport_norm": 0.7101609500210655,
+      "transform_norm": 0.041545693519915515,
+      "memory_raw": 0.02503573041001228,
+      "transport_raw": 0.4394108813925618,
+      "transform_raw": 0.03639937459388056,
+      "triple": 0.13384523305279958,
+      "balance": 0.0,
+      "combined": 0.0936916631369597,
+      "perturbation_coherence": 0.3709951676459558,
+      "perturbation_damage": 0.16667071437245085,
+      "damage_structure": 0.3338974528965034
+    },
+    "157": {
+      "memory_norm": 0.07913201671293095,
+      "transport_norm": 0.001428135653875342,
+      "transform_norm": 0.04167011294853317,
+      "memory_raw": 0.02437735470004706,
+      "transport_raw": 0.0008836565096952908,
+      "transform_raw": 0.036508382026548394,
+      "triple": 0.032067047164840434,
+      "balance": 0.22124254094254692,
+      "combined": 0.02457531151397044,
+      "perturbation_coherence": 0.34195307324951774,
+      "perturbation_damage": 0.149350851169033,
+      "damage_structure": 0.300652330334281
+    },
+    "158": {
+      "memory_norm": 0.1398953356104856,
+      "transport_norm": 0.5591608257479284,
+      "transform_norm": 0.03175660245925725,
+      "memory_raw": 0.04309606097150888,
+      "transport_raw": 0.3459798110200253,
+      "transform_raw": 0.027822870935813034,
+      "triple": 0.13543305284285417,
+      "balance": 0.06628220404784624,
+      "combined": 0.09749617736300376,
+      "perturbation_coherence": 0.1139784692688834,
+      "perturbation_damage": 0.1207192807192807,
+      "damage_structure": 0.09629620708136749
+    },
+    "159": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "160": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "161": {
+      "memory_norm": 0.43281433402697084,
+      "transport_norm": 0.29461081965155855,
+      "transform_norm": 0.41142164082515237,
+      "memory_raw": 0.13333248637041245,
+      "transport_raw": 0.18228994416974967,
+      "transform_raw": 0.36045830871122636,
+      "triple": 0.37435113414417204,
+      "balance": 0.8399996556772198,
+      "combined": 0.3563822410359648,
+      "perturbation_coherence": 0.2764981232339268,
+      "perturbation_damage": 0.29396058486967575,
+      "damage_structure": 0.26191210017864947
+    },
+    "162": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.28419315304179915,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "163": {
+      "memory_norm": 0.2468663846982101,
+      "transport_norm": 0.5188659522441449,
+      "transform_norm": 0.04442826637033743,
+      "memory_raw": 0.07604948885781582,
+      "transport_raw": 0.32104742649314577,
+      "transform_raw": 0.03892487940766735,
+      "triple": 0.17853587614091507,
+      "balance": 0.28021275237092935,
+      "combined": 0.13998352207376089,
+      "perturbation_coherence": 0.4502810441692543,
+      "perturbation_damage": 0.3715920443193171,
+      "damage_structure": 0.38458033295472266
+    },
+    "164": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "165": {
+      "memory_norm": 0.27199614294633623,
+      "transport_norm": 0.27616369770715427,
+      "transform_norm": 0.42842056500840336,
+      "memory_raw": 0.08379094491805167,
+      "transport_raw": 0.1708758188049203,
+      "transform_raw": 0.3753515541144478,
+      "triple": 0.31807769441842715,
+      "balance": 0.7764338671139668,
+      "combined": 0.29674427438889717,
+      "perturbation_coherence": 0.003000375855359998,
+      "perturbation_damage": 0.14312959767505223,
+      "damage_structure": 0.0026155942056139392
+    },
+    "166": {
+      "memory_norm": 0.18242993322354997,
+      "transport_norm": 0.5685435917578374,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.05619923988831777,
+      "transport_raw": 0.35178538154906097,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.19496210273912504,
+      "balance": 0.2228515718460019,
+      "combined": 0.14950775523113224,
+      "perturbation_coherence": 0.23014250762920763,
+      "perturbation_damage": 0.012351285078557806,
+      "damage_structure": 0.16451082220495236
+    },
+    "167": {
+      "memory_norm": 0.25461665053950744,
+      "transport_norm": 0.4666621521327911,
+      "transform_norm": 0.3085592398570267,
+      "memory_raw": 0.07843703042797892,
+      "transport_raw": 0.2887464138589103,
+      "transform_raw": 0.2703376067263155,
+      "triple": 0.33220740753728967,
+      "balance": 0.7378774723963046,
+      "combined": 0.306083693931586,
+      "perturbation_coherence": 0.10080469517327562,
+      "perturbation_damage": 0.1256016710562165,
+      "damage_structure": 0.08575677241818405
+    },
+    "168": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "169": {
+      "memory_norm": 0.41007923568326876,
+      "transport_norm": 0.6355721096532956,
+      "transform_norm": 0.22703670570868842,
+      "memory_raw": 0.12632872759505556,
+      "transport_raw": 0.39325916312773934,
+      "transform_raw": 0.19891337458814373,
+      "triple": 0.3896812972752099,
+      "balance": 0.6061476224932194,
+      "combined": 0.3436382256546795,
+      "perturbation_coherence": 0.5263886222483073,
+      "perturbation_damage": 0.07049314322041596,
+      "damage_structure": 0.4130001818191119
+    },
+    "170": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.19604507365375026,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "171": {
+      "memory_norm": 0.20252458212983937,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.062389583624135665,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.20911457935821764,
+      "balance": 0.25183077070221505,
+      "combined": 0.16217865125620717,
+      "perturbation_coherence": 0.29562849187852686,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.2128036499390057
+    },
+    "172": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "173": {
+      "memory_norm": 0.19951577581555632,
+      "transport_norm": 0.6308161806473127,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.06146269281819171,
+      "transport_raw": 0.390316440134737,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.20127289099360302,
+      "balance": 0.19086846071595764,
+      "combined": 0.15241601776186203,
+      "perturbation_coherence": 0.33180420308755953,
+      "perturbation_damage": 0.013223140495867768,
+      "damage_structure": 0.23752793447474715
+    },
+    "174": {
+      "memory_norm": 0.18150418378987676,
+      "transport_norm": 0.5676540529285334,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.055914054153826914,
+      "transport_raw": 0.3512349809095922,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.1997388335672087,
+      "balance": 0.23442806765594404,
+      "combined": 0.15386450013374997,
+      "perturbation_coherence": 0.21051269109287302,
+      "perturbation_damage": 0.013223140495867768,
+      "damage_structure": 0.15069925043359222
+    },
+    "175": {
+      "memory_norm": 0.129299790156724,
+      "transport_norm": 0.6370011932028546,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.03983200451881127,
+      "transport_raw": 0.39414340614627863,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17474494363607931,
+      "balance": 0.07627636901085821,
+      "combined": 0.12632013348632568,
+      "perturbation_coherence": 0.3151694784111347,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "176": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.30340751198348237,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "177": {
+      "memory_norm": 0.24008509155063226,
+      "transport_norm": 0.3826961710009307,
+      "transform_norm": 0.04442826637033743,
+      "memory_raw": 0.07396044834993641,
+      "transport_raw": 0.2367926056763461,
+      "transform_raw": 0.03892487940766735,
+      "triple": 0.15981819653679202,
+      "balance": 0.3765280826745686,
+      "combined": 0.12992554931130612,
+      "perturbation_coherence": 0.37816622271885797,
+      "perturbation_damage": 0.2149123603669058,
+      "damage_structure": 0.3622434705458567
+    },
+    "178": {
+      "memory_norm": 0.021549618205753546,
+      "transport_norm": 0.4054275735371094,
+      "transform_norm": 0.0018158954233533932,
+      "memory_raw": 0.00663856057855787,
+      "transport_raw": 0.25085762237913034,
+      "transform_raw": 0.001590958102703683,
+      "triple": 0.04437288035548349,
+      "balance": 0.0,
+      "combined": 0.031061016248838443,
+      "perturbation_coherence": 0.6180801382223077,
+      "perturbation_damage": 0.18637725910453182,
+      "damage_structure": 0.5708913952382041
+    },
+    "179": {
+      "memory_norm": 0.024958977219679913,
+      "transport_norm": 0.41790040049076216,
+      "transform_norm": 0.002070372356093145,
+      "memory_raw": 0.007688845373949728,
+      "transport_raw": 0.2585751628676617,
+      "transform_raw": 0.0018139126478205123,
+      "triple": 0.047072419780828365,
+      "balance": 0.0,
+      "combined": 0.03295069384657985,
+      "perturbation_coherence": 0.6301629647696372,
+      "perturbation_damage": 0.19398783035146674,
+      "damage_structure": 0.5878068109029576
+    },
+    "180": {
+      "memory_norm": 0.1916262139090451,
+      "transport_norm": 0.4887246420669471,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.059032239797883745,
+      "transport_raw": 0.3023975420255526,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.18843864078007558,
+      "balance": 0.3001502345873045,
+      "combined": 0.14887501921668864,
+      "perturbation_coherence": 0.27196726343418554,
+      "perturbation_damage": 0.012351285078557806,
+      "damage_structure": 0.1944080586471829
+    },
+    "181": {
+      "memory_norm": 0.2434034357314383,
+      "transport_norm": 0.3900164723422027,
+      "transform_norm": 0.3085592398570267,
+      "memory_raw": 0.07498269517836997,
+      "transport_raw": 0.2413220296954112,
+      "transform_raw": 0.2703376067263155,
+      "triple": 0.3082592163281502,
+      "balance": 0.8089839246255295,
+      "combined": 0.2905944766178462,
+      "perturbation_coherence": 0.07739979835090863,
+      "perturbation_damage": 0.09610389610389611,
+      "damage_structure": 0.06310596546064992
+    },
+    "182": {
+      "memory_norm": 0.3398099292447915,
+      "transport_norm": 0.3264789683659189,
+      "transform_norm": 0.4280488707290434,
+      "memory_raw": 0.10468161333293233,
+      "transport_raw": 0.20200830704863076,
+      "transform_raw": 0.3750259020874251,
+      "triple": 0.36212753073453374,
+      "balance": 0.8764508051805155,
+      "combined": 0.3487053612812678,
+      "perturbation_coherence": 0.10876875394035715,
+      "perturbation_damage": 0.1617473435655254,
+      "damage_structure": 0.09724979617359206
+    },
+    "183": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.2,
+      "perturbation_damage": 0.02277722277722278,
+      "damage_structure": 0.14546653346653346
+    },
+    "184": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.292884406375002,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "185": {
+      "memory_norm": 0.21477353567452587,
+      "transport_norm": 0.5698329384429619,
+      "transform_norm": 0.10294205961157822,
+      "memory_raw": 0.06616298783733106,
+      "transport_raw": 0.3525831626201187,
+      "transform_raw": 0.09019049320891052,
+      "triple": 0.23268785872509734,
+      "balance": 0.3272177338159078,
+      "combined": 0.18572337925311885,
+      "perturbation_coherence": 0.33654526160295967,
+      "perturbation_damage": 0.021487603305785124,
+      "damage_structure": 0.24425954441299105
+    },
+    "186": {
+      "memory_norm": 0.17366430162853566,
+      "transport_norm": 0.46430776056606204,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.05349890544168303,
+      "transport_raw": 0.2872896380766754,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.15456604287244252,
+      "balance": 0.23170653442749034,
+      "combined": 0.11894041865095313,
+      "perturbation_coherence": 0.1590587921370444,
+      "perturbation_damage": 0.20409368409368409,
+      "damage_structure": 0.15029662834562016
+    },
+    "187": {
+      "memory_norm": 0.129299790156724,
+      "transport_norm": 0.6211038863073963,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.03983200451881127,
+      "transport_raw": 0.38430697451131735,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.1732790074404916,
+      "balance": 0.08569072690043666,
+      "combined": 0.12574982643959268,
+      "perturbation_coherence": 0.36440252120879657,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "188": {
+      "memory_norm": 0.2602576177475708,
+      "transport_norm": 0.6753072636358618,
+      "transform_norm": 0.06188549431183066,
+      "memory_raw": 0.08017478291040521,
+      "transport_raw": 0.4178452221517263,
+      "transform_raw": 0.0542196578883435,
+      "triple": 0.22156334430266916,
+      "balance": 0.23129111636844524,
+      "combined": 0.17046803098689559,
+      "perturbation_coherence": 0.5494668070401679,
+      "perturbation_damage": 0.22744528199073652,
+      "damage_structure": 0.5345951243742783
+    },
+    "189": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.23131197308557735,
+      "perturbation_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "190": {
+      "memory_norm": 0.16866670343975254,
+      "transport_norm": 0.4971355476094211,
+      "transform_norm": 0.022919245877725782,
+      "memory_raw": 0.051959348777302315,
+      "transport_raw": 0.30760177554137524,
+      "transform_raw": 0.02008020917288782,
+      "triple": 0.12432777638632715,
+      "balance": 0.13609235300410882,
+      "combined": 0.09210546136008418,
+      "perturbation_coherence": 0.23703260531986717,
+      "perturbation_damage": 0.12744871290325835,
+      "damage_structure": 0.20217422428085474
+    },
+    "191": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "192": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "193": {
+      "memory_norm": 1.0,
+      "transport_norm": 0.6815893715100082,
+      "transform_norm": 0.7497555601863573,
+      "memory_raw": 0.3080593129387989,
+      "transport_raw": 0.42173226572670736,
+      "transform_raw": 0.656882366784558,
+      "triple": 0.7994920843941428,
+      "balance": 0.8310912871501276,
+      "combined": 0.7589797307215398,
+      "perturbation_coherence": 0.7248973062010525,
+      "perturbation_damage": 0.2635182998819362,
+      "damage_structure": 0.7131380511984523
+    },
+    "194": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.3781796983767226,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "195": {
+      "memory_norm": 0.367129136312901,
+      "transport_norm": 0.5138604147085564,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.11309754949236693,
+      "transport_raw": 0.31795025864648896,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.3970034877852991,
+      "balance": 0.8048985123986659,
+      "combined": 0.3737666964703501,
+      "perturbation_coherence": 0.3481809152826342,
+      "perturbation_damage": 0.14312959767505223,
+      "damage_structure": 0.30352863388488577
+    },
+    "196": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "197": {
+      "memory_norm": 0.08624648889010442,
+      "transport_norm": 0.584605729219968,
+      "transform_norm": 0.032703867606204265,
+      "memory_raw": 0.02656903411086932,
+      "transport_raw": 0.3617238018171339,
+      "transform_raw": 0.02865279712074778,
+      "triple": 0.11814115226922048,
+      "balance": 0.0,
+      "combined": 0.08269880658845433,
+      "perturbation_coherence": 0.42725626809772166,
+      "perturbation_damage": 0.2732244262377051,
+      "damage_structure": 0.41534893007808243
+    },
+    "198": {
+      "memory_norm": 0.05767116062898473,
+      "transport_norm": 0.12771467428630964,
+      "transform_norm": 0.04154569351991554,
+      "memory_raw": 0.017766138119748146,
+      "transport_raw": 0.07902323775088817,
+      "transform_raw": 0.03639937459388058,
+      "triple": 0.06738685194350238,
+      "balance": 0.5055310460013585,
+      "combined": 0.057390640085372896,
+      "perturbation_coherence": 0.15077801014646378,
+      "perturbation_damage": 0.03844368093602006,
+      "damage_structure": 0.11250036115961103
+    },
+    "199": {
+      "memory_norm": 0.0788252835101646,
+      "transport_norm": 0.5833224459772931,
+      "transform_norm": 0.041670112948533164,
+      "memory_raw": 0.02428286268034734,
+      "transport_raw": 0.3609297724907913,
+      "transform_raw": 0.03650838202654839,
+      "triple": 0.1242032525774982,
+      "balance": 0.0,
+      "combined": 0.08694227680424874,
+      "perturbation_coherence": 0.33747318288519323,
+      "perturbation_damage": 0.15209719573355937,
+      "damage_structure": 0.2978256977221751
+    },
+    "200": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "201": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.011120649264880872,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.009743120020984174,
+      "triple": 0.010360404565006826,
+      "balance": 0.0,
+      "combined": 0.007252283195504778,
+      "perturbation_coherence": 0.6,
+      "perturbation_damage": 0.021451275996730544,
+      "damage_structure": 0.43544491871764596
+    },
+    "202": {
+      "memory_norm": 0.2209788469742795,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.06807459177290452,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.20541137409982357,
+      "balance": 0.2352671294168588,
+      "combined": 0.15828592517008788,
+      "perturbation_coherence": 0.35924932907672036,
+      "perturbation_damage": 0.13386613386613386,
+      "damage_structure": 0.3091841128867079
+    },
+    "203": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.6,
+      "perturbation_damage": 0.0049586776859504135,
+      "damage_structure": 0.0
+    },
+    "204": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "205": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.7198347107438017
+    },
+    "206": {
+      "memory_norm": 0.03632832872967731,
+      "transport_norm": 0.37507959577713346,
+      "transform_norm": 0.05026523081802825,
+      "memory_raw": 0.011191279988679222,
+      "transport_raw": 0.23207986269578343,
+      "transform_raw": 0.04403881150079307,
+      "triple": 0.08814794251133444,
+      "balance": 0.0,
+      "combined": 0.0617035597579341,
+      "perturbation_coherence": 0.07824247142646548,
+      "perturbation_damage": 0.06791390427754065,
+      "damage_structure": 0.06114623205640005
+    },
+    "207": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "208": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.23012648984538506,
+      "perturbation_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "209": {
+      "memory_norm": 0.16277030181717878,
+      "transport_norm": 0.4951360907560463,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.050142907344641025,
+      "transport_raw": 0.3063646150100594,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.1840372064461107,
+      "balance": 0.2646527491234302,
+      "combined": 0.14343783030036533,
+      "perturbation_coherence": 0.12139926880382586,
+      "perturbation_damage": 0.013223140495867768,
+      "damage_structure": 0.08690582366766443
+    },
+    "210": {
+      "memory_norm": 0.24276042665505942,
+      "transport_norm": 0.3665368994060307,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.0747846102440873,
+      "transport_raw": 0.22679408382863514,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.30036721386289833,
+      "balance": 0.834114229187561,
+      "combined": 0.2854192198233688,
+      "perturbation_coherence": 0.07265487095546508,
+      "perturbation_damage": 0.09541367723185906,
+      "damage_structure": 0.05917713175682609
+    },
+    "211": {
+      "memory_norm": 0.15891545064474114,
+      "transport_norm": 0.49897179471738673,
+      "transform_norm": 0.07132851988714456,
+      "memory_raw": 0.04895538454097856,
+      "transport_raw": 0.3087379503199825,
+      "transform_raw": 0.062492963641457906,
+      "triple": 0.17817021785152287,
+      "balance": 0.24118059309176387,
+      "combined": 0.13761051213988174,
+      "perturbation_coherence": 0.22797350827103244,
+      "perturbation_damage": 0.013259467804922351,
+      "damage_structure": 0.1632088246616767
+    },
+    "212": {
+      "memory_norm": 0.18049279318687636,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.05560248585955385,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.19175474337025142,
+      "balance": 0.2833148115673507,
+      "combined": 0.15052640805470252,
+      "perturbation_coherence": 0.20486841589757815,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.14747139689817404
+    },
+    "213": {
+      "memory_norm": 0.214636274873145,
+      "transport_norm": 0.5346928568015765,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.06612070336916423,
+      "transport_raw": 0.3308402968010537,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2070498323201992,
+      "balance": 0.3046179571206171,
+      "combined": 0.16385621170720305,
+      "perturbation_coherence": 0.3432310129132746,
+      "perturbation_damage": 0.026446280991735537,
+      "damage_structure": 0.2511543296143912
+    },
+    "214": {
+      "memory_norm": 0.16196646181839386,
+      "transport_norm": 0.5968368196338197,
+      "transform_norm": 0.031756602459257294,
+      "memory_raw": 0.04989527694690262,
+      "transport_raw": 0.36929176823232934,
+      "transform_raw": 0.02782287093581307,
+      "triple": 0.14533545624350822,
+      "balance": 0.08314000570751778,
+      "combined": 0.10535977656893274,
+      "perturbation_coherence": 0.21143748792833636,
+      "perturbation_damage": 0.12256470801925345,
+      "damage_structure": 0.17910397031654862
+    },
+    "215": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "216": {
+      "memory_norm": 0.18265531458799775,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.05626867071659876,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.18390157628873838,
+      "balance": 0.24145502874509706,
+      "combined": 0.14205229151883667,
+      "perturbation_coherence": 0.2115603738966702,
+      "perturbation_damage": 0.13056034874216693,
+      "damage_structure": 0.18123793716283612
+    },
+    "217": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.013223140495867768,
+      "damage_structure": 0.7158677685950413
+    },
+    "218": {
+      "memory_norm": 0.16465663406046996,
+      "transport_norm": 0.6058892378198949,
+      "transform_norm": 0.18063253588702327,
+      "memory_raw": 0.050724009559483606,
+      "transport_raw": 0.37489293660656814,
+      "transform_raw": 0.15825734945169603,
+      "triple": 0.2621739175169003,
+      "balance": 0.3555227885195932,
+      "combined": 0.21148438293164445,
+      "perturbation_coherence": 0.38538139378567493,
+      "perturbation_damage": 0.3327581509399691,
+      "damage_structure": 0.34710925191803027
+    },
+    "219": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "220": {
+      "memory_norm": 0.043448907089969346,
+      "transport_norm": 0.053865360558355634,
+      "transform_norm": 0.050265230818028264,
+      "memory_raw": 0.013384840466077665,
+      "transport_raw": 0.033329100338131926,
+      "transform_raw": 0.044038811500793085,
+      "triple": 0.04899879160494821,
+      "balance": 0.9121923080920751,
+      "combined": 0.04770805036581583,
+      "perturbation_coherence": 0.2046002251361653,
+      "perturbation_damage": 0.05667060212514759,
+      "damage_structure": 0.1571339391394044
+    },
+    "221": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.8,
+      "perturbation_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "222": {
+      "memory_norm": 0.0017314969684542698,
+      "transport_norm": 0.6693479905554787,
+      "transform_norm": 0.01153000774098211,
+      "memory_raw": 0.0005334037664576355,
+      "transport_raw": 0.4141579320569493,
+      "transform_raw": 0.010101770731861016,
+      "triple": 0.04257557489623512,
+      "balance": 0.0,
+      "combined": 0.02980290242736458,
+      "perturbation_coherence": 0.6467103676312634,
+      "perturbation_damage": 0.021669239851058033,
+      "damage_structure": 0.4695137238263258
+    },
+    "223": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "224": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "225": {
+      "memory_norm": 0.4261346726547229,
+      "transport_norm": 0.5245473367086483,
+      "transform_norm": 0.22703670570868853,
+      "memory_raw": 0.1312747544774139,
+      "transport_raw": 0.32456277347892887,
+      "transform_raw": 0.19891337458814382,
+      "triple": 0.37023364127265895,
+      "balance": 0.6847592735168246,
+      "combined": 0.33521982465966765,
+      "perturbation_coherence": 0.5622146596973847,
+      "perturbation_damage": 0.07766778675869586,
+      "damage_structure": 0.4459494237505564
+    },
+    "226": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.2587101887622371,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "227": {
+      "memory_norm": 0.22353074626063935,
+      "transport_norm": 0.4967906015255661,
+      "transform_norm": 0.10294205961157822,
+      "memory_raw": 0.06886072811374955,
+      "transport_raw": 0.30738834073799,
+      "transform_raw": 0.09019049320891052,
+      "triple": 0.22526886146867342,
+      "balance": 0.3995886103470151,
+      "combined": 0.18469266442068782,
+      "perturbation_coherence": 0.37537032599932557,
+      "perturbation_damage": 0.019834710743801654,
+      "damage_structure": 0.27169366240513165
+    },
+    "228": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.6,
+      "perturbation_damage": 0.006611570247933884,
+      "damage_structure": 0.0
+    },
+    "229": {
+      "memory_norm": 0.1942091199958773,
+      "transport_norm": 0.5625260468926344,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.05982792807237872,
+      "transport_raw": 0.34806203588641976,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.19199769506051978,
+      "balance": 0.22999211306896317,
+      "combined": 0.14764577321976563,
+      "perturbation_coherence": 0.3062072303575278,
+      "perturbation_damage": 0.01487603305785124,
+      "damage_structure": 0.21981123990789142
+    },
+    "230": {
+      "memory_norm": 0.1459891860801623,
+      "transport_norm": 0.45702600168158874,
+      "transform_norm": 0.06188549431183064,
+      "memory_raw": 0.04497332836034926,
+      "transport_raw": 0.28278406213727797,
+      "transform_raw": 0.05421965788834348,
+      "triple": 0.16042922551073077,
+      "balance": 0.2331844121753529,
+      "combined": 0.1235233362514516,
+      "perturbation_coherence": 0.14491788129348326,
+      "perturbation_damage": 0.059031877213695405,
+      "damage_structure": 0.11170824639494124
+    },
+    "231": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.18001472483360575,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "232": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "233": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.18823529411764706,
+      "perturbation_damage": 0.005289256198347107,
+      "damage_structure": 0.0
+    },
+    "234": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.17139365197521161,
+      "balance": 0.09362647504066135,
+      "combined": 0.12478965142628361,
+      "perturbation_coherence": 0.36456843803569644,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "235": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.7706920663335409,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.4768644067796611,
+      "transform_raw": 0.0,
+      "triple": 0.042555950601762066,
+      "balance": 0.0,
+      "combined": 0.029789165421233443,
+      "perturbation_coherence": 0.19593220338983053,
+      "perturbation_damage": 0.0028925619834710746,
+      "damage_structure": 0.0
+    },
+    "236": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 1.0,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "237": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.2,
+      "perturbation_damage": 0.003305785123966942,
+      "damage_structure": 0.0
+    },
+    "238": {
+      "memory_norm": 0.042322157088516624,
+      "transport_norm": 0.3276427751357887,
+      "transform_norm": 0.046781142961938596,
+      "memory_raw": 0.013037734634776348,
+      "transport_raw": 0.20272841051039384,
+      "transform_raw": 0.04098630212503779,
+      "triple": 0.08656581183660489,
+      "balance": 0.039250570782209504,
+      "combined": 0.061615395543067046,
+      "perturbation_coherence": 0.31460088539915687,
+      "perturbation_damage": 0.15770431588613407,
+      "damage_structure": 0.2797573206702651
+    },
+    "239": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "240": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.19128126267793238,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "241": {
+      "memory_norm": 0.18927380452307063,
+      "transport_norm": 0.4951360907560463,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.05830755817868967,
+      "transport_raw": 0.3063646150100594,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.19352812102196476,
+      "balance": 0.30456762366830725,
+      "combined": 0.15315240469517105,
+      "perturbation_coherence": 0.23733193347929876,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.17083976368633821
+    },
+    "242": {
+      "memory_norm": 0.2548562647564453,
+      "transport_norm": 0.8351321038965783,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.07851084581901917,
+      "transport_raw": 0.5167365705500065,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.21361188892703167,
+      "balance": 0.1180212238763767,
+      "combined": 0.15709154321863603,
+      "perturbation_coherence": 0.4729499975993443,
+      "perturbation_damage": 0.3416579380215744,
+      "damage_structure": 0.420930451718627
+    },
+    "243": {
+      "memory_norm": 0.12929979015672405,
+      "transport_norm": 0.5361481920123792,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.03983200451881128,
+      "transport_raw": 0.3317407829903907,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16498817474264574,
+      "balance": 0.14274524131695887,
+      "combined": 0.12255710536527706,
+      "perturbation_coherence": 0.228289687484981,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "244": {
+      "memory_norm": 0.20255580529811676,
+      "transport_norm": 0.4837113240218875,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.062399202211902975,
+      "transport_raw": 0.2992955600018782,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.19641863927230802,
+      "balance": 0.33242415029912775,
+      "combined": 0.15708133726951795,
+      "perturbation_coherence": 0.30268825063713745,
+      "perturbation_damage": 0.01652892561983471,
+      "damage_structure": 0.2178855093429312
+    },
+    "245": {
+      "memory_norm": 0.12929979015672405,
+      "transport_norm": 0.5481054275199093,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.03983200451881128,
+      "transport_raw": 0.3391393021475288,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.1662056961034628,
+      "balance": 0.13394967275038372,
+      "combined": 0.12302294685311653,
+      "perturbation_coherence": 0.2953212837758835,
+      "perturbation_damage": 0.009917355371900827,
+      "damage_structure": 0.0
+    },
+    "246": {
+      "memory_norm": 0.23707611210845606,
+      "transport_norm": 0.3561568096487611,
+      "transform_norm": 0.02291924587772576,
+      "memory_raw": 0.07303350421033264,
+      "transport_raw": 0.2203714209251899,
+      "transform_raw": 0.0200802091728878,
+      "triple": 0.12461676057495776,
+      "balance": 0.3286868457469926,
+      "combined": 0.09951969939064774,
+      "perturbation_coherence": 0.5221690762341314,
+      "perturbation_damage": 0.3524112251384979,
+      "damage_structure": 0.4579979064422413
+    },
+    "247": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.06432132667841793,
+      "perturbation_damage": 0.001652892561983471,
+      "damage_structure": 0.0
+    },
+    "248": {
+      "memory_norm": 0.1283693782152473,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.039545382455369905,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.16350404196093424,
+      "balance": 0.14894147140403602,
+      "combined": 0.1217585891497046,
+      "perturbation_coherence": 0.2161018729048433,
+      "perturbation_damage": 0.008264462809917356,
+      "damage_structure": 0.0
+    },
+    "249": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.29090988962012465,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.18000000000000005,
+      "transform_raw": 0.0,
+      "triple": 0.030755266539997616,
+      "balance": 0.0,
+      "combined": 0.02152868657799833,
+      "perturbation_coherence": 0.08,
+      "perturbation_damage": 0.0028925619834710746,
+      "damage_structure": 0.0
+    },
+    "250": {
+      "memory_norm": 0.11522958479281961,
+      "transport_norm": 0.6558980318524549,
+      "transform_norm": 0.03514551230614046,
+      "memory_raw": 0.03549754672149908,
+      "transport_raw": 0.4058357929584619,
+      "transform_raw": 0.030791992125773687,
+      "triple": 0.1384915898848308,
+      "balance": 0.0,
+      "combined": 0.09694411291938154,
+      "perturbation_coherence": 0.6226615612610911,
+      "perturbation_damage": 0.23478420569329658,
+      "damage_structure": 0.6112924129744837
+    },
+    "251": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "252": {
+      "memory_norm": 0.035415293479525836,
+      "transport_norm": 0.5825686244723461,
+      "transform_norm": 0.04678114296193861,
+      "memory_raw": 0.010910010976828654,
+      "transport_raw": 0.3604633467152096,
+      "transform_raw": 0.0409863021250378,
+      "triple": 0.09882562921451792,
+      "balance": 0.0,
+      "combined": 0.06917794045016254,
+      "perturbation_coherence": 0.2098862410521718,
+      "perturbation_damage": 0.06844811753902663,
+      "damage_structure": 0.1641599504533565
+    },
+    "253": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    },
+    "254": {
+      "memory_norm": 0.0011053571301843812,
+      "transport_norm": 0.5541179242502182,
+      "transform_norm": 0.01153000774098211,
+      "memory_raw": 0.000340515558076603,
+      "transport_raw": 0.3428595242852802,
+      "transform_raw": 0.010101770731861016,
+      "triple": 0.03997703672810535,
+      "balance": 0.0,
+      "combined": 0.02798392570967374,
+      "perturbation_coherence": 0.18408970798036525,
+      "perturbation_damage": 0.07191919191919191,
+      "damage_structure": 0.14475029523256114
+    },
+    "255": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002,
+      "perturbation_coherence": 0.0,
+      "perturbation_damage": 0.0,
+      "damage_structure": 0.0
+    }
+  },
+  "rankings": [
+    [
+      45,
+      0.7863029819556898
+    ],
+    [
+      75,
+      0.7803005158499529
+    ],
+    [
+      193,
+      0.7589797307215398
+    ],
+    [
+      124,
+      0.7483447471259991
+    ],
+    [
+      110,
+      0.7436455588649351
+    ],
+    [
+      137,
+      0.7234785226637251
+    ],
+    [
+      89,
+      0.714049218753057
+    ],
+    [
+      101,
+      0.6723022710924321
+    ],
+    [
+      135,
+      0.5840998126050664
+    ],
+    [
+      30,
+      0.5821217077898588
+    ],
+    [
+      86,
+      0.5732096150162946
+    ],
+    [
+      149,
+      0.5692788882393367
+    ],
+    [
+      22,
+      0.43547367204878884
+    ],
+    [
+      195,
+      0.3737666964703501
+    ],
+    [
+      102,
+      0.368263443435706
+    ],
+    [
+      60,
+      0.36622434874032955
+    ],
+    [
+      122,
+      0.35897014815459816
+    ],
+    [
+      153,
+      0.35783187579902426
+    ],
+    [
+      62,
+      0.35699601608260945
+    ],
+    [
+      161,
+      0.3563822410359648
+    ],
+    [
+      182,
+      0.3487053612812678
+    ],
+    [
+      169,
+      0.3436382256546795
+    ],
+    [
+      225,
+      0.33521982465966765
+    ],
+    [
+      118,
+      0.33379376676462746
+    ],
+    [
+      126,
+      0.3189696169472687
+    ],
+    [
+      18,
+      0.30616288062311836
+    ],
+    [
+      167,
+      0.306083693931586
+    ],
+    [
+      146,
+      0.30481674700345546
+    ],
+    [
+      129,
+      0.30470015662290206
+    ],
+    [
+      26,
+      0.2999397821072416
+    ],
+    [
+      165,
+      0.29674427438889717
+    ],
+    [
+      90,
+      0.296508604578919
+    ],
+    [
+      82,
+      0.2941148924494586
+    ],
+    [
+      181,
+      0.2905944766178462
+    ],
+    [
+      154,
+      0.2903515509381742
+    ],
+    [
+      210,
+      0.2854192198233688
+    ],
+    [
+      121,
+      0.2762193819365076
+    ],
+    [
+      107,
+      0.26575889483563564
+    ],
+    [
+      105,
+      0.24836733790132912
+    ],
+    [
+      150,
+      0.24612417209575696
+    ],
+    [
+      218,
+      0.21148438293164445
+    ],
+    [
+      41,
+      0.19856570462187215
+    ],
+    [
+      65,
+      0.19207859883308265
+    ],
+    [
+      131,
+      0.19189800258950657
+    ],
+    [
+      57,
+      0.1913198767761856
+    ],
+    [
+      97,
+      0.1903414508510444
+    ],
+    [
+      125,
+      0.18718620336070452
+    ],
+    [
+      185,
+      0.18572337925311885
+    ],
+    [
+      227,
+      0.18469266442068782
+    ],
+    [
+      111,
+      0.18241042641529925
+    ]
+  ],
+  "v2_rankings": [
+    [
+      75,
+      0.8973486153328702
+    ],
+    [
+      45,
+      0.8583732987004122
+    ],
+    [
+      89,
+      0.8133368150495526
+    ],
+    [
+      101,
+      0.7604839037587379
+    ],
+    [
+      124,
+      0.752653966993865
+    ],
+    [
+      193,
+      0.7500432811364891
+    ],
+    [
+      110,
+      0.7384919251362352
+    ],
+    [
+      137,
+      0.7353056486508951
+    ],
+    [
+      135,
+      0.6614366188468743
+    ],
+    [
+      86,
+      0.659618860241001
+    ],
+    [
+      30,
+      0.6458722979887557
+    ],
+    [
+      149,
+      0.6435668306800284
+    ],
+    [
+      22,
+      0.5274311232574046
+    ],
+    [
+      60,
+      0.42345983794042547
+    ],
+    [
+      195,
+      0.42345983794042547
+    ],
+    [
+      102,
+      0.4190504582793223
+    ],
+    [
+      153,
+      0.4190504582793223
+    ],
+    [
+      182,
+      0.41484641854996623
+    ],
+    [
+      62,
+      0.4036179576557832
+    ],
+    [
+      167,
+      0.39673537289494504
+    ],
+    [
+      26,
+      0.3934556167936049
+    ],
+    [
+      154,
+      0.3934556167936049
+    ],
+    [
+      18,
+      0.3920352495977946
+    ],
+    [
+      146,
+      0.3920352495977946
+    ],
+    [
+      126,
+      0.38858558218202144
+    ],
+    [
+      129,
+      0.38858558218202144
+    ],
+    [
+      161,
+      0.38858558218202144
+    ],
+    [
+      90,
+      0.3843584494012085
+    ],
+    [
+      165,
+      0.3843584494012085
+    ],
+    [
+      118,
+      0.37682562936365166
+    ],
+    [
+      122,
+      0.3764616656952326
+    ],
+    [
+      169,
+      0.3747066017983888
+    ],
+    [
+      181,
+      0.37263158208762664
+    ],
+    [
+      82,
+      0.3620936406043224
+    ],
+    [
+      210,
+      0.3620936406043224
+    ],
+    [
+      225,
+      0.3567659725253454
+    ],
+    [
+      105,
+      0.31189578890180214
+    ],
+    [
+      150,
+      0.31189578890180214
+    ],
+    [
+      121,
+      0.30911975407460596
+    ],
+    [
+      107,
+      0.29786001122066025
+    ],
+    [
+      218,
+      0.24232965484159324
+    ],
+    [
+      65,
+      0.22956742333546207
+    ],
+    [
+      185,
+      0.2255188251297668
+    ],
+    [
+      97,
+      0.2233070210677244
+    ],
+    [
+      9,
+      0.22203546629699364
+    ],
+    [
+      125,
+      0.22203004335401388
+    ],
+    [
+      227,
+      0.21914387719618786
+    ],
+    [
+      41,
+      0.21873849562827344
+    ],
+    [
+      111,
+      0.21510292471717965
+    ],
+    [
+      57,
+      0.2086515723187247
+    ]
+  ]
+}

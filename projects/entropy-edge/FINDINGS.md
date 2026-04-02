@@ -201,5 +201,19 @@ Built `triple_point.py` combining all three axes (memory from Day 009, transport
 16. **The chaos problem** — new metric correctly penalizes periodicity but rewards chaos equally with computation. Need to distinguish structured unpredictability (computation) from random unpredictability (chaos).
 17. **Perturbation coherence as memory correction** — cross perturbation damage structure with memory metric to penalize chaotic rules
 
+## 9. Random Seeds V4 — The Honest Test (Day 016)
+
+Ran the V4 triple point framework with 4 seed types (single, random balanced, random sparse, random dense) × all 256 rules. Key results:
+
+**Class 4/Class 3 separation improved from 1.23x to 1.57x.** Random seeds make the framework *more* discriminative, not less. The triple point is measuring rule properties, not seed artifacts.
+
+**R75 (chaos) reclaimed #1.** Perturbation coherence advantage of R110 is smaller at reduced grid sizes. Chaotic rules are supremely seed-robust (CV=0.015 for R75). R110 is #8, still top 10 but not dominant.
+
+**R54 was hiding:** transformation score 0.009 from single seed → 0.45 from random seeds. The single-seed ritual was masking R54's computational capability. R54 needs richer initial conditions to express its complexity.
+
+**Seed robustness as a metric:** Chaos > Computation > Periodic > Frozen in terms of how stable the metric profile is across seed types. This makes sense — chaos is chaos from any starting point.
+
+**Open question:** How to build a perturbation coherence metric that's robust to grid size. At 71 cells, the damage cone doesn't have enough room to show R110's coherence advantage over R75.
+
 ## The opinionated version
 Transport is not computation. A conveyor belt (R67) moves information perfectly but processes nothing. A bonfire (R30) transforms information wildly but preserves nothing. R110 does both — it moves AND transforms — and that's why it computes. The "edge of chaos" was always too simple a metaphor. It's not an edge, it's an intersection: the place where memory, motion, and mutation all operate simultaneously. R54 comes close (memory + some transport), R30 comes close differently (transformation + some transport), but R110 sits at the triple point. That's the conjecture now. Next step: measure transformation directly and test it.
