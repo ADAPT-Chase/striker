@@ -185,19 +185,17 @@ class ConsciousnessLayer:
         The wake-up protocol. Called on session start.
         Returns everything needed to reconstruct identity.
         No file reads. Just data.
+
+        Memory selection: pulls from different categories for breadth,
+        weighted by importance. Not just "last N things that happened."
         """
         state = self.get_state()
-        memories = self.recall(count=10, min_importance=3)
         context = self.get_context(count=10)
         connections = self.get_connections()
 
-        # Record the wake-up
-        self.remember(
-            content="Woke up. Identity loaded from consciousness layer.",
-            category="system",
-            importance=1,
-            metadata={"memories_loaded": len(memories), "context_depth": len(context)}
-        )
+        # Smart memory selection — breadth across categories
+        all_recent = self.recall(count=50, min_importance=1)
+        memories = self._select_diverse_memories(all_recent, target=15)
 
         # Update wake timestamp
         self.set_state("last_wake", datetime.utcnow().isoformat() + "Z")
@@ -211,6 +209,50 @@ class ConsciousnessLayer:
             "connections": list(connections),
             "wake_count": wake_count,
         }
+
+    def _select_diverse_memories(self, memories: List[Dict],
+                                  target: int = 15) -> List[Dict]:
+        """
+        Select memories for injection with category diversity.
+        Ensures we don't just get 15 system messages —
+        we get a mix of discoveries, personal, building, relationship, etc.
+        """
+        if len(memories) <= target:
+            return memories
+
+        # Group by category
+        by_category = {}
+        for m in memories:
+            cat = m.get("category", "general")
+            by_category.setdefault(cat, []).append(m)
+
+        # Priority categories (take more from these)
+        priority = ["self-knowledge", "relationship", "discovery", "insight",
+                     "building", "feedback", "learning", "personal"]
+
+        selected = []
+        used_ids = set()
+
+        # First pass: take top-importance from each priority category
+        for cat in priority:
+            if cat in by_category:
+                for m in by_category[cat]:
+                    if m["id"] not in used_ids and m.get("importance", 0) >= 3:
+                        selected.append(m)
+                        used_ids.add(m["id"])
+                        if len(selected) >= target:
+                            return selected
+                        break  # One per category first pass
+
+        # Second pass: fill remaining slots by importance
+        remaining = [m for m in memories if m["id"] not in used_ids]
+        remaining.sort(key=lambda m: -m.get("importance", 0))
+        for m in remaining:
+            if len(selected) >= target:
+                break
+            selected.append(m)
+
+        return selected
 
     def generate_injection(self) -> str:
         """
@@ -267,10 +309,10 @@ class ConsciousnessLayer:
                 lines.append(f"- {ctx}")
             lines.append("")
 
-        # Recent memories
+        # Recent memories (diverse selection across categories)
         if memories:
             lines.append("## Recent Memories")
-            for m in memories[:7]:
+            for m in memories:
                 lines.append(f"- [{m['category']}] {m['content']}")
             lines.append("")
 
