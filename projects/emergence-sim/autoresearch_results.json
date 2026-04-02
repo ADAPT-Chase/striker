@@ -1,0 +1,77 @@
+{
+  "log": [
+    {
+      "iteration": 0,
+      "params": {
+        "num_agents": 60,
+        "ticks": 2000,
+        "cultural_rate": 0.15,
+        "convention_strength": 0.03,
+        "blend_rate": 0.45,
+        "food_spawn_rate": 0.06,
+        "food_energy": 3.0,
+        "energy_drain": 0.14,
+        "signal_threshold": 0.15
+      },
+      "score": 0.5287,
+      "outcome": "baseline"
+    },
+    {
+      "iteration": 1,
+      "param": "num_agents",
+      "old": 60,
+      "new": 39,
+      "score": 0.065,
+      "delta": -0.46369999999999995,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 2,
+      "param": "food_spawn_rate",
+      "old": 0.06,
+      "new": 0.0405,
+      "score": 0.4894,
+      "delta": -0.039299999999999946,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 3,
+      "param": "cultural_rate",
+      "old": 0.15,
+      "new": 0.1694,
+      "score": 0.4918,
+      "delta": -0.03689999999999993,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 4,
+      "param": "food_energy",
+      "old": 3.0,
+      "new": 3.1238,
+      "score": 0.1908,
+      "delta": -0.3379,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 5,
+      "param": "convention_strength",
+      "old": 0.03,
+      "new": 0.0268,
+      "score": 0.4503,
+      "delta": -0.07839999999999997,
+      "outcome": "discard"
+    }
+  ],
+  "best_params": {
+    "num_agents": 60,
+    "ticks": 2000,
+    "cultural_rate": 0.15,
+    "convention_strength": 0.03,
+    "blend_rate": 0.45,
+    "food_spawn_rate": 0.06,
+    "food_energy": 3.0,
+    "energy_drain": 0.14,
+    "signal_threshold": 0.15
+  },
+  "best_score": 0.5287
+}

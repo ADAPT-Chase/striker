@@ -1,0 +1,90 @@
+{
+  "Culture+Convention": {
+    "memory_locus": {
+      "individual_consistency": 0.9954,
+      "population_consistency": 0.9798,
+      "mean_agreement": 0.4122,
+      "mean_preference_entropy": 0.9054,
+      "active_generations": 2,
+      "total_agents_tracked": 70,
+      "memory_locus": "REDUNDANT",
+      "memory_description": "Memory is stored at both levels \u2014 robust but potentially rigid"
+    },
+    "triple_point": {
+      "mean_memory": 0.544,
+      "mean_transport": 0.7963,
+      "mean_transformation": 0.5136,
+      "mean_triple": 0.5278,
+      "max_triple": 0.835,
+      "computing_windows": 50,
+      "total_windows": 58
+    },
+    "label": "WITH culture + convention"
+  },
+  "Convention Only": {
+    "memory_locus": {
+      "individual_consistency": 0.9966,
+      "population_consistency": 0.947,
+      "mean_agreement": 0.4184,
+      "mean_preference_entropy": 0.9003,
+      "active_generations": 2,
+      "total_agents_tracked": 71,
+      "memory_locus": "REDUNDANT",
+      "memory_description": "Memory is stored at both levels \u2014 robust but potentially rigid"
+    },
+    "triple_point": {
+      "mean_memory": 0.5346,
+      "mean_transport": 0.7174,
+      "mean_transformation": 0.5429,
+      "mean_triple": 0.5093,
+      "max_triple": 0.7866,
+      "computing_windows": 51,
+      "total_windows": 58
+    },
+    "label": "Convention ONLY (no copying)"
+  },
+  "Copying Only": {
+    "memory_locus": {
+      "individual_consistency": 0.9968,
+      "population_consistency": 0.9848,
+      "mean_agreement": 0.4385,
+      "mean_preference_entropy": 0.8895,
+      "active_generations": 2,
+      "total_agents_tracked": 88,
+      "memory_locus": "REDUNDANT",
+      "memory_description": "Memory is stored at both levels \u2014 robust but potentially rigid"
+    },
+    "triple_point": {
+      "mean_memory": 0.4823,
+      "mean_transport": 0.7651,
+      "mean_transformation": 0.4343,
+      "mean_triple": 0.5124,
+      "max_triple": 0.731,
+      "computing_windows": 56,
+      "total_windows": 58
+    },
+    "label": "Copying ONLY (no convention)"
+  },
+  "Baseline": {
+    "memory_locus": {
+      "individual_consistency": 0.9935,
+      "population_consistency": 0.9899,
+      "mean_agreement": 0.6032,
+      "mean_preference_entropy": 0.6385,
+      "active_generations": 2,
+      "total_agents_tracked": 70,
+      "memory_locus": "REDUNDANT",
+      "memory_description": "Memory is stored at both levels \u2014 robust but potentially rigid"
+    },
+    "triple_point": {
+      "mean_memory": 0.4744,
+      "mean_transport": 0.6836,
+      "mean_transformation": 0.2494,
+      "mean_triple": 0.2462,
+      "max_triple": 0.8053,
+      "computing_windows": 27,
+      "total_windows": 58
+    },
+    "label": "BASELINE (no culture)"
+  }
+}

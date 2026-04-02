@@ -98,3 +98,20 @@ python3 info_theory.py              # Self-test with synthetic data
 python3 run_analysis.py             # Full comparative analysis (3 conditions × 2000 ticks)
 python3 run_headless.py             # Quick sim with NMI now integrated into status reports
 ```
+
+## Memory Locus Experiment (Day 20, April 2 2026)
+
+**Question:** Why does culture decrease temporal memory but increase transformation?
+
+**Hypothesis:** Culture creates distributed memory (group remembers, individuals change). **WRONG.**
+
+**Actual finding:** Culture creates **cognitive diversity**. Without it, agents converge to same mappings (agreement 0.60). With culture, agents diversify (agreement 0.41, entropy 0.91). This diversity doubles transformation (0.25→0.51) and the triple-point score (0.25→0.53).
+
+**Key numbers:**
+- Culture+Convention: agreement=0.41, entropy=0.91, transform=0.51, triple=0.53
+- Baseline: agreement=0.60, entropy=0.64, transform=0.25, triple=0.25
+
+**Insight:** Diversity is the substrate of collective computation. Same pattern as Rule 110 — computation at the edge between order and chaos. Culture prevents convergence to a trivial fixed point, like sexual reproduction maintains variation in biology.
+
+**Experiment code:** `memory_locus.py`
+**Results:** `memory_locus_results.json`

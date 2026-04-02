@@ -1,0 +1,230 @@
+✅ W&B initialized
+
+============================================================
+📊 Running baseline...
+============================================================
+🔺 Triple Point Agent Experiment
+   Agents: 60, Ticks: 2000
+   Cultural: True, Convention: True
+   Seasons: False, Predator: False
+
+Running simulation...
+  Tick 500/2000 — 70 agents alive
+  Tick 1000/2000 — 70 agents alive
+  Tick 1500/2000 — 70 agents alive
+
+Analyzing 2000 ticks...
+
+============================================================
+🔺 TRIPLE POINT RESULTS
+============================================================
+  Memory:         0.5284
+  Transport:      0.7203
+  Transformation: 0.4829
+  ─────────────────────────
+  Triple Point:   0.5287 (max: 0.7364)
+  Computing:      36/38 windows
+============================================================
+  💡 COLLECTIVE COMPUTATION DETECTED
+     All three axes non-trivial simultaneously.
+
+  Strongest axis: transport (0.7203)
+  Bottleneck:     transformation (0.4829)
+
+🎯 Baseline triple-point: 0.5287
+
+============================================================
+🔄 Iteration 1/5
+============================================================
+   Changing num_agents: 60 → 39
+🔺 Triple Point Agent Experiment
+   Agents: 39, Ticks: 2000
+   Cultural: True, Convention: True
+   Seasons: False, Predator: False
+
+Running simulation...
+  Tick 500/2000 — 0 agents alive
+  Tick 1000/2000 — 0 agents alive
+  Tick 1500/2000 — 0 agents alive
+
+Analyzing 2000 ticks...
+
+============================================================
+🔺 TRIPLE POINT RESULTS
+============================================================
+  Memory:         0.1076
+  Transport:      0.0945
+  Transformation: 0.0475
+  ─────────────────────────
+  Triple Point:   0.0650 (max: 0.5616)
+  Computing:      5/38 windows
+============================================================
+  ⬜ No computation detected
+     Agents may be signaling but not computing collectively.
+
+  Strongest axis: memory (0.1076)
+  Bottleneck:     transformation (0.0475)
+
+   ❌ Score: 0.0650 (Δ = -0.4637) → DISCARD
+   Best so far: 0.5287
+
+============================================================
+🔄 Iteration 2/5
+============================================================
+   Changing food_spawn_rate: 0.06 → 0.0405
+🔺 Triple Point Agent Experiment
+   Agents: 60, Ticks: 2000
+   Cultural: True, Convention: True
+   Seasons: False, Predator: False
+
+Running simulation...
+  Tick 500/2000 — 70 agents alive
+  Tick 1000/2000 — 70 agents alive
+  Tick 1500/2000 — 70 agents alive
+
+Analyzing 2000 ticks...
+
+============================================================
+🔺 TRIPLE POINT RESULTS
+============================================================
+  Memory:         0.5659
+  Transport:      0.6815
+  Transformation: 0.3921
+  ─────────────────────────
+  Triple Point:   0.4894 (max: 0.7780)
+  Computing:      34/38 windows
+============================================================
+  💡 COLLECTIVE COMPUTATION DETECTED
+     All three axes non-trivial simultaneously.
+
+  Strongest axis: transport (0.6815)
+  Bottleneck:     transformation (0.3921)
+
+   ❌ Score: 0.4894 (Δ = -0.0393) → DISCARD
+   Best so far: 0.5287
+
+============================================================
+🔄 Iteration 3/5
+============================================================
+   Changing cultural_rate: 0.15 → 0.1694
+🔺 Triple Point Agent Experiment
+   Agents: 60, Ticks: 2000
+   Cultural: True, Convention: True
+   Seasons: False, Predator: False
+
+Running simulation...
+  Tick 500/2000 — 70 agents alive
+  Tick 1000/2000 — 70 agents alive
+  Tick 1500/2000 — 70 agents alive
+
+Analyzing 2000 ticks...
+
+============================================================
+🔺 TRIPLE POINT RESULTS
+============================================================
+  Memory:         0.5739
+  Transport:      0.7106
+  Transformation: 0.4441
+  ─────────────────────────
+  Triple Point:   0.4918 (max: 0.6955)
+  Computing:      33/38 windows
+============================================================
+  💡 COLLECTIVE COMPUTATION DETECTED
+     All three axes non-trivial simultaneously.
+
+  Strongest axis: transport (0.7106)
+  Bottleneck:     transformation (0.4441)
+
+   ❌ Score: 0.4918 (Δ = -0.0369) → DISCARD
+   Best so far: 0.5287
+
+============================================================
+🔄 Iteration 4/5
+============================================================
+   Changing food_energy: 3.0 → 3.1238
+🔺 Triple Point Agent Experiment
+   Agents: 60, Ticks: 2000
+   Cultural: True, Convention: True
+   Seasons: False, Predator: False
+
+Running simulation...
+  Tick 500/2000 — 70 agents alive
+  Tick 1000/2000 — 70 agents alive
+  Tick 1500/2000 — 70 agents alive
+
+Analyzing 2000 ticks...
+
+============================================================
+🔺 TRIPLE POINT RESULTS
+============================================================
+  Memory:         0.4092
+  Transport:      0.6017
+  Transformation: 0.1080
+  ─────────────────────────
+  Triple Point:   0.1908 (max: 0.8208)
+  Computing:      19/38 windows
+============================================================
+  🔶 Weak computation signal
+     Some structure but not clearly computing.
+
+  Strongest axis: transport (0.6017)
+  Bottleneck:     transformation (0.1080)
+
+   ❌ Score: 0.1908 (Δ = -0.3379) → DISCARD
+   Best so far: 0.5287
+
+============================================================
+🔄 Iteration 5/5
+============================================================
+   Changing convention_strength: 0.03 → 0.0268
+🔺 Triple Point Agent Experiment
+   Agents: 60, Ticks: 2000
+   Cultural: True, Convention: True
+   Seasons: False, Predator: False
+
+Running simulation...
+  Tick 500/2000 — 70 agents alive
+  Tick 1000/2000 — 70 agents alive
+  Tick 1500/2000 — 70 agents alive
+
+Analyzing 2000 ticks...
+
+============================================================
+🔺 TRIPLE POINT RESULTS
+============================================================
+  Memory:         0.4512
+  Transport:      0.7252
+  Transformation: 0.4404
+  ─────────────────────────
+  Triple Point:   0.4503 (max: 0.6904)
+  Computing:      32/38 windows
+============================================================
+  💡 COLLECTIVE COMPUTATION DETECTED
+     All three axes non-trivial simultaneously.
+
+  Strongest axis: transport (0.7252)
+  Bottleneck:     transformation (0.4404)
+
+   ❌ Score: 0.4503 (Δ = -0.0784) → DISCARD
+   Best so far: 0.5287
+
+============================================================
+🏁 AUTORESEARCH COMPLETE
+============================================================
+   Iterations: 5
+   Kept: 0
+   Discarded: 5
+   Baseline: 0.5287
+   Best: 0.5287
+   Improvement: +0.0000
+
+   Best parameters:
+     num_agents: 60
+     ticks: 2000
+     cultural_rate: 0.15
+     convention_strength: 0.03
+     blend_rate: 0.45
+     food_spawn_rate: 0.06
+     food_energy: 3.0
+     energy_drain: 0.14
+     signal_threshold: 0.15

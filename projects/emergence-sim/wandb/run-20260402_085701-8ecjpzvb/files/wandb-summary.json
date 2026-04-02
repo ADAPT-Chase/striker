@@ -1,0 +1,1 @@
+{"_runtime":115,"outcome":"discard","delta":-0.07839999999999997,"iteration":5,"param_changed":"convention_strength","param_old":0.03,"param_new":0.0268,"computing_windows":32,"transport":0.7252,"_timestamp":1.7751203381236024e+09,"_step":5,"triple_point":0.4503,"_wandb":{"runtime":115},"transformation":0.4404,"max_triple":0.6904,"memory":0.4512,"best_score":0.5287}
