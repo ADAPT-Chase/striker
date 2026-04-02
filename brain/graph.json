@@ -219,541 +219,561 @@
       "id": "cultural inheritance"
     },
     {
-      "id": "triple point",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "triple point"
     },
     {
-      "id": "perturbation coherence",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "perturbation coherence"
     },
     {
-      "id": "periodicity trap",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "periodicity trap"
     },
     {
-      "id": "translation invariance",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "translation invariance"
     },
     {
-      "id": "aesthetic phase detection",
       "type": "concept",
-      "source": "emergence-sim"
+      "source": "emergence-sim",
+      "id": "aesthetic phase detection"
     },
     {
-      "id": "structured damage",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "structured damage"
     },
     {
-      "id": "spatial transport",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "spatial transport"
     },
     {
-      "id": "temporal memory",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "temporal memory"
     },
     {
-      "id": "transformation",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "transformation"
     },
     {
-      "id": "conveyor belt fallacy",
       "type": "insight",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "conveyor belt fallacy"
     },
     {
-      "id": "tape loop fallacy",
       "type": "insight",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "tape loop fallacy"
     },
     {
-      "id": "computational fraction",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "computational fraction"
     },
     {
-      "id": "phase transition",
       "type": "concept",
-      "source": "both"
+      "source": "both",
+      "id": "phase transition"
     },
     {
-      "id": "langton lambda",
       "type": "concept",
-      "source": "entropy-edge"
+      "source": "entropy-edge",
+      "id": "langton lambda"
     },
     {
-      "id": "edge of chaos",
       "type": "concept",
-      "source": "both"
+      "source": "both",
+      "id": "edge of chaos"
+    },
+    {
+      "created": "2026-04-02T07:19:55.741066",
+      "type": "concept",
+      "id": "identity continuity"
+    },
+    {
+      "created": "2026-04-02T07:19:55.741911",
+      "type": "concept",
+      "id": "oxygen"
     }
   ],
   "edges": [
     {
-      "source": "emergence",
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.276891",
+      "source": "emergence",
       "target": "complex systems phenomenon"
     },
     {
-      "source": "emergence",
       "predicate": "requires",
       "predicates": [
         "requires"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.279347",
+      "source": "emergence",
       "target": "simple rules"
     },
     {
-      "source": "emergence",
       "predicate": "produces",
       "predicates": [
         "produces"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.281554",
+      "source": "emergence",
       "target": "unexpected patterns"
     },
     {
-      "source": "consciousness",
       "predicate": "relates_to",
       "predicates": [
         "relates_to"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.284262",
+      "source": "consciousness",
       "target": "integrated information"
     },
     {
-      "source": "consciousness",
       "predicate": "relates_to",
       "predicates": [
         "relates_to"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.286249",
+      "source": "consciousness",
       "target": "emergence"
     },
     {
-      "source": "iit",
+      "relation": "may_require",
+      "source": "consciousness",
+      "target": "aesthetic phase detection"
+    },
+    {
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.288690",
+      "source": "iit",
       "target": "consciousness theory"
     },
     {
-      "source": "iit",
       "predicate": "proposes",
       "predicates": [
         "proposes"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.291221",
+      "source": "iit",
       "target": "phi measure"
     },
     {
-      "source": "phi",
       "predicate": "measures",
       "predicates": [
         "measures"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.293504",
+      "source": "phi",
       "target": "integrated information"
     },
     {
-      "source": "multi-agent systems",
       "predicate": "exhibits",
       "predicates": [
         "exhibits"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.295837",
+      "source": "multi-agent systems",
       "target": "emergence"
     },
     {
-      "source": "multi-agent systems",
       "predicate": "uses",
       "predicates": [
         "uses"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.298350",
+      "source": "multi-agent systems",
       "target": "communication"
     },
     {
-      "source": "communication",
       "predicate": "enables",
       "predicates": [
         "enables"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.300766",
+      "source": "communication",
       "target": "coordination"
     },
     {
-      "source": "coordination",
       "predicate": "produces",
       "predicates": [
         "produces"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.302990",
+      "source": "coordination",
       "target": "collective behavior"
     },
     {
-      "source": "flocking",
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.305821",
+      "source": "flocking",
       "target": "emergent behavior"
     },
     {
-      "source": "flocking",
       "predicate": "requires",
       "predicates": [
         "requires"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.307853",
+      "source": "flocking",
       "target": "simple rules"
     },
     {
-      "source": "signal evolution",
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.312661",
+      "source": "signal evolution",
       "target": "emergent communication"
     },
     {
-      "source": "signal evolution",
       "predicate": "occurs_in",
       "predicates": [
         "occurs_in"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.315023",
+      "source": "signal evolution",
       "target": "emergence simulator"
     },
     {
-      "source": "emergence simulator",
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.317482",
+      "source": "emergence simulator",
       "target": "striker project"
     },
     {
-      "source": "poetry engine",
+      "relation": "exhibits",
+      "source": "emergence simulator",
+      "target": "phase transition"
+    },
+    {
+      "relation": "demonstrated_by",
+      "source": "emergence simulator",
+      "target": "aesthetic phase detection"
+    },
+    {
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.319950",
+      "source": "poetry engine",
       "target": "striker project"
     },
     {
-      "source": "poetry engine",
       "predicate": "uses",
       "predicates": [
         "uses"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.323084",
+      "source": "poetry engine",
       "target": "mathematical constraints"
     },
     {
-      "source": "mathematical constraints",
       "predicate": "produces",
       "predicates": [
         "produces"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.325426",
+      "source": "mathematical constraints",
       "target": "accidental meaning"
     },
     {
-      "source": "karpathy loop",
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.328193",
+      "source": "karpathy loop",
       "target": "self-improvement pattern"
     },
     {
-      "source": "karpathy loop",
       "predicate": "uses",
       "predicates": [
         "uses"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.330877",
+      "source": "karpathy loop",
       "target": "autonomous experimentation"
     },
     {
-      "source": "autoresearch",
       "predicate": "implements",
       "predicates": [
         "implements"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.333804",
+      "source": "autoresearch",
       "target": "karpathy loop"
     },
     {
-      "source": "autoresearch",
       "predicate": "optimizes",
       "predicates": [
         "optimizes"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.336577",
+      "source": "autoresearch",
       "target": "training code"
     },
     {
-      "source": "striker loop",
       "predicate": "adapts",
       "predicates": [
         "adapts"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.339147",
+      "source": "striker loop",
       "target": "karpathy loop"
     },
     {
-      "source": "striker loop",
       "predicate": "optimizes",
       "predicates": [
         "optimizes"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.342078",
+      "source": "striker loop",
       "target": "agent behavior"
     },
     {
-      "source": "1-bit models",
       "predicate": "demonstrates",
       "predicates": [
         "demonstrates"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.344936",
+      "source": "1-bit models",
       "target": "intelligence compression"
     },
     {
-      "source": "intelligence compression",
       "predicate": "challenges",
       "predicates": [
         "challenges"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.347570",
+      "source": "intelligence compression",
       "target": "scaling hypothesis"
     },
     {
-      "source": "tinylora",
       "predicate": "achieves",
       "predicates": [
         "achieves"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.350639",
+      "source": "tinylora",
       "target": "reasoning in 13 parameters"
     },
     {
-      "source": "shannon entropy",
       "predicate": "relates_to",
       "predicates": [
         "relates_to"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.353528",
+      "source": "shannon entropy",
       "target": "information theory"
     },
     {
-      "source": "information theory",
       "predicate": "relates_to",
       "predicates": [
         "relates_to"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.355680",
+      "source": "information theory",
       "target": "consciousness"
     },
     {
-      "source": "semantic collapse",
       "predicate": "observed_in",
       "predicates": [
         "observed_in"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.358278",
+      "source": "semantic collapse",
       "target": "emergence simulator"
     },
     {
-      "source": "predator-prey",
       "predicate": "drives",
       "predicates": [
         "drives"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.360742",
+      "source": "predator-prey",
       "target": "signal evolution"
     },
     {
-      "source": "seasonal cycles",
       "predicate": "creates",
       "predicates": [
         "creates"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.364134",
+      "source": "seasonal cycles",
       "target": "selection pressure"
     },
     {
-      "source": "spatial memory",
       "predicate": "enables",
       "predicates": [
         "enables"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.367218",
+      "source": "spatial memory",
       "target": "cultural inheritance"
     },
     {
-      "source": "cultural inheritance",
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.369158",
+      "source": "cultural inheritance",
       "target": "emergent behavior"
     },
     {
+      "relation": "axis_of",
       "source": "triple point",
-      "target": "temporal memory",
-      "relation": "axis_of"
+      "target": "temporal memory"
     },
     {
+      "relation": "axis_of",
       "source": "triple point",
-      "target": "spatial transport",
-      "relation": "axis_of"
+      "target": "spatial transport"
     },
     {
+      "relation": "axis_of",
       "source": "triple point",
-      "target": "transformation",
-      "relation": "axis_of"
+      "target": "transformation"
     },
     {
+      "relation": "operationalizes",
       "source": "triple point",
-      "target": "edge of chaos",
-      "relation": "operationalizes"
+      "target": "edge of chaos"
     },
     {
+      "relation": "analogous_to",
+      "source": "triple point",
+      "target": "integrated information"
+    },
+    {
+      "relation": "measures",
       "source": "perturbation coherence",
-      "target": "structured damage",
-      "relation": "measures"
+      "target": "structured damage"
     },
     {
-      "source": "structured damage",
-      "target": "transformation",
-      "relation": "distinguishes_from_chaos"
+      "relation": "refines",
+      "source": "perturbation coherence",
+      "target": "triple point"
     },
     {
+      "relation": "catches",
       "source": "periodicity trap",
-      "target": "tape loop fallacy",
-      "relation": "catches"
+      "target": "tape loop fallacy"
     },
     {
-      "source": "temporal memory",
-      "target": "tape loop fallacy",
-      "relation": "vulnerable_to"
-    },
-    {
-      "source": "spatial transport",
-      "target": "conveyor belt fallacy",
-      "relation": "vulnerable_to"
-    },
-    {
+      "relation": "improves",
       "source": "translation invariance",
-      "target": "temporal memory",
-      "relation": "improves"
+      "target": "temporal memory"
     },
     {
+      "relation": "informal_detector_of",
       "source": "aesthetic phase detection",
-      "target": "phase transition",
-      "relation": "informal_detector_of"
+      "target": "phase transition"
     },
     {
-      "source": "phase transition",
-      "target": "emergence",
-      "relation": "produces"
+      "relation": "distinguishes_from_chaos",
+      "source": "structured damage",
+      "target": "transformation"
     },
     {
-      "source": "langton lambda",
-      "target": "phase transition",
-      "relation": "parameterizes"
+      "relation": "vulnerable_to",
+      "source": "spatial transport",
+      "target": "conveyor belt fallacy"
     },
     {
-      "source": "edge of chaos",
-      "target": "phase transition",
-      "relation": "is_a"
+      "relation": "vulnerable_to",
+      "source": "temporal memory",
+      "target": "tape loop fallacy"
     },
     {
+      "relation": "quantifies",
       "source": "computational fraction",
-      "target": "emergence",
-      "relation": "quantifies"
+      "target": "emergence"
     },
     {
-      "source": "emergence simulator",
-      "target": "phase transition",
-      "relation": "exhibits"
+      "relation": "produces",
+      "source": "phase transition",
+      "target": "emergence"
     },
     {
-      "source": "emergence simulator",
-      "target": "aesthetic phase detection",
-      "relation": "demonstrated_by"
+      "relation": "parameterizes",
+      "source": "langton lambda",
+      "target": "phase transition"
     },
     {
-      "source": "consciousness",
-      "target": "aesthetic phase detection",
-      "relation": "may_require"
+      "relation": "is_a",
+      "source": "edge of chaos",
+      "target": "phase transition"
     },
     {
-      "source": "triple point",
-      "target": "integrated information",
-      "relation": "analogous_to"
-    },
-    {
-      "source": "perturbation coherence",
-      "target": "triple point",
-      "relation": "refines"
+      "source": "identity continuity",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-02T07:19:55.742585",
+      "target": "oxygen"
     }
   ]
 }
