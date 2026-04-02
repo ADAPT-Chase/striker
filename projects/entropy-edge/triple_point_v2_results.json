@@ -1,0 +1,3049 @@
+{
+  "version": "v2-invariant-memory",
+  "coordinates": {
+    "0": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "1": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19515953087298293,
+      "transform_norm": 0.040912029553917276,
+      "memory_raw": 0.0,
+      "transport_raw": 0.12075462818747291,
+      "transform_raw": 0.03584420340498327,
+      "triple": 0.04306061847879865,
+      "balance": 0.0,
+      "combined": 0.03014243293515905
+    },
+    "2": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "3": {
+      "memory_norm": 0.15362145562316307,
+      "transport_norm": 0.7213492651881197,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.06328540025463536,
+      "transport_raw": 0.4463336323952848,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.15650152783657206,
+      "balance": 0.011660592428129113,
+      "combined": 0.11009853964474497
+    },
+    "4": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "5": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19084525521484963,
+      "transform_norm": 0.04926481564251659,
+      "memory_raw": 0.0,
+      "transport_raw": 0.1180851774531646,
+      "transform_raw": 0.04316231905024833,
+      "triple": 0.04547151348870931,
+      "balance": 0.0,
+      "combined": 0.03183005944209651
+    },
+    "6": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.4778503269334415,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.2956690780101594,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.2238632544803784,
+      "balance": 0.42641044894625135,
+      "combined": 0.185341567389929
+    },
+    "7": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "8": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "9": {
+      "memory_norm": 0.33900462106155166,
+      "transport_norm": 0.4394556167193688,
+      "transform_norm": 0.11432684482312265,
+      "memory_raw": 0.13965525222387257,
+      "transport_raw": 0.27191241629076013,
+      "transform_raw": 0.10016503031435635,
+      "triple": 0.2572900266552688,
+      "balance": 0.5432578451565722,
+      "combined": 0.22203546629699364
+    },
+    "10": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "11": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2355895779594897,
+      "balance": 0.42487780490125326,
+      "combined": 0.19494173939395498
+    },
+    "12": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "13": {
+      "memory_norm": 0.11382606781144353,
+      "transport_norm": 0.7995223663811661,
+      "transform_norm": 0.05380020145272209,
+      "memory_raw": 0.04689142041804947,
+      "transport_raw": 0.4947031059567465,
+      "transform_raw": 0.04713590073939029,
+      "triple": 0.16980562951188533,
+      "balance": 0.0,
+      "combined": 0.11886394065831972
+    },
+    "14": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24724165655871416,
+      "balance": 0.37712214692408863,
+      "combined": 0.20104125089024705
+    },
+    "15": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "16": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "17": {
+      "memory_norm": 0.15362145562316307,
+      "transport_norm": 0.4524994440247166,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.06328540025463536,
+      "transport_raw": 0.2799832622768781,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.1339705685372142,
+      "balance": 0.1768623582047365,
+      "combined": 0.10088770318050623
+    },
+    "18": {
+      "memory_norm": 0.6688645410850717,
+      "transport_norm": 0.3048599328955167,
+      "transform_norm": 0.40552549759939854,
+      "memory_raw": 0.2755432828506497,
+      "transport_raw": 0.1886315655780885,
+      "transform_raw": 0.35529252839200975,
+      "triple": 0.43566455670439985,
+      "balance": 0.6661857811229763,
+      "combined": 0.3920352495977946
+    },
+    "19": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "20": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.5085241645565071,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.314648462930217,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.2285542925525969,
+      "balance": 0.4077681734544235,
+      "combined": 0.18794715470961995
+    },
+    "21": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "22": {
+      "memory_norm": 0.8037068168135533,
+      "transport_norm": 0.5991752640921569,
+      "transform_norm": 0.39560971837375997,
+      "memory_raw": 0.33109247261783853,
+      "transport_raw": 0.370738676768338,
+      "transform_raw": 0.3466050295962267,
+      "triple": 0.5754039336442077,
+      "balance": 0.7220919799013963,
+      "combined": 0.5274311232574046
+    },
+    "23": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "24": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "25": {
+      "memory_norm": 0.18875416664634856,
+      "transport_norm": 0.37188315346777745,
+      "transform_norm": 0.053368172769386116,
+      "memory_raw": 0.07775855877349977,
+      "transport_raw": 0.2301020694470376,
+      "transform_raw": 0.046757388009243936,
+      "triple": 0.15530846544962867,
+      "balance": 0.362289677609542,
+      "combined": 0.12559592197807365
+    },
+    "26": {
+      "memory_norm": 0.5316998565084983,
+      "transport_norm": 0.46143944827135064,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.2190373610116927,
+      "transport_raw": 0.2855148747170583,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.42119293942632147,
+      "balance": 0.7804860113871196,
+      "combined": 0.3934556167936049
+    },
+    "27": {
+      "memory_norm": 0.17640334966185262,
+      "transport_norm": 0.7210075595266027,
+      "transform_norm": 0.0312544112169067,
+      "memory_raw": 0.07267055597359842,
+      "transport_raw": 0.4461222025977163,
+      "transform_raw": 0.027382886773812665,
+      "triple": 0.15841123842647942,
+      "balance": 0.04083633665027808,
+      "combined": 0.11282854729700693
+    },
+    "28": {
+      "memory_norm": 0.11386452727675879,
+      "transport_norm": 0.7101609500210655,
+      "transform_norm": 0.041545693519915515,
+      "memory_raw": 0.04690726405555559,
+      "transport_raw": 0.4394108813925618,
+      "transform_raw": 0.03639937459388056,
+      "triple": 0.1497696274335683,
+      "balance": 0.0,
+      "combined": 0.10483873920349782
+    },
+    "29": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.18638458725921497,
+      "transform_norm": 0.03430068104741824,
+      "memory_raw": 0.0,
+      "transport_raw": 0.11532514673347093,
+      "transform_raw": 0.03005181121050967,
+      "triple": 0.039985657941025356,
+      "balance": 0.0,
+      "combined": 0.027989960558717747
+    },
+    "30": {
+      "memory_norm": 0.9605239141097571,
+      "transport_norm": 0.39327423372657355,
+      "transform_norm": 0.9977472498212945,
+      "memory_raw": 0.39569433912732355,
+      "transport_raw": 0.2433377640176526,
+      "transform_raw": 0.8741550042689786,
+      "triple": 0.7223395677390224,
+      "balance": 0.6471314731305893,
+      "combined": 0.6458722979887557
+    },
+    "31": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "32": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "33": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19515953087298293,
+      "transform_norm": 0.040912029553917276,
+      "memory_raw": 0.0,
+      "transport_raw": 0.12075462818747291,
+      "transform_raw": 0.03584420340498327,
+      "triple": 0.04306061847879865,
+      "balance": 0.0,
+      "combined": 0.03014243293515905
+    },
+    "34": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "35": {
+      "memory_norm": 0.15362145562316307,
+      "transport_norm": 0.7213492651881197,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.06328540025463536,
+      "transport_raw": 0.4463336323952848,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.15650152783657206,
+      "balance": 0.011660592428129113,
+      "combined": 0.11009853964474497
+    },
+    "36": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "37": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19744628328382585,
+      "transform_norm": 0.07439921187014363,
+      "memory_raw": 0.0,
+      "transport_raw": 0.1221695523569098,
+      "transform_raw": 0.06518328502694712,
+      "triple": 0.052764168592640937,
+      "balance": 0.10149062774919448,
+      "combined": 0.038541438592788094
+    },
+    "38": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.5685435917578374,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.35178538154906097,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.23721388535608248,
+      "balance": 0.3713166012993435,
+      "combined": 0.19247415585668753
+    },
+    "39": {
+      "memory_norm": 0.17356460898736092,
+      "transport_norm": 0.73963732986664,
+      "transform_norm": 0.03125430710206382,
+      "memory_raw": 0.07150111750502273,
+      "transport_raw": 0.4576493413470575,
+      "transform_raw": 0.027382795555810375,
+      "triple": 0.15890221724110898,
+      "balance": 0.028143032743833674,
+      "combined": 0.11257314915964158
+    },
+    "40": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "41": {
+      "memory_norm": 0.3274116880012126,
+      "transport_norm": 0.6663316624602335,
+      "transform_norm": 0.0920860184809309,
+      "memory_raw": 0.13487946484526286,
+      "transport_raw": 0.4122915841722036,
+      "transform_raw": 0.08067920396947144,
+      "triple": 0.27184797879880274,
+      "balance": 0.3487845252678754,
+      "combined": 0.21873849562827344
+    },
+    "42": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "43": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2355895779594897,
+      "balance": 0.42487780490125326,
+      "combined": 0.19494173939395498
+    },
+    "44": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "45": {
+      "memory_norm": 0.9994549063552859,
+      "transport_norm": 0.7224745312155776,
+      "transform_norm": 0.9999999999999998,
+      "memory_raw": 0.41173222534949333,
+      "transport_raw": 0.44702988883815414,
+      "transform_raw": 0.8761287033620463,
+      "triple": 0.8971435009728091,
+      "balance": 0.8559494579913662,
+      "combined": 0.8583732987004122
+    },
+    "46": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.5676540529285334,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.3512349809095922,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24494215981245568,
+      "balance": 0.38681036461241525,
+      "combined": 0.1998833617125215
+    },
+    "47": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2355895779594897,
+      "balance": 0.42487780490125326,
+      "combined": 0.19494173939395498
+    },
+    "48": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "49": {
+      "memory_norm": 0.15362145562316307,
+      "transport_norm": 0.4524994440247166,
+      "transform_norm": 0.03459061434863072,
+      "memory_raw": 0.06328540025463536,
+      "transport_raw": 0.2799832622768781,
+      "transform_raw": 0.030305830097762436,
+      "triple": 0.1339705685372142,
+      "balance": 0.1768623582047365,
+      "combined": 0.10088770318050623
+    },
+    "50": {
+      "memory_norm": 0.023033375234433114,
+      "transport_norm": 0.4054275735371094,
+      "transform_norm": 0.0018158954233533932,
+      "memory_raw": 0.009488755102685776,
+      "transport_raw": 0.25085762237913034,
+      "transform_raw": 0.001590958102703683,
+      "triple": 0.04536876475137998,
+      "balance": 0.0,
+      "combined": 0.03175813532596598
+    },
+    "51": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "52": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.4887246420669471,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.3023975420255526,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.22554866612977376,
+      "balance": 0.41982633311872875,
+      "combined": 0.18629144712316661
+    },
+    "53": {
+      "memory_norm": 0.17356460898736092,
+      "transport_norm": 0.47652328922672244,
+      "transform_norm": 0.03125430710206382,
+      "memory_raw": 0.07150111750502273,
+      "transport_raw": 0.2948479756835202,
+      "transform_raw": 0.027382795555810375,
+      "triple": 0.1372413748611942,
+      "balance": 0.18242792163282218,
+      "combined": 0.10357996003622354
+    },
+    "54": {
+      "memory_norm": 0.3381472937138005,
+      "transport_norm": 0.6854504511583714,
+      "transform_norm": 0.0364128426970392,
+      "memory_raw": 0.1393020704099678,
+      "transport_raw": 0.4241213021998672,
+      "transform_raw": 0.03190233665788312,
+      "triple": 0.20360050734369534,
+      "balance": 0.24948081570906167,
+      "combined": 0.15775868133585189
+    },
+    "55": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "56": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "57": {
+      "memory_norm": 0.2792305103331503,
+      "transport_norm": 0.3002663414654923,
+      "transform_norm": 0.14245921833749986,
+      "memory_raw": 0.11503090201857871,
+      "transport_raw": 0.18578928868442873,
+      "transform_raw": 0.12481261024400443,
+      "triple": 0.2285879642108411,
+      "balance": 0.7092819831096067,
+      "combined": 0.2086515723187247
+    },
+    "58": {
+      "memory_norm": 0.3204908363087833,
+      "transport_norm": 0.46430776056606204,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.132028373064615,
+      "transport_raw": 0.2872896380766754,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.1895901524808324,
+      "balance": 0.3729094993635387,
+      "combined": 0.15392309739034793
+    },
+    "59": {
+      "memory_norm": 0.1350899986251953,
+      "transport_norm": 0.7020581607326976,
+      "transform_norm": 0.03454464281199393,
+      "memory_raw": 0.055651240894143514,
+      "transport_raw": 0.43439729428553436,
+      "transform_raw": 0.030265553114977282,
+      "triple": 0.14852252771393326,
+      "balance": 0.0,
+      "combined": 0.10396576939975327
+    },
+    "60": {
+      "memory_norm": 0.5357140737563798,
+      "transport_norm": 0.5138604147085564,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.2206910450248452,
+      "transport_raw": 0.31795025864648896,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.4502970031302594,
+      "balance": 0.8013373025412549,
+      "combined": 0.42345983794042547
+    },
+    "61": {
+      "memory_norm": 0.17640912808322623,
+      "transport_norm": 0.9811325850986367,
+      "transform_norm": 0.053361414495241836,
+      "memory_raw": 0.07267293643346313,
+      "transport_raw": 0.607074120265788,
+      "transform_raw": 0.04675146689128094,
+      "triple": 0.20980960305089957,
+      "balance": 0.0,
+      "combined": 0.14686672213562968
+    },
+    "62": {
+      "memory_norm": 0.261655553837511,
+      "transport_norm": 0.616634364186783,
+      "transform_norm": 0.5538415471508706,
+      "memory_raw": 0.10779077952545066,
+      "transport_raw": 0.38154146529208466,
+      "transform_raw": 0.48523647657332203,
+      "triple": 0.4470757059283405,
+      "balance": 0.6759851654034116,
+      "combined": 0.4036179576557832
+    },
+    "63": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "64": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "65": {
+      "memory_norm": 0.33900462106155166,
+      "transport_norm": 0.5112356688985211,
+      "transform_norm": 0.11432684482312265,
+      "memory_raw": 0.13965525222387257,
+      "transport_raw": 0.3163262016354905,
+      "transform_raw": 0.10016503031435635,
+      "triple": 0.2705982567162177,
+      "balance": 0.4945664238112524,
+      "combined": 0.22956742333546207
+    },
+    "66": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "67": {
+      "memory_norm": 0.18875416664634856,
+      "transport_norm": 1.0,
+      "transform_norm": 0.053368172769386116,
+      "memory_raw": 0.07775855877349977,
+      "transport_raw": 0.6187483011837352,
+      "transform_raw": 0.046757388009243936,
+      "triple": 0.21596976726299974,
+      "balance": 0.0,
+      "combined": 0.15117883708409982
+    },
+    "68": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "69": {
+      "memory_norm": 0.11382606781144353,
+      "transport_norm": 0.24474772528281727,
+      "transform_norm": 0.053800201452722095,
+      "memory_raw": 0.04689142041804947,
+      "transport_raw": 0.15143723923732672,
+      "transform_raw": 0.0471359007393903,
+      "triple": 0.114440944391691,
+      "balance": 0.4200053516424316,
+      "combined": 0.09452840380164093
+    },
+    "70": {
+      "memory_norm": 0.11386452727675879,
+      "transport_norm": 0.12771467428630964,
+      "transform_norm": 0.04154569351991554,
+      "memory_raw": 0.04690726405555559,
+      "transport_raw": 0.07902323775088817,
+      "transform_raw": 0.03639937459388058,
+      "triple": 0.08453795804337141,
+      "balance": 0.5996667334830617,
+      "combined": 0.07438495097691898
+    },
+    "71": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.18638458725921497,
+      "transform_norm": 0.03430068104741824,
+      "memory_raw": 0.0,
+      "transport_raw": 0.11532514673347093,
+      "transform_raw": 0.03005181121050967,
+      "triple": 0.039985657941025356,
+      "balance": 0.0,
+      "combined": 0.027989960558717747
+    },
+    "72": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "73": {
+      "memory_norm": 0.9297409480377866,
+      "transport_norm": 0.0018015062657719242,
+      "transform_norm": 0.6769968060833813,
+      "memory_raw": 0.38301308753400265,
+      "transport_raw": 0.0011146789415182328,
+      "transform_raw": 0.5931363338940797,
+      "triple": 0.1846359191954609,
+      "balance": 0.2694667311217638,
+      "combined": 0.1441711147148015
+    },
+    "74": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "75": {
+      "memory_norm": 1.0,
+      "transport_norm": 0.7960134003025775,
+      "transform_norm": 0.9969284651462597,
+      "memory_raw": 0.4119567803723712,
+      "transport_raw": 0.49253193915670845,
+      "transform_raw": 0.8734376435133077,
+      "triple": 0.9258233399368349,
+      "balance": 0.8974796329002058,
+      "combined": 0.8973486153328702
+    },
+    "76": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "77": {
+      "memory_norm": 0.023033375234433114,
+      "transport_norm": 0.4054275735371094,
+      "transform_norm": 0.0018158954233533932,
+      "memory_raw": 0.009488755102685776,
+      "transport_raw": 0.25085762237913034,
+      "transform_raw": 0.001590958102703683,
+      "triple": 0.04536876475137998,
+      "balance": 0.0,
+      "combined": 0.03175813532596598
+    },
+    "78": {
+      "memory_norm": 0.11203417280171575,
+      "transport_norm": 0.05051495973307253,
+      "transform_norm": 0.03339983759747701,
+      "memory_raw": 0.0461532371190767,
+      "transport_raw": 0.03125604551920342,
+      "transform_raw": 0.029262556406780462,
+      "triple": 0.05739027327401115,
+      "balance": 0.48304857715652405,
+      "combined": 0.04848987824609836
+    },
+    "79": {
+      "memory_norm": 0.11395983561282669,
+      "transport_norm": 0.8013812220115153,
+      "transform_norm": 0.05503870328059685,
+      "memory_raw": 0.04694652697082477,
+      "transport_raw": 0.49585326972017085,
+      "transform_raw": 0.048220987739957734,
+      "triple": 0.17129830136061794,
+      "balance": 0.0,
+      "combined": 0.11990881095243255
+    },
+    "80": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "81": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24724165655871416,
+      "balance": 0.37712214692408863,
+      "combined": 0.20104125089024705
+    },
+    "82": {
+      "memory_norm": 0.5316998565084983,
+      "transport_norm": 0.3665368994060307,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.2190373610116927,
+      "transport_raw": 0.22679408382863514,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.39007556225029655,
+      "balance": 0.7608846049848229,
+      "combined": 0.3620936406043224
+    },
+    "83": {
+      "memory_norm": 0.17640334966185262,
+      "transport_norm": 0.4533802412998844,
+      "transform_norm": 0.0312544112169067,
+      "memory_raw": 0.07267055597359842,
+      "transport_raw": 0.28052825409457544,
+      "transform_raw": 0.027382886773812665,
+      "triple": 0.13571470684149758,
+      "balance": 0.20529096211762987,
+      "combined": 0.10335859561134923
+    },
+    "84": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2355895779594897,
+      "balance": 0.42487780490125326,
+      "combined": 0.19494173939395498
+    },
+    "85": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "86": {
+      "memory_norm": 0.9605239141097571,
+      "transport_norm": 0.412841642102927,
+      "transform_norm": 0.9977472498212945,
+      "memory_raw": 0.39569433912732355,
+      "transport_raw": 0.25544506470908973,
+      "transform_raw": 0.8741550042689786,
+      "triple": 0.7341262264169214,
+      "balance": 0.661695934137597,
+      "combined": 0.659618860241001
+    },
+    "87": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "88": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "89": {
+      "memory_norm": 0.9999999999999998,
+      "transport_norm": 0.6436242558158862,
+      "transform_norm": 0.9969284651462599,
+      "memory_raw": 0.4119567803723711,
+      "transport_raw": 0.39824141488672543,
+      "transform_raw": 0.8734376435133079,
+      "triple": 0.8625126361994664,
+      "balance": 0.8099513016350318,
+      "combined": 0.8133368150495526
+    },
+    "90": {
+      "memory_norm": 0.6738786716386796,
+      "transport_norm": 0.27616369770715427,
+      "transform_norm": 0.42842056500840336,
+      "memory_raw": 0.2776088879298808,
+      "transport_raw": 0.1708758188049203,
+      "transform_raw": 0.3753515541144478,
+      "triple": 0.43040060183384243,
+      "balance": 0.643416294521442,
+      "combined": 0.3843584494012085
+    },
+    "91": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19744628328382585,
+      "transform_norm": 0.07439921187014363,
+      "memory_raw": 0.0,
+      "transport_raw": 0.1221695523569098,
+      "transform_raw": 0.06518328502694712,
+      "triple": 0.052764168592640937,
+      "balance": 0.10149062774919448,
+      "combined": 0.038541438592788094
+    },
+    "92": {
+      "memory_norm": 0.11203417280171647,
+      "transport_norm": 0.5833686132608659,
+      "transform_norm": 0.03339983759747699,
+      "memory_raw": 0.046153237119077,
+      "transport_raw": 0.3609583384190722,
+      "transform_raw": 0.02926255640678045,
+      "triple": 0.12972170317671447,
+      "balance": 0.00032773371399941187,
+      "combined": 0.09081794647637066
+    },
+    "93": {
+      "memory_norm": 0.11395983561282669,
+      "transport_norm": 0.24455883473886575,
+      "transform_norm": 0.05503870328059685,
+      "memory_raw": 0.04694652697082477,
+      "transport_raw": 0.15132036353414705,
+      "transform_raw": 0.048220987739957734,
+      "triple": 0.11532791873622851,
+      "balance": 0.4255138263712711,
+      "combined": 0.09545163031202623
+    },
+    "94": {
+      "memory_norm": 0.019611916942901816,
+      "transport_norm": 0.6659840873881558,
+      "transform_norm": 0.005827905655623078,
+      "memory_raw": 0.00807926216072819,
+      "transport_raw": 0.4120765226868217,
+      "transform_raw": 0.005105995425377385,
+      "triple": 0.05073737168010673,
+      "balance": 0.0,
+      "combined": 0.03551616017607471
+    },
+    "95": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "96": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "97": {
+      "memory_norm": 0.3274116880012126,
+      "transport_norm": 0.7455809578599161,
+      "transform_norm": 0.09208601848093093,
+      "memory_raw": 0.13487946484526286,
+      "transport_raw": 0.46132695107076516,
+      "transform_raw": 0.08067920396947147,
+      "triple": 0.28222418490882956,
+      "balance": 0.3041328254683079,
+      "combined": 0.2233070210677244
+    },
+    "98": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "99": {
+      "memory_norm": 0.27923051033315033,
+      "transport_norm": 0.1847980001350005,
+      "transform_norm": 0.14245921833749972,
+      "memory_raw": 0.11503090201857874,
+      "transport_raw": 0.11434344864568323,
+      "transform_raw": 0.12481261024400432,
+      "triple": 0.19443908322381148,
+      "balance": 0.7172040605598291,
+      "combined": 0.1779431082625625
+    },
+    "100": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "101": {
+      "memory_norm": 0.9994549063552854,
+      "transport_norm": 0.5542335074245573,
+      "transform_norm": 1.0,
+      "memory_raw": 0.41173222534949316,
+      "transport_raw": 0.34293104117804796,
+      "transform_raw": 0.8761287033620465,
+      "triple": 0.8212688062368453,
+      "balance": 0.7532886430666907,
+      "combined": 0.7604839037587379
+    },
+    "102": {
+      "memory_norm": 0.5357140737563798,
+      "transport_norm": 0.49591456492006775,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.2206910450248452,
+      "transport_raw": 0.3068462945765631,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.44499277198607196,
+      "balance": 0.8056723963480349,
+      "combined": 0.4190504582793223
+    },
+    "103": {
+      "memory_norm": 0.17640912808322623,
+      "transport_norm": 0.40028345576575175,
+      "transform_norm": 0.053361414495241836,
+      "memory_raw": 0.07267293643346313,
+      "transport_raw": 0.24767470824701374,
+      "transform_raw": 0.04675146689128094,
+      "triple": 0.15561042030248937,
+      "balance": 0.3161998673759592,
+      "combined": 0.12368849249033187
+    },
+    "104": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "105": {
+      "memory_norm": 0.758337801184535,
+      "transport_norm": 0.1120854285003318,
+      "transform_norm": 0.6193264360916393,
+      "memory_raw": 0.31240239901064437,
+      "transport_raw": 0.06935266847203132,
+      "transform_raw": 0.5426096674108053,
+      "triple": 0.3747806498725093,
+      "balance": 0.44069630247186875,
+      "combined": 0.31189578890180214
+    },
+    "106": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "107": {
+      "memory_norm": 0.39987391389055876,
+      "transport_norm": 0.5173788811154106,
+      "transform_norm": 0.1831693207797204,
+      "memory_raw": 0.1647307701212534,
+      "transport_raw": 0.32012730375850207,
+      "transform_raw": 0.1604798995104432,
+      "triple": 0.3358882682373641,
+      "balance": 0.6226100500992572,
+      "combined": 0.29786001122066025
+    },
+    "108": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "109": {
+      "memory_norm": 0.8852162199543047,
+      "transport_norm": 0.005048689947553539,
+      "transform_norm": 0.7794741110374974,
+      "memory_raw": 0.36467082390577615,
+      "transport_raw": 0.003123868328252154,
+      "transform_raw": 0.6829196422075665,
+      "triple": 0.19037811370548766,
+      "balance": 0.2950276789738573,
+      "combined": 0.15011472349802668
+    },
+    "110": {
+      "memory_norm": 0.9294569606233344,
+      "transport_norm": 0.6648937752822867,
+      "transform_norm": 0.742955896724311,
+      "memory_raw": 0.38289609699307864,
+      "transport_raw": 0.4114018939235551,
+      "transform_raw": 0.650924986452257,
+      "triple": 0.7714625736276227,
+      "balance": 0.8575405140897906,
+      "combined": 0.7384919251362352
+    },
+    "111": {
+      "memory_norm": 0.30961277636069834,
+      "transport_norm": 0.442113375038314,
+      "transform_norm": 0.11428632511808051,
+      "memory_raw": 0.1275470825117043,
+      "transport_raw": 0.2735568997355644,
+      "transform_raw": 0.10012952983771717,
+      "triple": 0.25010109808375225,
+      "balance": 0.5335463187390375,
+      "combined": 0.21510292471717965
+    },
+    "112": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "113": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24724165655871416,
+      "balance": 0.37712214692408863,
+      "combined": 0.20104125089024705
+    },
+    "114": {
+      "memory_norm": 0.3204908363087833,
+      "transport_norm": 0.8351321038965783,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.132028373064615,
+      "transport_raw": 0.5167365705500065,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.23056790562640414,
+      "balance": 0.1830396598663776,
+      "combined": 0.1740584552450709
+    },
+    "115": {
+      "memory_norm": 0.1350899986251953,
+      "transport_norm": 0.42919374234116203,
+      "transform_norm": 0.03454464281199393,
+      "memory_raw": 0.055651240894143514,
+      "transport_raw": 0.2655628989522838,
+      "transform_raw": 0.030265553114977282,
+      "triple": 0.12605278005632004,
+      "balance": 0.1611139530730863,
+      "combined": 0.09432960454664181
+    },
+    "116": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.4837113240218875,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.2992955600018782,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.23221898021669765,
+      "balance": 0.43784615099313506,
+      "combined": 0.19305614215431796
+    },
+    "117": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24724165655871416,
+      "balance": 0.37712214692408863,
+      "combined": 0.20104125089024705
+    },
+    "118": {
+      "memory_norm": 0.2616555538375088,
+      "transport_norm": 0.4840293911376651,
+      "transform_norm": 0.5538415471508705,
+      "memory_raw": 0.10779077952544978,
+      "transport_raw": 0.299492363489428,
+      "transform_raw": 0.4852364765733219,
+      "triple": 0.4124098925775264,
+      "balance": 0.7123875715696657,
+      "combined": 0.37682562936365166
+    },
+    "119": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "120": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "121": {
+      "memory_norm": 0.39987391389055876,
+      "transport_norm": 0.6194562134848344,
+      "transform_norm": 0.1831693207797204,
+      "memory_raw": 0.1647307701212534,
+      "transport_raw": 0.3832874797514505,
+      "transform_raw": 0.1604798995104432,
+      "triple": 0.356666352700646,
+      "balance": 0.5556388740156228,
+      "combined": 0.30911975407460596
+    },
+    "122": {
+      "memory_norm": 0.7657352530512941,
+      "transport_norm": 0.47507823557175083,
+      "transform_norm": 0.22668566030483892,
+      "memory_raw": 0.31544982946463407,
+      "transport_raw": 0.2939538511893872,
+      "transform_raw": 0.19860581363364785,
+      "triple": 0.43526719993981083,
+      "balance": 0.549659502234414,
+      "combined": 0.3764616656952326
+    },
+    "123": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.19515953087298293,
+      "transform_norm": 0.040912029553917276,
+      "memory_raw": 0.0,
+      "transport_raw": 0.12075462818747291,
+      "transform_raw": 0.03584420340498327,
+      "triple": 0.04306061847879865,
+      "balance": 0.0,
+      "combined": 0.03014243293515905
+    },
+    "124": {
+      "memory_norm": 0.9294569606233345,
+      "transport_norm": 0.6946153450920257,
+      "transform_norm": 0.742955896724311,
+      "memory_raw": 0.3828960969930787,
+      "transport_raw": 0.42979206475184495,
+      "transform_raw": 0.650924986452257,
+      "triple": 0.7827905314014224,
+      "balance": 0.8716703758385864,
+      "combined": 0.752653966993865
+    },
+    "125": {
+      "memory_norm": 0.30961277636069834,
+      "transport_norm": 0.5167712483251486,
+      "transform_norm": 0.11428632511808051,
+      "memory_raw": 0.1275470825117043,
+      "transport_raw": 0.3197513320017839,
+      "transform_raw": 0.10012952983771717,
+      "triple": 0.263453412443378,
+      "balance": 0.475892547058114,
+      "combined": 0.22203004335401388
+    },
+    "126": {
+      "memory_norm": 0.6696270045842618,
+      "transport_norm": 0.29461081965155855,
+      "transform_norm": 0.41142164082515237,
+      "memory_raw": 0.2758573848589276,
+      "transport_raw": 0.18228994416974967,
+      "transform_raw": 0.36045830871122636,
+      "triple": 0.43296846033691594,
+      "balance": 0.658305533230159,
+      "combined": 0.38858558218202144
+    },
+    "127": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "128": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "129": {
+      "memory_norm": 0.6696270045842618,
+      "transport_norm": 0.29461081965155855,
+      "transform_norm": 0.41142164082515237,
+      "memory_raw": 0.2758573848589276,
+      "transport_raw": 0.18228994416974967,
+      "transform_raw": 0.36045830871122636,
+      "triple": 0.43296846033691594,
+      "balance": 0.658305533230159,
+      "combined": 0.38858558218202144
+    },
+    "130": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "131": {
+      "memory_norm": 0.05145795017347033,
+      "transport_norm": 0.6086796143741261,
+      "transform_norm": 0.46467564873083816,
+      "memory_raw": 0.021198451478024738,
+      "transport_raw": 0.3766194773591616,
+      "transform_raw": 0.40711567360646705,
+      "triple": 0.24415392907557212,
+      "balance": 0.37011152928137747,
+      "combined": 0.19801700557396557
+    },
+    "132": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "133": {
+      "memory_norm": 0.019611916942901816,
+      "transport_norm": 0.05140261207313577,
+      "transform_norm": 0.005827905655623078,
+      "memory_raw": 0.00807926216072819,
+      "transport_raw": 0.031805278896659316,
+      "transform_raw": 0.005105995425377385,
+      "triple": 0.021602387129198396,
+      "balance": 0.2549531913441465,
+      "combined": 0.01677395025221113
+    },
+    "134": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.4778503269334415,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.2956690780101594,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.2238632544803784,
+      "balance": 0.42641044894625135,
+      "combined": 0.185341567389929
+    },
+    "135": {
+      "memory_norm": 0.9639445331794178,
+      "transport_norm": 0.41403796914041235,
+      "transform_norm": 0.9994068009321218,
+      "memory_raw": 0.3971034863461413,
+      "transport_raw": 0.25618529003119395,
+      "transform_raw": 0.8756089846318708,
+      "triple": 0.7361135944171717,
+      "balance": 0.6618412514197898,
+      "combined": 0.6614366188468743
+    },
+    "136": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "137": {
+      "memory_norm": 0.9356836486353602,
+      "transport_norm": 0.6514480200282776,
+      "transform_norm": 0.7497555601863573,
+      "memory_raw": 0.38546122333889604,
+      "transport_raw": 0.4030823557020047,
+      "transform_raw": 0.656882366784558,
+      "triple": 0.7702697357679673,
+      "balance": 0.8486933191777178,
+      "combined": 0.7353056486508951
+    },
+    "138": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "139": {
+      "memory_norm": 0.3373263841880236,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13896389116475175,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2478801982258336,
+      "balance": 0.3786983883688022,
+      "combined": 0.20167768823108223
+    },
+    "140": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "141": {
+      "memory_norm": 0.10917535359979841,
+      "transport_norm": 0.26259131678990466,
+      "transform_norm": 0.032703867606204286,
+      "memory_raw": 0.04497552716498812,
+      "transport_raw": 0.16247793116935355,
+      "transform_raw": 0.028652797120747794,
+      "triple": 0.09787415555836228,
+      "balance": 0.291018212261938,
+      "combined": 0.07705685742402602
+    },
+    "142": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24724165655871416,
+      "balance": 0.37712214692408863,
+      "combined": 0.20104125089024705
+    },
+    "143": {
+      "memory_norm": 0.33732928181917576,
+      "transport_norm": 0.6163106089594093,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.1389650848635519,
+      "transport_raw": 0.3813411422951479,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2524005382472313,
+      "balance": 0.35960554486532614,
+      "combined": 0.20390976669727107
+    },
+    "144": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "145": {
+      "memory_norm": 0.051457950173470296,
+      "transport_norm": 0.04413866746475342,
+      "transform_norm": 0.46467564873083833,
+      "memory_raw": 0.021198451478024724,
+      "transport_raw": 0.027310725510329988,
+      "transform_raw": 0.40711567360646717,
+      "triple": 0.10181393073711864,
+      "balance": 0.0,
+      "combined": 0.07126975151598304
+    },
+    "146": {
+      "memory_norm": 0.6688645410850717,
+      "transport_norm": 0.3048599328955167,
+      "transform_norm": 0.40552549759939854,
+      "memory_raw": 0.2755432828506497,
+      "transport_raw": 0.1886315655780885,
+      "transform_raw": 0.35529252839200975,
+      "triple": 0.43566455670439985,
+      "balance": 0.6661857811229763,
+      "combined": 0.3920352495977946
+    },
+    "147": {
+      "memory_norm": 0.3323594730527168,
+      "transport_norm": 0.6930499608607502,
+      "transform_norm": 0.036943769053610596,
+      "memory_raw": 0.1369177384450551,
+      "transport_raw": 0.4288234859180434,
+      "transform_raw": 0.03236749647824675,
+      "triple": 0.20416028748315185,
+      "balance": 0.2423544302441185,
+      "combined": 0.1577559462836427
+    },
+    "148": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.5085241645565071,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.314648462930217,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.2285542925525969,
+      "balance": 0.4077681734544235,
+      "combined": 0.18794715470961995
+    },
+    "149": {
+      "memory_norm": 0.963944533179418,
+      "transport_norm": 0.38867945439679336,
+      "transform_norm": 0.9994068009321219,
+      "memory_raw": 0.3971034863461414,
+      "transport_raw": 0.240494752113037,
+      "transform_raw": 0.8756089846318709,
+      "triple": 0.720767689426396,
+      "balance": 0.6429692956602708,
+      "combined": 0.6435668306800284
+    },
+    "150": {
+      "memory_norm": 0.758337801184535,
+      "transport_norm": 0.1120854285003318,
+      "transform_norm": 0.6193264360916393,
+      "memory_raw": 0.31240239901064437,
+      "transport_raw": 0.06935266847203132,
+      "transform_raw": 0.5426096674108053,
+      "triple": 0.3747806498725093,
+      "balance": 0.44069630247186875,
+      "combined": 0.31189578890180214
+    },
+    "151": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "152": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "153": {
+      "memory_norm": 0.5357140737563798,
+      "transport_norm": 0.49591456492006775,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.2206910450248452,
+      "transport_raw": 0.3068462945765631,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.44499277198607196,
+      "balance": 0.8056723963480349,
+      "combined": 0.4190504582793223
+    },
+    "154": {
+      "memory_norm": 0.5316998565084983,
+      "transport_norm": 0.46143944827135064,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.2190373610116927,
+      "transport_raw": 0.2855148747170583,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.42119293942632147,
+      "balance": 0.7804860113871196,
+      "combined": 0.3934556167936049
+    },
+    "155": {
+      "memory_norm": 0.28687341384456505,
+      "transport_norm": 0.5839456181787422,
+      "transform_norm": 0.07132851988714456,
+      "memory_raw": 0.11817944794183784,
+      "transport_raw": 0.3613153592317829,
+      "transform_raw": 0.062492963641457906,
+      "triple": 0.22861706200186477,
+      "balance": 0.3308199735238555,
+      "combined": 0.1827212705208729
+    },
+    "156": {
+      "memory_norm": 0.11386452727675879,
+      "transport_norm": 0.7101609500210655,
+      "transform_norm": 0.041545693519915515,
+      "memory_raw": 0.04690726405555559,
+      "transport_raw": 0.4394108813925618,
+      "transform_raw": 0.03639937459388056,
+      "triple": 0.1497696274335683,
+      "balance": 0.0,
+      "combined": 0.10483873920349782
+    },
+    "157": {
+      "memory_norm": 0.11592472417510497,
+      "transport_norm": 0.001428135653875342,
+      "transform_norm": 0.04167011294853317,
+      "memory_raw": 0.04775597613673143,
+      "transport_raw": 0.0008836565096952908,
+      "transform_raw": 0.036508382026548394,
+      "triple": 0.03641946677880255,
+      "balance": 0.1053078420454856,
+      "combined": 0.026644203381638667
+    },
+    "158": {
+      "memory_norm": 0.2847331859124207,
+      "transport_norm": 0.5591608257479284,
+      "transform_norm": 0.03175660245925725,
+      "memory_raw": 0.11729776653364862,
+      "transport_raw": 0.3459798110200253,
+      "transform_raw": 0.027822870935813034,
+      "triple": 0.1716338531769132,
+      "balance": 0.2621330058004252,
+      "combined": 0.1336409665729512
+    },
+    "159": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "160": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "161": {
+      "memory_norm": 0.6696270045842618,
+      "transport_norm": 0.29461081965155855,
+      "transform_norm": 0.41142164082515237,
+      "memory_raw": 0.2758573848589276,
+      "transport_raw": 0.18228994416974967,
+      "transform_raw": 0.36045830871122636,
+      "triple": 0.43296846033691594,
+      "balance": 0.658305533230159,
+      "combined": 0.38858558218202144
+    },
+    "162": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "163": {
+      "memory_norm": 0.32432094514749915,
+      "transport_norm": 0.5188659522441449,
+      "transform_norm": 0.04442826637033743,
+      "memory_raw": 0.13360621237028816,
+      "transport_raw": 0.32104742649314577,
+      "transform_raw": 0.03892487940766735,
+      "triple": 0.19553740432242445,
+      "balance": 0.34184234690264914,
+      "combined": 0.15692907258594604
+    },
+    "164": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "165": {
+      "memory_norm": 0.6738786716386796,
+      "transport_norm": 0.27616369770715427,
+      "transform_norm": 0.42842056500840336,
+      "memory_raw": 0.2776088879298808,
+      "transport_raw": 0.1708758188049203,
+      "transform_raw": 0.3753515541144478,
+      "triple": 0.43040060183384243,
+      "balance": 0.643416294521442,
+      "combined": 0.3843584494012085
+    },
+    "166": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.5685435917578374,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.35178538154906097,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.23721388535608248,
+      "balance": 0.3713166012993435,
+      "combined": 0.19247415585668753
+    },
+    "167": {
+      "memory_norm": 0.5288482971118051,
+      "transport_norm": 0.4666621521327911,
+      "transform_norm": 0.3085592398570267,
+      "memory_raw": 0.2178626417835904,
+      "transport_raw": 0.2887464138589103,
+      "transform_raw": 0.2703376067263155,
+      "triple": 0.4238616085470788,
+      "balance": 0.7866738018169217,
+      "combined": 0.39673537289494504
+    },
+    "168": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "169": {
+      "memory_norm": 0.5205486805891684,
+      "transport_norm": 0.6355721096532956,
+      "transform_norm": 0.22703670570868842,
+      "memory_raw": 0.21444355848259963,
+      "transport_raw": 0.39325916312773934,
+      "transform_raw": 0.19891337458814373,
+      "triple": 0.42193033707906447,
+      "balance": 0.6269231266343185,
+      "combined": 0.3747066017983888
+    },
+    "170": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "171": {
+      "memory_norm": 0.3373263841880236,
+      "transport_norm": 0.5837918777049783,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13896389116475175,
+      "transport_raw": 0.3612202325748182,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2478801982258336,
+      "balance": 0.3786983883688022,
+      "combined": 0.20167768823108223
+    },
+    "172": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "173": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6308161806473127,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.390316440134737,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23559559221490042,
+      "balance": 0.3162939791693058,
+      "combined": 0.18727215475135028
+    },
+    "174": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.5676540529285334,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.3512349809095922,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24494215981245568,
+      "balance": 0.38681036461241525,
+      "combined": 0.1998833617125215
+    },
+    "175": {
+      "memory_norm": 0.322299218563711,
+      "transport_norm": 0.6370011932028546,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.13277334839603758,
+      "transport_raw": 0.39414340614627863,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23693275017128854,
+      "balance": 0.31452577031362916,
+      "combined": 0.18820936184794732
+    },
+    "176": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "177": {
+      "memory_norm": 0.32432094514749915,
+      "transport_norm": 0.3826961710009307,
+      "transform_norm": 0.04442826637033743,
+      "memory_raw": 0.13360621237028816,
+      "transport_raw": 0.2367926056763461,
+      "transform_raw": 0.03892487940766735,
+      "triple": 0.17667000730619853,
+      "balance": 0.41058399528335865,
+      "combined": 0.1454303683482947
+    },
+    "178": {
+      "memory_norm": 0.023033375234433114,
+      "transport_norm": 0.4054275735371094,
+      "transform_norm": 0.0018158954233533932,
+      "memory_raw": 0.009488755102685776,
+      "transport_raw": 0.25085762237913034,
+      "transform_raw": 0.001590958102703683,
+      "triple": 0.04536876475137998,
+      "balance": 0.0,
+      "combined": 0.03175813532596598
+    },
+    "179": {
+      "memory_norm": 0.026233490138779333,
+      "transport_norm": 0.41790040049076216,
+      "transform_norm": 0.002070372356093145,
+      "memory_raw": 0.010807064135501884,
+      "transport_raw": 0.2585751628676617,
+      "transform_raw": 0.0018139126478205123,
+      "triple": 0.047860395922231014,
+      "balance": 0.0,
+      "combined": 0.033502277145561705
+    },
+    "180": {
+      "memory_norm": 0.32859868361285627,
+      "transport_norm": 0.4887246420669471,
+      "transform_norm": 0.07144810797934718,
+      "memory_raw": 0.13536845573575174,
+      "transport_raw": 0.3023975420255526,
+      "transform_raw": 0.06259773820161693,
+      "triple": 0.22554866612977376,
+      "balance": 0.41982633311872875,
+      "combined": 0.18629144712316661
+    },
+    "181": {
+      "memory_norm": 0.5288482971118053,
+      "transport_norm": 0.3900164723422027,
+      "transform_norm": 0.3085592398570267,
+      "memory_raw": 0.21786264178359047,
+      "transport_raw": 0.2413220296954112,
+      "transform_raw": 0.2703376067263155,
+      "triple": 0.3992554673517872,
+      "balance": 0.7777205537033427,
+      "combined": 0.37263158208762664
+    },
+    "182": {
+      "memory_norm": 0.6903710948195633,
+      "transport_norm": 0.3264789683659189,
+      "transform_norm": 0.4280488707290434,
+      "memory_raw": 0.2844030534840163,
+      "transport_raw": 0.20200830704863076,
+      "transform_raw": 0.3750259020874251,
+      "triple": 0.45864541351741095,
+      "balance": 0.6816786005297314,
+      "combined": 0.41484641854996623
+    },
+    "183": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "184": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "185": {
+      "memory_norm": 0.3410039725755983,
+      "transport_norm": 0.5698329384429619,
+      "transform_norm": 0.10294205961157822,
+      "memory_raw": 0.14047889863643184,
+      "transport_raw": 0.3525831626201187,
+      "transform_raw": 0.09019049320891052,
+      "triple": 0.27145631357241634,
+      "balance": 0.435913059230986,
+      "combined": 0.2255188251297668
+    },
+    "186": {
+      "memory_norm": 0.3204908363087833,
+      "transport_norm": 0.46430776056606204,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.132028373064615,
+      "transport_raw": 0.2872896380766754,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.1895901524808324,
+      "balance": 0.3729094993635387,
+      "combined": 0.15392309739034793
+    },
+    "187": {
+      "memory_norm": 0.322299218563711,
+      "transport_norm": 0.6211038863073963,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.13277334839603758,
+      "transport_raw": 0.38430697451131735,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23494512015940347,
+      "balance": 0.3235651122302765,
+      "combined": 0.18726759736328238
+    },
+    "188": {
+      "memory_norm": 0.2886600646553229,
+      "transport_norm": 0.6753072636358618,
+      "transform_norm": 0.06188549431183066,
+      "memory_raw": 0.11891547085748734,
+      "transport_raw": 0.4178452221517263,
+      "transform_raw": 0.0542196578883435,
+      "triple": 0.2293466125274954,
+      "balance": 0.25940376420235056,
+      "combined": 0.17839064114825387
+    },
+    "189": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "190": {
+      "memory_norm": 0.2856667790013998,
+      "transport_norm": 0.4971355476094211,
+      "transform_norm": 0.022919245877725782,
+      "memory_raw": 0.11768236653676237,
+      "transport_raw": 0.30760177554137524,
+      "transform_raw": 0.02008020917288782,
+      "triple": 0.14819889314964096,
+      "balance": 0.27775950978470954,
+      "combined": 0.11608832077831292
+    },
+    "191": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "192": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "193": {
+      "memory_norm": 0.9356836486353598,
+      "transport_norm": 0.6815893715100082,
+      "transform_norm": 0.7497555601863573,
+      "memory_raw": 0.3854612233388959,
+      "transport_raw": 0.42173226572670736,
+      "transform_raw": 0.656882366784558,
+      "triple": 0.7819707618514353,
+      "balance": 0.8639016432474919,
+      "combined": 0.7500432811364891
+    },
+    "194": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "195": {
+      "memory_norm": 0.5357140737563798,
+      "transport_norm": 0.5138604147085564,
+      "transform_norm": 0.3316797450157673,
+      "memory_raw": 0.2206910450248452,
+      "transport_raw": 0.31795025864648896,
+      "transform_raw": 0.29059414493211844,
+      "triple": 0.4502970031302594,
+      "balance": 0.8013373025412549,
+      "combined": 0.42345983794042547
+    },
+    "196": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "197": {
+      "memory_norm": 0.10917535359979841,
+      "transport_norm": 0.584605729219968,
+      "transform_norm": 0.032703867606204265,
+      "memory_raw": 0.04497552716498812,
+      "transport_raw": 0.3617238018171339,
+      "transform_raw": 0.02865279712074778,
+      "triple": 0.12779943391404291,
+      "balance": 0.0,
+      "combined": 0.08945960373983003
+    },
+    "198": {
+      "memory_norm": 0.11386452727675879,
+      "transport_norm": 0.12771467428630964,
+      "transform_norm": 0.04154569351991554,
+      "memory_raw": 0.04690726405555559,
+      "transport_raw": 0.07902323775088817,
+      "transform_raw": 0.03639937459388058,
+      "triple": 0.08453795804337141,
+      "balance": 0.5996667334830617,
+      "combined": 0.07438495097691898
+    },
+    "199": {
+      "memory_norm": 0.11592472417510497,
+      "transport_norm": 0.5833224459772931,
+      "transform_norm": 0.041670112948533164,
+      "memory_raw": 0.04775597613673143,
+      "transport_raw": 0.3609297724907913,
+      "transform_raw": 0.03650838202654839,
+      "triple": 0.14124393630865958,
+      "balance": 0.029205333788937082,
+      "combined": 0.10010827830772903
+    },
+    "200": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "201": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.011120649264880872,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.009743120020984174,
+      "triple": 0.010360404565006826,
+      "balance": 0.0,
+      "combined": 0.007252283195504778
+    },
+    "202": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "203": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "204": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "205": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "206": {
+      "memory_norm": 0.07924726811640648,
+      "transport_norm": 0.37507959577713346,
+      "transform_norm": 0.05026523081802825,
+      "memory_raw": 0.03264644942654088,
+      "transport_raw": 0.23207986269578343,
+      "transform_raw": 0.04403881150079307,
+      "triple": 0.11432076976883945,
+      "balance": 0.12742073262562803,
+      "combined": 0.08439458970966898
+    },
+    "207": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "208": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "209": {
+      "memory_norm": 0.3373263841880236,
+      "transport_norm": 0.4951360907560463,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13896389116475175,
+      "transport_raw": 0.3063646150100594,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.23463745881644915,
+      "balance": 0.43200325166769316,
+      "combined": 0.19465546472303952
+    },
+    "210": {
+      "memory_norm": 0.5316998565084983,
+      "transport_norm": 0.3665368994060307,
+      "transform_norm": 0.30455237076751995,
+      "memory_raw": 0.2190373610116927,
+      "transport_raw": 0.22679408382863514,
+      "transform_raw": 0.2668270737063845,
+      "triple": 0.39007556225029655,
+      "balance": 0.7608846049848229,
+      "combined": 0.3620936406043224
+    },
+    "211": {
+      "memory_norm": 0.28687341384456505,
+      "transport_norm": 0.49897179471738673,
+      "transform_norm": 0.07132851988714456,
+      "memory_raw": 0.11817944794183784,
+      "transport_raw": 0.3087379503199825,
+      "transform_raw": 0.062492963641457906,
+      "triple": 0.21694176555761852,
+      "balance": 0.3889691668294569,
+      "combined": 0.17717433323017043
+    },
+    "212": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.505081354590474,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.31251823011243557,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.2355895779594897,
+      "balance": 0.42487780490125326,
+      "combined": 0.19494173939395498
+    },
+    "213": {
+      "memory_norm": 0.33732928181917576,
+      "transport_norm": 0.5346928568015765,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.1389650848635519,
+      "transport_raw": 0.3308402968010537,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.24072721395750826,
+      "balance": 0.40814580406161227,
+      "combined": 0.19798459046031547
+    },
+    "214": {
+      "memory_norm": 0.2847331859124207,
+      "transport_norm": 0.5968368196338197,
+      "transform_norm": 0.031756602459257294,
+      "memory_raw": 0.11729776653364862,
+      "transport_raw": 0.36929176823232934,
+      "transform_raw": 0.02782287093581307,
+      "triple": 0.17540524509092614,
+      "balance": 0.2408621340079805,
+      "combined": 0.13545821605828628
+    },
+    "215": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "216": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "217": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "218": {
+      "memory_norm": 0.22676754877569288,
+      "transport_norm": 0.6058892378198949,
+      "transform_norm": 0.18063253588702327,
+      "memory_raw": 0.09341842928656909,
+      "transport_raw": 0.37489293660656814,
+      "transform_raw": 0.15825734945169603,
+      "triple": 0.2916912316934618,
+      "balance": 0.4359152020066821,
+      "combined": 0.24232965484159324
+    },
+    "219": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "220": {
+      "memory_norm": 0.07924726811640648,
+      "transport_norm": 0.053865360558355634,
+      "transform_norm": 0.050265230818028264,
+      "memory_raw": 0.03264644942654088,
+      "transport_raw": 0.033329100338131926,
+      "transform_raw": 0.044038811500793085,
+      "triple": 0.059866957036276806,
+      "balance": 0.7889976446809368,
+      "combined": 0.056077336354144934
+    },
+    "221": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "222": {
+      "memory_norm": 0.002059628374353675,
+      "transport_norm": 0.6693479905554787,
+      "transform_norm": 0.01153000774098211,
+      "memory_raw": 0.0008484778738623209,
+      "transport_raw": 0.4141579320569493,
+      "transform_raw": 0.010101770731861016,
+      "triple": 0.04257557489623512,
+      "balance": 0.0,
+      "combined": 0.02980290242736458
+    },
+    "223": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "224": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "225": {
+      "memory_norm": 0.520548680589169,
+      "transport_norm": 0.5245473367086483,
+      "transform_norm": 0.22703670570868853,
+      "memory_raw": 0.21444355848259994,
+      "transport_raw": 0.32456277347892887,
+      "transform_raw": 0.19891337458814382,
+      "triple": 0.3957741009102255,
+      "balance": 0.6714613353495776,
+      "combined": 0.3567659725253454
+    },
+    "226": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "227": {
+      "memory_norm": 0.3410039725755983,
+      "transport_norm": 0.4967906015255661,
+      "transform_norm": 0.10294205961157822,
+      "memory_raw": 0.14047889863643184,
+      "transport_raw": 0.30738834073799,
+      "transform_raw": 0.09019049320891052,
+      "triple": 0.2593235077936416,
+      "balance": 0.48353273819630005,
+      "combined": 0.21914387719618786
+    },
+    "228": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "229": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5625260468926344,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.34806203588641976,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.2267673012590855,
+      "balance": 0.3564058061830556,
+      "combined": 0.1829834657277199
+    },
+    "230": {
+      "memory_norm": 0.2886600646553229,
+      "transport_norm": 0.45702600168158874,
+      "transform_norm": 0.06188549431183064,
+      "memory_raw": 0.11891547085748734,
+      "transport_raw": 0.28278406213727797,
+      "transform_raw": 0.05421965788834348,
+      "triple": 0.20135951631534096,
+      "balance": 0.398560442830045,
+      "combined": 0.16502784281794444
+    },
+    "231": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "232": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "233": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "234": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.6054063503976475,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.3745941508343895,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.23238880896581865,
+      "balance": 0.3309563797306727,
+      "combined": 0.18574533394764814
+    },
+    "235": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.7706920663335409,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.4768644067796611,
+      "transform_raw": 0.0,
+      "triple": 0.042555950601762066,
+      "balance": 0.0,
+      "combined": 0.029789165421233443
+    },
+    "236": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "237": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "238": {
+      "memory_norm": 0.06382893129470117,
+      "transport_norm": 0.3276427751357887,
+      "transform_norm": 0.046781142961938596,
+      "memory_raw": 0.02629476103077438,
+      "transport_raw": 0.20272841051039384,
+      "transform_raw": 0.04098630212503779,
+      "triple": 0.09927266154973036,
+      "balance": 0.11989333700386617,
+      "combined": 0.07306150228474702
+    },
+    "239": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "240": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "241": {
+      "memory_norm": 0.3373263841880236,
+      "transport_norm": 0.4951360907560463,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13896389116475175,
+      "transport_raw": 0.3063646150100594,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.23463745881644915,
+      "balance": 0.43200325166769316,
+      "combined": 0.19465546472303952
+    },
+    "242": {
+      "memory_norm": 0.3204908363087833,
+      "transport_norm": 0.8351321038965783,
+      "transform_norm": 0.04579581249548555,
+      "memory_raw": 0.132028373064615,
+      "transport_raw": 0.5167365705500065,
+      "transform_raw": 0.04012302582108116,
+      "triple": 0.23056790562640414,
+      "balance": 0.1830396598663776,
+      "combined": 0.1740584552450709
+    },
+    "243": {
+      "memory_norm": 0.32229921856371113,
+      "transport_norm": 0.5361481920123792,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1327733483960376,
+      "transport_raw": 0.3317407829903907,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22370376603815562,
+      "balance": 0.3738040818224345,
+      "combined": 0.18167905048594296
+    },
+    "244": {
+      "memory_norm": 0.33472622614579123,
+      "transport_norm": 0.4837113240218875,
+      "transform_norm": 0.07734231102352367,
+      "memory_raw": 0.13789273842921437,
+      "transport_raw": 0.2992955600018782,
+      "transform_raw": 0.0677618186720639,
+      "triple": 0.23221898021669765,
+      "balance": 0.43784615099313506,
+      "combined": 0.19305614215431796
+    },
+    "245": {
+      "memory_norm": 0.32229921856371113,
+      "transport_norm": 0.5481054275199093,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1327733483960376,
+      "transport_raw": 0.3391393021475288,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22535457594663252,
+      "balance": 0.36657948516650196,
+      "combined": 0.18253131249177235
+    },
+    "246": {
+      "memory_norm": 0.2856667790013998,
+      "transport_norm": 0.3561568096487611,
+      "transform_norm": 0.02291924587772576,
+      "memory_raw": 0.11768236653676237,
+      "transport_raw": 0.2203714209251899,
+      "transform_raw": 0.0200802091728878,
+      "triple": 0.13260719990079226,
+      "balance": 0.35286680437606766,
+      "combined": 0.10686284359042987
+    },
+    "247": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "248": {
+      "memory_norm": 0.3199800265424648,
+      "transport_norm": 0.5255914044007902,
+      "transform_norm": 0.06478519765190753,
+      "memory_raw": 0.1318179415178997,
+      "transport_raw": 0.32520878858976254,
+      "transform_raw": 0.056760171215819645,
+      "triple": 0.22169146368322973,
+      "balance": 0.3788609581302961,
+      "combined": 0.18038109668036165
+    },
+    "249": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.29090988962012465,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.18000000000000005,
+      "transform_raw": 0.0,
+      "triple": 0.030755266539997616,
+      "balance": 0.0,
+      "combined": 0.02152868657799833
+    },
+    "250": {
+      "memory_norm": 0.11837831859984756,
+      "transport_norm": 0.6558980318524549,
+      "transform_norm": 0.03514551230614046,
+      "memory_raw": 0.04876675099628799,
+      "transport_raw": 0.4058357929584619,
+      "transform_raw": 0.030791992125773687,
+      "triple": 0.13974173285369884,
+      "balance": 0.0,
+      "combined": 0.09781921299758918
+    },
+    "251": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "252": {
+      "memory_norm": 0.06382893129470117,
+      "transport_norm": 0.5825686244723461,
+      "transform_norm": 0.04678114296193861,
+      "memory_raw": 0.02629476103077438,
+      "transport_raw": 0.3604633467152096,
+      "transform_raw": 0.0409863021250378,
+      "triple": 0.12026663619466958,
+      "balance": 0.0,
+      "combined": 0.0841866453362687
+    },
+    "253": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    },
+    "254": {
+      "memory_norm": 0.002059628374353675,
+      "transport_norm": 0.5541179242502182,
+      "transform_norm": 0.01153000774098211,
+      "memory_raw": 0.0008484778738623209,
+      "transport_raw": 0.3428595242852802,
+      "transform_raw": 0.010101770731861016,
+      "triple": 0.03997703672810535,
+      "balance": 0.0,
+      "combined": 0.02798392570967374
+    },
+    "255": {
+      "memory_norm": 0.0,
+      "transport_norm": 0.0,
+      "transform_norm": 0.0,
+      "memory_raw": 0.0,
+      "transport_raw": 0.0,
+      "transform_raw": 0.0,
+      "triple": 0.010000000000000004,
+      "balance": 0.0,
+      "combined": 0.007000000000000002
+    }
+  },
+  "rankings": [
+    [
+      75,
+      0.8973486153328702
+    ],
+    [
+      45,
+      0.8583732987004122
+    ],
+    [
+      89,
+      0.8133368150495526
+    ],
+    [
+      101,
+      0.7604839037587379
+    ],
+    [
+      124,
+      0.752653966993865
+    ],
+    [
+      193,
+      0.7500432811364891
+    ],
+    [
+      110,
+      0.7384919251362352
+    ],
+    [
+      137,
+      0.7353056486508951
+    ],
+    [
+      135,
+      0.6614366188468743
+    ],
+    [
+      86,
+      0.659618860241001
+    ],
+    [
+      30,
+      0.6458722979887557
+    ],
+    [
+      149,
+      0.6435668306800284
+    ],
+    [
+      22,
+      0.5274311232574046
+    ],
+    [
+      60,
+      0.42345983794042547
+    ],
+    [
+      195,
+      0.42345983794042547
+    ],
+    [
+      102,
+      0.4190504582793223
+    ],
+    [
+      153,
+      0.4190504582793223
+    ],
+    [
+      182,
+      0.41484641854996623
+    ],
+    [
+      62,
+      0.4036179576557832
+    ],
+    [
+      167,
+      0.39673537289494504
+    ],
+    [
+      26,
+      0.3934556167936049
+    ],
+    [
+      154,
+      0.3934556167936049
+    ],
+    [
+      18,
+      0.3920352495977946
+    ],
+    [
+      146,
+      0.3920352495977946
+    ],
+    [
+      126,
+      0.38858558218202144
+    ],
+    [
+      129,
+      0.38858558218202144
+    ],
+    [
+      161,
+      0.38858558218202144
+    ],
+    [
+      90,
+      0.3843584494012085
+    ],
+    [
+      165,
+      0.3843584494012085
+    ],
+    [
+      118,
+      0.37682562936365166
+    ],
+    [
+      122,
+      0.3764616656952326
+    ],
+    [
+      169,
+      0.3747066017983888
+    ],
+    [
+      181,
+      0.37263158208762664
+    ],
+    [
+      82,
+      0.3620936406043224
+    ],
+    [
+      210,
+      0.3620936406043224
+    ],
+    [
+      225,
+      0.3567659725253454
+    ],
+    [
+      105,
+      0.31189578890180214
+    ],
+    [
+      150,
+      0.31189578890180214
+    ],
+    [
+      121,
+      0.30911975407460596
+    ],
+    [
+      107,
+      0.29786001122066025
+    ],
+    [
+      218,
+      0.24232965484159324
+    ],
+    [
+      65,
+      0.22956742333546207
+    ],
+    [
+      185,
+      0.2255188251297668
+    ],
+    [
+      97,
+      0.2233070210677244
+    ],
+    [
+      9,
+      0.22203546629699364
+    ],
+    [
+      125,
+      0.22203004335401388
+    ],
+    [
+      227,
+      0.21914387719618786
+    ],
+    [
+      41,
+      0.21873849562827344
+    ],
+    [
+      111,
+      0.21510292471717965
+    ],
+    [
+      57,
+      0.2086515723187247
+    ]
+  ],
+  "class_averages": {
+    "class_1": {
+      "combined": 0.007000000000000002,
+      "memory": 0.0,
+      "transport": 0.0,
+      "transform": 0.0
+    },
+    "class_2": {
+      "combined": 0.11240031231239771,
+      "memory": 0.17765186924808027,
+      "transport": 0.34992021368466836,
+      "transform": 0.06501128023038379
+    },
+    "class_3": {
+      "combined": 0.452270895892885,
+      "memory": 0.7461180349723323,
+      "transport": 0.36958390731924534,
+      "transform": 0.5224431097883613
+    },
+    "class_4": {
+      "combined": 0.32518360901200216,
+      "memory": 0.47874899222020306,
+      "transport": 0.6555205598246348,
+      "transform": 0.23405998888854715
+    }
+  }
+}

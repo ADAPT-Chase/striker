@@ -1,0 +1,1056 @@
+{
+  "classifications": {
+    "0": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "1": {
+      "class": 2,
+      "mean_block_entropy": 0.3240716909451285
+    },
+    "2": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "3": {
+      "class": 2,
+      "mean_block_entropy": 0.2760086191682149
+    },
+    "4": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "5": {
+      "class": 2,
+      "mean_block_entropy": 0.31407069084511846
+    },
+    "6": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "7": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "8": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "9": {
+      "class": 2,
+      "mean_block_entropy": 0.6108010169270188
+    },
+    "10": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "11": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "12": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "13": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "14": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "15": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "16": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "17": {
+      "class": 2,
+      "mean_block_entropy": 0.2760086191682149
+    },
+    "18": {
+      "class": 4,
+      "mean_block_entropy": 1.6329109664664336
+    },
+    "19": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "20": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "21": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "22": {
+      "class": 4,
+      "mean_block_entropy": 2.3174966904992913
+    },
+    "23": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "24": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "25": {
+      "class": 2,
+      "mean_block_entropy": 0.5751252088658869
+    },
+    "26": {
+      "class": 4,
+      "mean_block_entropy": 1.1532940096178428
+    },
+    "27": {
+      "class": 2,
+      "mean_block_entropy": 0.23589653838599933
+    },
+    "28": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "29": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "30": {
+      "class": 3,
+      "mean_block_entropy": 2.953241908513902
+    },
+    "31": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "32": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "33": {
+      "class": 2,
+      "mean_block_entropy": 0.3240716909451285
+    },
+    "34": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "35": {
+      "class": 2,
+      "mean_block_entropy": 0.2760086191682149
+    },
+    "36": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "37": {
+      "class": 2,
+      "mean_block_entropy": 0.461857037330032
+    },
+    "38": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "39": {
+      "class": 2,
+      "mean_block_entropy": 0.23750521571913863
+    },
+    "40": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "41": {
+      "class": 2,
+      "mean_block_entropy": 0.38104238873369456
+    },
+    "42": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "43": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "44": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "45": {
+      "class": 3,
+      "mean_block_entropy": 2.936221910332672
+    },
+    "46": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "47": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "48": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "49": {
+      "class": 2,
+      "mean_block_entropy": 0.2760086191682149
+    },
+    "50": {
+      "class": 2,
+      "mean_block_entropy": 0.999926399368686
+    },
+    "51": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "52": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "53": {
+      "class": 2,
+      "mean_block_entropy": 0.23750521571913863
+    },
+    "54": {
+      "class": 4,
+      "mean_block_entropy": 2.0791715412951746
+    },
+    "55": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "56": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "57": {
+      "class": 4,
+      "mean_block_entropy": 1.6096156089806355
+    },
+    "58": {
+      "class": 4,
+      "mean_block_entropy": 1.1396779525998109
+    },
+    "59": {
+      "class": 2,
+      "mean_block_entropy": 0.2752050242464307
+    },
+    "60": {
+      "class": 4,
+      "mean_block_entropy": 1.6087375938464201
+    },
+    "61": {
+      "class": 2,
+      "mean_block_entropy": 0.5773176320881708
+    },
+    "62": {
+      "class": 3,
+      "mean_block_entropy": 2.57183070044548
+    },
+    "63": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "64": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "65": {
+      "class": 2,
+      "mean_block_entropy": 0.6108010169270188
+    },
+    "66": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "67": {
+      "class": 2,
+      "mean_block_entropy": 0.5751252088658869
+    },
+    "68": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "69": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "70": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "71": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "72": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "73": {
+      "class": 4,
+      "mean_block_entropy": 2.6121841450684413
+    },
+    "74": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "75": {
+      "class": 3,
+      "mean_block_entropy": 2.945087923634594
+    },
+    "76": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "77": {
+      "class": 2,
+      "mean_block_entropy": 0.999926399368686
+    },
+    "78": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "79": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "80": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "81": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "82": {
+      "class": 4,
+      "mean_block_entropy": 1.1532940096178428
+    },
+    "83": {
+      "class": 2,
+      "mean_block_entropy": 0.23589653838599933
+    },
+    "84": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "85": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "86": {
+      "class": 3,
+      "mean_block_entropy": 2.953241908513902
+    },
+    "87": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "88": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "89": {
+      "class": 3,
+      "mean_block_entropy": 2.945087923634594
+    },
+    "90": {
+      "class": 4,
+      "mean_block_entropy": 1.7706175223317853
+    },
+    "91": {
+      "class": 2,
+      "mean_block_entropy": 0.46297802588871684
+    },
+    "92": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "93": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "94": {
+      "class": 2,
+      "mean_block_entropy": 1.0719181067554404
+    },
+    "95": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "96": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "97": {
+      "class": 2,
+      "mean_block_entropy": 0.38104238873369456
+    },
+    "98": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "99": {
+      "class": 4,
+      "mean_block_entropy": 1.6096156089806355
+    },
+    "100": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "101": {
+      "class": 3,
+      "mean_block_entropy": 2.936221910332672
+    },
+    "102": {
+      "class": 4,
+      "mean_block_entropy": 1.6087375938464201
+    },
+    "103": {
+      "class": 2,
+      "mean_block_entropy": 0.5773176320881708
+    },
+    "104": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "105": {
+      "class": 4,
+      "mean_block_entropy": 2.3211741910848094
+    },
+    "106": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "107": {
+      "class": 2,
+      "mean_block_entropy": 0.6659067220489449
+    },
+    "108": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "109": {
+      "class": 4,
+      "mean_block_entropy": 2.641915553177048
+    },
+    "110": {
+      "class": 4,
+      "mean_block_entropy": 2.8836478169397326
+    },
+    "111": {
+      "class": 2,
+      "mean_block_entropy": 0.611915731777045
+    },
+    "112": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "113": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "114": {
+      "class": 4,
+      "mean_block_entropy": 1.1396779525998109
+    },
+    "115": {
+      "class": 2,
+      "mean_block_entropy": 0.2752050242464307
+    },
+    "116": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "117": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "118": {
+      "class": 3,
+      "mean_block_entropy": 2.57183070044548
+    },
+    "119": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "120": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "121": {
+      "class": 2,
+      "mean_block_entropy": 0.6659067220489449
+    },
+    "122": {
+      "class": 4,
+      "mean_block_entropy": 1.7503062166464722
+    },
+    "123": {
+      "class": 2,
+      "mean_block_entropy": 0.32567435601278855
+    },
+    "124": {
+      "class": 4,
+      "mean_block_entropy": 2.8836478169397326
+    },
+    "125": {
+      "class": 2,
+      "mean_block_entropy": 0.611915731777045
+    },
+    "126": {
+      "class": 4,
+      "mean_block_entropy": 1.8901409672102667
+    },
+    "127": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "128": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "129": {
+      "class": 4,
+      "mean_block_entropy": 1.8901409672102667
+    },
+    "130": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "131": {
+      "class": 2,
+      "mean_block_entropy": 2.553950074129581
+    },
+    "132": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "133": {
+      "class": 2,
+      "mean_block_entropy": 1.0719181067554404
+    },
+    "134": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "135": {
+      "class": 3,
+      "mean_block_entropy": 2.9526478875204516
+    },
+    "136": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "137": {
+      "class": 4,
+      "mean_block_entropy": 2.882450245448821
+    },
+    "138": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "139": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "140": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "141": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "142": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "143": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "144": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "145": {
+      "class": 2,
+      "mean_block_entropy": 2.5539500741295806
+    },
+    "146": {
+      "class": 4,
+      "mean_block_entropy": 1.6329109664664336
+    },
+    "147": {
+      "class": 4,
+      "mean_block_entropy": 2.079788655995319
+    },
+    "148": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "149": {
+      "class": 3,
+      "mean_block_entropy": 2.9526478875204516
+    },
+    "150": {
+      "class": 4,
+      "mean_block_entropy": 2.3211741910848094
+    },
+    "151": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "152": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "153": {
+      "class": 4,
+      "mean_block_entropy": 1.6087375938464201
+    },
+    "154": {
+      "class": 4,
+      "mean_block_entropy": 1.1532940096178428
+    },
+    "155": {
+      "class": 2,
+      "mean_block_entropy": 0.27922148037529976
+    },
+    "156": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "157": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "158": {
+      "class": 4,
+      "mean_block_entropy": 2.0293171273631723
+    },
+    "159": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "160": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "161": {
+      "class": 4,
+      "mean_block_entropy": 1.8901409672102667
+    },
+    "162": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "163": {
+      "class": 4,
+      "mean_block_entropy": 1.1396779525998109
+    },
+    "164": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "165": {
+      "class": 4,
+      "mean_block_entropy": 1.7706175223317853
+    },
+    "166": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "167": {
+      "class": 4,
+      "mean_block_entropy": 1.1593091335646086
+    },
+    "168": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "169": {
+      "class": 2,
+      "mean_block_entropy": 0.9383515683346351
+    },
+    "170": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "171": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "172": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "173": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "174": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "175": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "176": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "177": {
+      "class": 4,
+      "mean_block_entropy": 1.1396779525998109
+    },
+    "178": {
+      "class": 2,
+      "mean_block_entropy": 0.999926399368686
+    },
+    "179": {
+      "class": 2,
+      "mean_block_entropy": 0.999926399368686
+    },
+    "180": {
+      "class": 2,
+      "mean_block_entropy": 0.278419388438327
+    },
+    "181": {
+      "class": 4,
+      "mean_block_entropy": 1.1593091335646086
+    },
+    "182": {
+      "class": 4,
+      "mean_block_entropy": 1.638520073564628
+    },
+    "183": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "184": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "185": {
+      "class": 2,
+      "mean_block_entropy": 0.37839386266975805
+    },
+    "186": {
+      "class": 4,
+      "mean_block_entropy": 1.1396779525998109
+    },
+    "187": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "188": {
+      "class": 3,
+      "mean_block_entropy": 1.999489043391579
+    },
+    "189": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "190": {
+      "class": 3,
+      "mean_block_entropy": 1.999489043391579
+    },
+    "191": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "192": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "193": {
+      "class": 4,
+      "mean_block_entropy": 2.882450245448821
+    },
+    "194": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "195": {
+      "class": 4,
+      "mean_block_entropy": 1.6087375938464201
+    },
+    "196": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "197": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "198": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "199": {
+      "class": 2,
+      "mean_block_entropy": 1.1424982120365725
+    },
+    "200": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "201": {
+      "class": 2,
+      "mean_block_entropy": 0.39560658929378206
+    },
+    "202": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "203": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "204": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "205": {
+      "class": 2,
+      "mean_block_entropy": 0.3856055891937721
+    },
+    "206": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "207": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "208": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "209": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "210": {
+      "class": 4,
+      "mean_block_entropy": 1.1532940096178428
+    },
+    "211": {
+      "class": 2,
+      "mean_block_entropy": 0.27922148037529976
+    },
+    "212": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "213": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "214": {
+      "class": 4,
+      "mean_block_entropy": 2.0293171273631723
+    },
+    "215": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "216": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "217": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "218": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "219": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "220": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "221": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "222": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "223": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "224": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "225": {
+      "class": 2,
+      "mean_block_entropy": 0.9383515683346351
+    },
+    "226": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "227": {
+      "class": 2,
+      "mean_block_entropy": 0.37839386266975805
+    },
+    "228": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "229": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "230": {
+      "class": 3,
+      "mean_block_entropy": 1.999489043391579
+    },
+    "231": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "232": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "233": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "234": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "235": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "236": {
+      "class": 2,
+      "mean_block_entropy": 0.2439384375621248
+    },
+    "237": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "238": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "239": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "240": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "241": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "242": {
+      "class": 4,
+      "mean_block_entropy": 1.1396779525998109
+    },
+    "243": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "244": {
+      "class": 2,
+      "mean_block_entropy": 0.31852847874616025
+    },
+    "245": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "246": {
+      "class": 3,
+      "mean_block_entropy": 1.999489043391579
+    },
+    "247": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "248": {
+      "class": 2,
+      "mean_block_entropy": 0.23911389305227784
+    },
+    "249": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "250": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "251": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "252": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "253": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "254": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    },
+    "255": {
+      "class": 1,
+      "mean_block_entropy": 0.0
+    }
+  },
+  "centroids": {
+    "1": [
+      0.07461867639071221,
+      0.08193994260042452,
+      0.00322910241940387
+    ],
+    "2": [
+      0.483427164355284,
+      0.4299527982172031,
+      0.060808432599140406
+    ],
+    "3": [
+      0.5075145160803963,
+      0.5293905980018133,
+      0.6618184004628719
+    ],
+    "4": [
+      0.4479571450667025,
+      0.43555913208937885,
+      0.3372230744784545
+    ]
+  },
+  "class_counts": {
+    "1": 47,
+    "2": 155,
+    "4": 40,
+    "3": 14
+  }
+}

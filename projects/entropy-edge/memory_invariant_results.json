@@ -1,0 +1,2766 @@
+{
+  "all_256": [
+    {
+      "rule": 0,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 1,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.31684480605952076,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.3248730234789585
+    },
+    {
+      "rule": 2,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 3,
+      "invariant_memory_score": 0.06328540025463536,
+      "ti_memory_raw": 0.2719020084751259,
+      "periodicity_penalty": 0.8759276430277214,
+      "novelty_factor": 0.2327507641799006,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27448070594972085
+    },
+    {
+      "rule": 4,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 5,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2966427858575006,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.3147720133779484
+    },
+    {
+      "rule": 6,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 7,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 8,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 9,
+      "invariant_memory_score": 0.13965525222387257,
+      "ti_memory_raw": 0.5828403956712619,
+      "periodicity_penalty": 0.8720025893650903,
+      "novelty_factor": 0.23961148414057765,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.6120192633239063
+    },
+    {
+      "rule": 10,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 11,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 12,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 13,
+      "invariant_memory_score": 0.04689142041804947,
+      "ti_memory_raw": 1.2977903099312629,
+      "periodicity_penalty": 0.9817679263755572,
+      "novelty_factor": 0.03613173874023845,
+      "period": 2,
+      "period_confidence": 0.9951995199519952,
+      "spatial_entropy": 1.385619463229249
+    },
+    {
+      "rule": 14,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 15,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 16,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 17,
+      "invariant_memory_score": 0.06328540025463536,
+      "ti_memory_raw": 0.2719020084751259,
+      "periodicity_penalty": 0.8759276430277214,
+      "novelty_factor": 0.2327507641799006,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27448070594972085
+    },
+    {
+      "rule": 18,
+      "invariant_memory_score": 0.2755432828506497,
+      "ti_memory_raw": 0.5189716332809842,
+      "periodicity_penalty": 0.6848788707680248,
+      "novelty_factor": 0.5309409323755152,
+      "period": 2,
+      "period_confidence": 0.8213821382138213,
+      "spatial_entropy": 1.469222880824566
+    },
+    {
+      "rule": 19,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 20,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 21,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 22,
+      "invariant_memory_score": 0.33109247261783853,
+      "ti_memory_raw": 0.6890417386367695,
+      "periodicity_penalty": 0.7207555132189956,
+      "novelty_factor": 0.4805114901644223,
+      "period": 4,
+      "period_confidence": 0.7291007451260589,
+      "spatial_entropy": 1.8438762367409882
+    },
+    {
+      "rule": 23,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 24,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 25,
+      "invariant_memory_score": 0.07775855877349977,
+      "ti_memory_raw": 0.5640639282612765,
+      "periodicity_penalty": 0.9285180883705287,
+      "novelty_factor": 0.13785415956873903,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.5764890209788636
+    },
+    {
+      "rule": 26,
+      "invariant_memory_score": 0.2190373610116927,
+      "ti_memory_raw": 0.4203104484703092,
+      "periodicity_penalty": 0.6920026557223824,
+      "novelty_factor": 0.5211323244731698,
+      "period": 2,
+      "period_confidence": 0.8606860686068607,
+      "spatial_entropy": 1.1221255357079596
+    },
+    {
+      "rule": 27,
+      "invariant_memory_score": 0.07267055597359842,
+      "ti_memory_raw": 0.2351398705805329,
+      "periodicity_penalty": 0.8312325413267149,
+      "novelty_factor": 0.3090524622395313,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23538968325520304
+    },
+    {
+      "rule": 28,
+      "invariant_memory_score": 0.04690726405555559,
+      "ti_memory_raw": 1.3134414869844482,
+      "periodicity_penalty": 0.9819810334719249,
+      "novelty_factor": 0.03571324990141034,
+      "period": 2,
+      "period_confidence": 0.9903990399039904,
+      "spatial_entropy": 1.4214660939124988
+    },
+    {
+      "rule": 29,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 30,
+      "invariant_memory_score": 0.39569433912732355,
+      "ti_memory_raw": 1.000933675748771,
+      "periodicity_penalty": 0.7776083631598323,
+      "novelty_factor": 0.3953252335438864,
+      "period": 10,
+      "period_confidence": 0.514960287237515,
+      "spatial_entropy": 2.9505728771803237
+    },
+    {
+      "rule": 31,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 32,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 33,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.31684480605952076,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.3248730234789585
+    },
+    {
+      "rule": 34,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 35,
+      "invariant_memory_score": 0.06328540025463536,
+      "ti_memory_raw": 0.2719020084751259,
+      "periodicity_penalty": 0.8759276430277214,
+      "novelty_factor": 0.2327507641799006,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27448070594972085
+    },
+    {
+      "rule": 36,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 37,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.43040548892655495,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.46241753160937443
+    },
+    {
+      "rule": 38,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 39,
+      "invariant_memory_score": 0.07150111750502273,
+      "ti_memory_raw": 0.2351398705805329,
+      "periodicity_penalty": 0.8342187432246198,
+      "novelty_factor": 0.3040790884527359,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23538968325520304
+    },
+    {
+      "rule": 40,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 41,
+      "invariant_memory_score": 0.13487946484526286,
+      "ti_memory_raw": 0.3427869696354617,
+      "periodicity_penalty": 0.7787945985818558,
+      "novelty_factor": 0.393478973219726,
+      "period": 2,
+      "period_confidence": 0.9702970297029703,
+      "spatial_entropy": 0.38279268616715784
+    },
+    {
+      "rule": 42,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 43,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 44,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 45,
+      "invariant_memory_score": 0.41173222534949333,
+      "ti_memory_raw": 1.0989184100249445,
+      "periodicity_penalty": 0.7907778304689023,
+      "novelty_factor": 0.37467042283889607,
+      "period": 2,
+      "period_confidence": 0.527952795279528,
+      "spatial_entropy": 2.897515609077429
+    },
+    {
+      "rule": 46,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 47,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 48,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 49,
+      "invariant_memory_score": 0.06328540025463536,
+      "ti_memory_raw": 0.2719020084751259,
+      "periodicity_penalty": 0.8759276430277214,
+      "novelty_factor": 0.2327507641799006,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27448070594972085
+    },
+    {
+      "rule": 50,
+      "invariant_memory_score": 0.009488755102685776,
+      "ti_memory_raw": 1.0222000774380187,
+      "periodicity_penalty": 0.9953478392441474,
+      "novelty_factor": 0.009282678912006959,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 1.0513434861342281
+    },
+    {
+      "rule": 51,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 52,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 53,
+      "invariant_memory_score": 0.07150111750502273,
+      "ti_memory_raw": 0.2351398705805329,
+      "periodicity_penalty": 0.8342187432246198,
+      "novelty_factor": 0.3040790884527359,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23538968325520304
+    },
+    {
+      "rule": 54,
+      "invariant_memory_score": 0.1393020704099678,
+      "ti_memory_raw": 2.1686216484154017,
+      "periodicity_penalty": 0.9673493144678915,
+      "novelty_factor": 0.06423530379850029,
+      "period": 4,
+      "period_confidence": 0.9803000918648566,
+      "spatial_entropy": 2.3653475464296467
+    },
+    {
+      "rule": 55,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 56,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 57,
+      "invariant_memory_score": 0.11503090201857871,
+      "ti_memory_raw": 1.9937457967242203,
+      "periodicity_penalty": 0.970723507562943,
+      "novelty_factor": 0.057695871864696935,
+      "period": 6,
+      "period_confidence": 0.9558103178738927,
+      "spatial_entropy": 2.349980609764312
+    },
+    {
+      "rule": 58,
+      "invariant_memory_score": 0.132028373064615,
+      "ti_memory_raw": 1.145466935514915,
+      "periodicity_penalty": 0.9406053271052172,
+      "novelty_factor": 0.11526161862128748,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 1.1751584587337334
+    },
+    {
+      "rule": 59,
+      "invariant_memory_score": 0.055651240894143514,
+      "ti_memory_raw": 0.2351398705805329,
+      "periodicity_penalty": 0.8736859133901191,
+      "novelty_factor": 0.23667292474367319,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27448070594972085
+    },
+    {
+      "rule": 60,
+      "invariant_memory_score": 0.2206910450248452,
+      "ti_memory_raw": 0.6834749208830941,
+      "periodicity_penalty": 0.8228635363602586,
+      "novelty_factor": 0.3228956005286895,
+      "period": 1,
+      "period_confidence": 0.8154455445544555,
+      "spatial_entropy": 1.3808580621050441
+    },
+    {
+      "rule": 61,
+      "invariant_memory_score": 0.07267293643346313,
+      "ti_memory_raw": 0.536369882896213,
+      "periodicity_penalty": 0.9297901174709122,
+      "novelty_factor": 0.1354903374534272,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.5764890209788636
+    },
+    {
+      "rule": 62,
+      "invariant_memory_score": 0.10779077952545066,
+      "ti_memory_raw": 2.0672892673208696,
+      "periodicity_penalty": 0.973580443079573,
+      "novelty_factor": 0.05214112085298228,
+      "period": 3,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 2.616604131386415
+    },
+    {
+      "rule": 63,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 64,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 65,
+      "invariant_memory_score": 0.13965525222387257,
+      "ti_memory_raw": 0.5828403956712619,
+      "periodicity_penalty": 0.8720025893650903,
+      "novelty_factor": 0.23961148414057765,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.6120192633239063
+    },
+    {
+      "rule": 66,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 67,
+      "invariant_memory_score": 0.07775855877349977,
+      "ti_memory_raw": 0.5640639282612765,
+      "periodicity_penalty": 0.9285180883705287,
+      "novelty_factor": 0.13785415956873903,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.5764890209788636
+    },
+    {
+      "rule": 68,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 69,
+      "invariant_memory_score": 0.04689142041804947,
+      "ti_memory_raw": 1.2977903099312629,
+      "periodicity_penalty": 0.9817679263755572,
+      "novelty_factor": 0.03613173874023845,
+      "period": 2,
+      "period_confidence": 0.9951995199519952,
+      "spatial_entropy": 1.385619463229249
+    },
+    {
+      "rule": 70,
+      "invariant_memory_score": 0.04690726405555559,
+      "ti_memory_raw": 1.3134414869844482,
+      "periodicity_penalty": 0.9819810334719249,
+      "novelty_factor": 0.03571324990141034,
+      "period": 2,
+      "period_confidence": 0.9903990399039904,
+      "spatial_entropy": 1.4214660939124988
+    },
+    {
+      "rule": 71,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 72,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 73,
+      "invariant_memory_score": 0.38301308753400265,
+      "ti_memory_raw": 1.1678847470567844,
+      "periodicity_penalty": 0.8197837976870022,
+      "novelty_factor": 0.3279545250498763,
+      "period": 2,
+      "period_confidence": 0.715971597159716,
+      "spatial_entropy": 2.6522071702494876
+    },
+    {
+      "rule": 74,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 75,
+      "invariant_memory_score": 0.4119567803723712,
+      "ti_memory_raw": 1.0865803562058542,
+      "periodicity_penalty": 0.7879521274607121,
+      "novelty_factor": 0.3791314448301377,
+      "period": 2,
+      "period_confidence": 0.5262526252625263,
+      "spatial_entropy": 2.891876820379955
+    },
+    {
+      "rule": 76,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 77,
+      "invariant_memory_score": 0.009488755102685776,
+      "ti_memory_raw": 1.0222000774380187,
+      "periodicity_penalty": 0.9953478392441474,
+      "novelty_factor": 0.009282678912006959,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 1.0513434861342281
+    },
+    {
+      "rule": 78,
+      "invariant_memory_score": 0.0461532371190767,
+      "ti_memory_raw": 1.3665701027698085,
+      "periodicity_penalty": 0.9829684391717198,
+      "novelty_factor": 0.03377304759231292,
+      "period": 1,
+      "period_confidence": 0.9926732673267327,
+      "spatial_entropy": 1.472897004742157
+    },
+    {
+      "rule": 79,
+      "invariant_memory_score": 0.04694652697082477,
+      "ti_memory_raw": 1.2697008010957938,
+      "periodicity_penalty": 0.9813386367230205,
+      "novelty_factor": 0.03697448007460369,
+      "period": 2,
+      "period_confidence": 0.995099509950995,
+      "spatial_entropy": 1.388378057966084
+    },
+    {
+      "rule": 80,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 81,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 82,
+      "invariant_memory_score": 0.2190373610116927,
+      "ti_memory_raw": 0.4203104484703092,
+      "periodicity_penalty": 0.6920026557223824,
+      "novelty_factor": 0.5211323244731698,
+      "period": 2,
+      "period_confidence": 0.8606860686068607,
+      "spatial_entropy": 1.1221255357079596
+    },
+    {
+      "rule": 83,
+      "invariant_memory_score": 0.07267055597359842,
+      "ti_memory_raw": 0.2351398705805329,
+      "periodicity_penalty": 0.8312325413267149,
+      "novelty_factor": 0.3090524622395313,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23538968325520304
+    },
+    {
+      "rule": 84,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 85,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 86,
+      "invariant_memory_score": 0.39569433912732355,
+      "ti_memory_raw": 1.000933675748771,
+      "periodicity_penalty": 0.7776083631598323,
+      "novelty_factor": 0.3953252335438864,
+      "period": 10,
+      "period_confidence": 0.514960287237515,
+      "spatial_entropy": 2.9505728771803237
+    },
+    {
+      "rule": 87,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 88,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 89,
+      "invariant_memory_score": 0.4119567803723711,
+      "ti_memory_raw": 1.0865803562058542,
+      "periodicity_penalty": 0.7879521274607122,
+      "novelty_factor": 0.3791314448301376,
+      "period": 2,
+      "period_confidence": 0.5262526252625263,
+      "spatial_entropy": 2.891876820379955
+    },
+    {
+      "rule": 90,
+      "invariant_memory_score": 0.2776088879298808,
+      "ti_memory_raw": 0.5446629008754991,
+      "periodicity_penalty": 0.7002218471935654,
+      "novelty_factor": 0.5096893647128311,
+      "period": 2,
+      "period_confidence": 0.7591759175917592,
+      "spatial_entropy": 1.5445462617174122
+    },
+    {
+      "rule": 91,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.3794109258141499,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.46241753160937443
+    },
+    {
+      "rule": 92,
+      "invariant_memory_score": 0.046153237119077,
+      "ti_memory_raw": 1.3665701027698083,
+      "periodicity_penalty": 0.9829684391717197,
+      "novelty_factor": 0.03377304759231314,
+      "period": 1,
+      "period_confidence": 0.9926732673267327,
+      "spatial_entropy": 1.472897004742157
+    },
+    {
+      "rule": 93,
+      "invariant_memory_score": 0.04694652697082477,
+      "ti_memory_raw": 1.2697008010957938,
+      "periodicity_penalty": 0.9813386367230205,
+      "novelty_factor": 0.03697448007460369,
+      "period": 2,
+      "period_confidence": 0.995099509950995,
+      "spatial_entropy": 1.388378057966084
+    },
+    {
+      "rule": 94,
+      "invariant_memory_score": 0.00807926216072819,
+      "ti_memory_raw": 1.0433464324874306,
+      "periodicity_penalty": 0.996120673146698,
+      "novelty_factor": 0.007743604529769188,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 1.1492482211699993
+    },
+    {
+      "rule": 95,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 96,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 97,
+      "invariant_memory_score": 0.13487946484526286,
+      "ti_memory_raw": 0.3427869696354617,
+      "periodicity_penalty": 0.7787945985818558,
+      "novelty_factor": 0.393478973219726,
+      "period": 2,
+      "period_confidence": 0.9702970297029703,
+      "spatial_entropy": 0.38279268616715784
+    },
+    {
+      "rule": 98,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 99,
+      "invariant_memory_score": 0.11503090201857874,
+      "ti_memory_raw": 1.9937457967242207,
+      "periodicity_penalty": 0.970723507562943,
+      "novelty_factor": 0.057695871864696935,
+      "period": 6,
+      "period_confidence": 0.9558103178738927,
+      "spatial_entropy": 2.349980609764312
+    },
+    {
+      "rule": 100,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 101,
+      "invariant_memory_score": 0.41173222534949316,
+      "ti_memory_raw": 1.0989184100249447,
+      "periodicity_penalty": 0.7907778304689024,
+      "novelty_factor": 0.37467042283889584,
+      "period": 2,
+      "period_confidence": 0.527952795279528,
+      "spatial_entropy": 2.897515609077429
+    },
+    {
+      "rule": 102,
+      "invariant_memory_score": 0.2206910450248452,
+      "ti_memory_raw": 0.6834749208830941,
+      "periodicity_penalty": 0.8228635363602586,
+      "novelty_factor": 0.3228956005286895,
+      "period": 1,
+      "period_confidence": 0.8154455445544555,
+      "spatial_entropy": 1.3808580621050441
+    },
+    {
+      "rule": 103,
+      "invariant_memory_score": 0.07267293643346313,
+      "ti_memory_raw": 0.536369882896213,
+      "periodicity_penalty": 0.9297901174709122,
+      "novelty_factor": 0.1354903374534272,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.5764890209788636
+    },
+    {
+      "rule": 104,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 105,
+      "invariant_memory_score": 0.31240239901064437,
+      "ti_memory_raw": 0.7721169982518281,
+      "periodicity_penalty": 0.7716184282348895,
+      "novelty_factor": 0.40460500120831877,
+      "period": 16,
+      "period_confidence": 0.6587070471753058,
+      "spatial_entropy": 2.109105340365541
+    },
+    {
+      "rule": 106,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 107,
+      "invariant_memory_score": 0.1647307701212534,
+      "ti_memory_raw": 0.47631329497223923,
+      "periodicity_penalty": 0.8087982338026186,
+      "novelty_factor": 0.3458454169977647,
+      "period": 8,
+      "period_confidence": 0.950175662727563,
+      "spatial_entropy": 0.6665103383528506
+    },
+    {
+      "rule": 108,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 109,
+      "invariant_memory_score": 0.36467082390577615,
+      "ti_memory_raw": 1.4043160132405017,
+      "periodicity_penalty": 0.8604193132228148,
+      "novelty_factor": 0.25967860543317967,
+      "period": 3,
+      "period_confidence": 0.7819761567993534,
+      "spatial_entropy": 2.7366778193093877
+    },
+    {
+      "rule": 110,
+      "invariant_memory_score": 0.38289609699307864,
+      "ti_memory_raw": 1.1134581285316636,
+      "periodicity_penalty": 0.8100122814138958,
+      "novelty_factor": 0.34388010395865565,
+      "period": 7,
+      "period_confidence": 0.7149778807668001,
+      "spatial_entropy": 2.6863273608100755
+    },
+    {
+      "rule": 111,
+      "invariant_memory_score": 0.1275470825117043,
+      "ti_memory_raw": 0.5318875682890497,
+      "periodicity_penalty": 0.8718940107154599,
+      "novelty_factor": 0.2398008340785095,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.6120220575723018
+    },
+    {
+      "rule": 112,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 113,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 114,
+      "invariant_memory_score": 0.132028373064615,
+      "ti_memory_raw": 1.145466935514915,
+      "periodicity_penalty": 0.9406053271052172,
+      "novelty_factor": 0.11526161862128748,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 1.1751584587337334
+    },
+    {
+      "rule": 115,
+      "invariant_memory_score": 0.055651240894143514,
+      "ti_memory_raw": 0.2351398705805329,
+      "periodicity_penalty": 0.8736859133901191,
+      "novelty_factor": 0.23667292474367319,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27448070594972085
+    },
+    {
+      "rule": 116,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 117,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 118,
+      "invariant_memory_score": 0.10779077952544978,
+      "ti_memory_raw": 2.0672892673208705,
+      "periodicity_penalty": 0.9735804430795733,
+      "novelty_factor": 0.05214112085298184,
+      "period": 3,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 2.616604131386415
+    },
+    {
+      "rule": 119,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 120,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 121,
+      "invariant_memory_score": 0.1647307701212534,
+      "ti_memory_raw": 0.47631329497223923,
+      "periodicity_penalty": 0.8087982338026186,
+      "novelty_factor": 0.3458454169977647,
+      "period": 8,
+      "period_confidence": 0.950175662727563,
+      "spatial_entropy": 0.6665103383528506
+    },
+    {
+      "rule": 122,
+      "invariant_memory_score": 0.31544982946463407,
+      "ti_memory_raw": 0.9928203456606939,
+      "periodicity_penalty": 0.8259957454965654,
+      "novelty_factor": 0.3177310284215732,
+      "period": 2,
+      "period_confidence": 0.7284728472847285,
+      "spatial_entropy": 1.788952286683403
+    },
+    {
+      "rule": 123,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.3248730234789585
+    },
+    {
+      "rule": 124,
+      "invariant_memory_score": 0.3828960969930787,
+      "ti_memory_raw": 1.1134581285316638,
+      "periodicity_penalty": 0.8100122814138958,
+      "novelty_factor": 0.34388010395865565,
+      "period": 7,
+      "period_confidence": 0.7149778807668001,
+      "spatial_entropy": 2.686327360810076
+    },
+    {
+      "rule": 125,
+      "invariant_memory_score": 0.1275470825117043,
+      "ti_memory_raw": 0.5318875682890497,
+      "periodicity_penalty": 0.8718940107154599,
+      "novelty_factor": 0.2398008340785095,
+      "period": 2,
+      "period_confidence": 0.9603960396039604,
+      "spatial_entropy": 0.6120220575723018
+    },
+    {
+      "rule": 126,
+      "invariant_memory_score": 0.2758573848589276,
+      "ti_memory_raw": 0.6321059594339142,
+      "periodicity_penalty": 0.7507262906357681,
+      "novelty_factor": 0.43641003654826016,
+      "period": 1,
+      "period_confidence": 0.6964356435643564,
+      "spatial_entropy": 1.7105069892844527
+    },
+    {
+      "rule": 127,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 128,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 129,
+      "invariant_memory_score": 0.2758573848589276,
+      "ti_memory_raw": 0.6321059594339142,
+      "periodicity_penalty": 0.7507262906357681,
+      "novelty_factor": 0.43641003654826016,
+      "period": 1,
+      "period_confidence": 0.6964356435643564,
+      "spatial_entropy": 1.7105069892844527
+    },
+    {
+      "rule": 130,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 131,
+      "invariant_memory_score": 0.021198451478024738,
+      "ti_memory_raw": 2.2127145686789107,
+      "periodicity_penalty": 0.995198326009218,
+      "novelty_factor": 0.009580291908450334,
+      "period": 3,
+      "period_confidence": 1.0,
+      "spatial_entropy": 2.5669856142521295
+    },
+    {
+      "rule": 132,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 133,
+      "invariant_memory_score": 0.00807926216072819,
+      "ti_memory_raw": 1.0433464324874306,
+      "periodicity_penalty": 0.996120673146698,
+      "novelty_factor": 0.007743604529769188,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 1.1492482211699993
+    },
+    {
+      "rule": 134,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 135,
+      "invariant_memory_score": 0.3971034863461413,
+      "ti_memory_raw": 1.0056378730182396,
+      "periodicity_penalty": 0.7778963820913742,
+      "novelty_factor": 0.3948772187291507,
+      "period": 10,
+      "period_confidence": 0.5137634642585137,
+      "spatial_entropy": 2.948602756919764
+    },
+    {
+      "rule": 136,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 137,
+      "invariant_memory_score": 0.38546122333889604,
+      "ti_memory_raw": 1.1171813401676947,
+      "periodicity_penalty": 0.8093020880517773,
+      "novelty_factor": 0.3450301302750334,
+      "period": 7,
+      "period_confidence": 0.714345902675374,
+      "spatial_entropy": 2.6964659977113214
+    },
+    {
+      "rule": 138,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 139,
+      "invariant_memory_score": 0.13896389116475175,
+      "ti_memory_raw": 0.3190931108884582,
+      "periodicity_penalty": 0.7513345666214686,
+      "novelty_factor": 0.43549636899973,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31926072592030774
+    },
+    {
+      "rule": 140,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 141,
+      "invariant_memory_score": 0.04497552716498812,
+      "ti_memory_raw": 1.3624860161071695,
+      "periodicity_penalty": 0.9833565477404075,
+      "novelty_factor": 0.03300990001606774,
+      "period": 1,
+      "period_confidence": 0.9928712871287129,
+      "spatial_entropy": 1.4689796956623187
+    },
+    {
+      "rule": 142,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 143,
+      "invariant_memory_score": 0.1389650848635519,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7513345666214686,
+      "novelty_factor": 0.43549636899973,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31926072592030774
+    },
+    {
+      "rule": 144,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 145,
+      "invariant_memory_score": 0.021198451478024724,
+      "ti_memory_raw": 2.2127145686789094,
+      "periodicity_penalty": 0.995198326009218,
+      "novelty_factor": 0.009580291908450334,
+      "period": 3,
+      "period_confidence": 1.0,
+      "spatial_entropy": 2.5669856142521295
+    },
+    {
+      "rule": 146,
+      "invariant_memory_score": 0.2755432828506497,
+      "ti_memory_raw": 0.5189716332809842,
+      "periodicity_penalty": 0.6848788707680248,
+      "novelty_factor": 0.5309409323755152,
+      "period": 2,
+      "period_confidence": 0.8213821382138213,
+      "spatial_entropy": 1.469222880824566
+    },
+    {
+      "rule": 147,
+      "invariant_memory_score": 0.1369177384450551,
+      "ti_memory_raw": 2.1563994133824997,
+      "periodicity_penalty": 0.9677325653714137,
+      "novelty_factor": 0.06349368191966243,
+      "period": 4,
+      "period_confidence": 0.979891803613351,
+      "spatial_entropy": 2.36212369348254
+    },
+    {
+      "rule": 148,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 149,
+      "invariant_memory_score": 0.3971034863461414,
+      "ti_memory_raw": 1.0056378730182398,
+      "periodicity_penalty": 0.7778963820913742,
+      "novelty_factor": 0.3948772187291507,
+      "period": 10,
+      "period_confidence": 0.5137634642585137,
+      "spatial_entropy": 2.948602756919764
+    },
+    {
+      "rule": 150,
+      "invariant_memory_score": 0.31240239901064437,
+      "ti_memory_raw": 0.7721169982518281,
+      "periodicity_penalty": 0.7716184282348895,
+      "novelty_factor": 0.40460500120831877,
+      "period": 16,
+      "period_confidence": 0.6587070471753058,
+      "spatial_entropy": 2.109105340365541
+    },
+    {
+      "rule": 151,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 152,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 153,
+      "invariant_memory_score": 0.2206910450248452,
+      "ti_memory_raw": 0.6834749208830941,
+      "periodicity_penalty": 0.8228635363602586,
+      "novelty_factor": 0.3228956005286895,
+      "period": 1,
+      "period_confidence": 0.8154455445544555,
+      "spatial_entropy": 1.3808580621050441
+    },
+    {
+      "rule": 154,
+      "invariant_memory_score": 0.2190373610116927,
+      "ti_memory_raw": 0.4203104484703092,
+      "periodicity_penalty": 0.6920026557223824,
+      "novelty_factor": 0.5211323244731698,
+      "period": 2,
+      "period_confidence": 0.8606860686068607,
+      "spatial_entropy": 1.1221255357079596
+    },
+    {
+      "rule": 155,
+      "invariant_memory_score": 0.11817944794183784,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.7117852798898495,
+      "novelty_factor": 0.4933617153321286,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27946305896038914
+    },
+    {
+      "rule": 156,
+      "invariant_memory_score": 0.04690726405555559,
+      "ti_memory_raw": 1.3134414869844482,
+      "periodicity_penalty": 0.9819810334719249,
+      "novelty_factor": 0.03571324990141034,
+      "period": 2,
+      "period_confidence": 0.9903990399039904,
+      "spatial_entropy": 1.4214660939124988
+    },
+    {
+      "rule": 157,
+      "invariant_memory_score": 0.04775597613673143,
+      "ti_memory_raw": 1.3091063543236559,
+      "periodicity_penalty": 0.9815906330320419,
+      "novelty_factor": 0.03647982914375536,
+      "period": 2,
+      "period_confidence": 0.9900990099009901,
+      "spatial_entropy": 1.424216910736743
+    },
+    {
+      "rule": 158,
+      "invariant_memory_score": 0.11729776653364862,
+      "ti_memory_raw": 2.026253951413893,
+      "periodicity_penalty": 0.9706240383979429,
+      "novelty_factor": 0.05788897608406873,
+      "period": 4,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 2.0641135624165976
+    },
+    {
+      "rule": 159,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 160,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 161,
+      "invariant_memory_score": 0.2758573848589276,
+      "ti_memory_raw": 0.6321059594339142,
+      "periodicity_penalty": 0.7507262906357681,
+      "novelty_factor": 0.43641003654826016,
+      "period": 1,
+      "period_confidence": 0.6964356435643564,
+      "spatial_entropy": 1.7105069892844527
+    },
+    {
+      "rule": 162,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 163,
+      "invariant_memory_score": 0.13360621237028816,
+      "ti_memory_raw": 1.1606545169784412,
+      "periodicity_penalty": 0.9406844220197994,
+      "novelty_factor": 0.11511281816927599,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 1.1941483612271762
+    },
+    {
+      "rule": 164,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 165,
+      "invariant_memory_score": 0.2776088879298808,
+      "ti_memory_raw": 0.5446629008754991,
+      "periodicity_penalty": 0.7002218471935654,
+      "novelty_factor": 0.5096893647128311,
+      "period": 2,
+      "period_confidence": 0.7591759175917592,
+      "spatial_entropy": 1.5445462617174122
+    },
+    {
+      "rule": 166,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 167,
+      "invariant_memory_score": 0.2178626417835904,
+      "ti_memory_raw": 0.4165432936906187,
+      "periodicity_penalty": 0.6906336181338268,
+      "novelty_factor": 0.5230252055033795,
+      "period": 2,
+      "period_confidence": 0.8611861186118612,
+      "spatial_entropy": 1.1169690918140396
+    },
+    {
+      "rule": 168,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 169,
+      "invariant_memory_score": 0.21444355848259963,
+      "ti_memory_raw": 0.6872715383136456,
+      "periodicity_penalty": 0.8294446392079314,
+      "novelty_factor": 0.3120215904892244,
+      "period": 1,
+      "period_confidence": 0.9262376237623762,
+      "spatial_entropy": 0.8713888376746829
+    },
+    {
+      "rule": 170,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 171,
+      "invariant_memory_score": 0.13896389116475175,
+      "ti_memory_raw": 0.3190931108884582,
+      "periodicity_penalty": 0.7513345666214686,
+      "novelty_factor": 0.43549636899973,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31926072592030774
+    },
+    {
+      "rule": 172,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 173,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 174,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 175,
+      "invariant_memory_score": 0.13277334839603758,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6676176889732225,
+      "novelty_factor": 0.5542866213700536,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23966406040866392
+    },
+    {
+      "rule": 176,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 177,
+      "invariant_memory_score": 0.13360621237028816,
+      "ti_memory_raw": 1.1606545169784412,
+      "periodicity_penalty": 0.9406844220197994,
+      "novelty_factor": 0.11511281816927599,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 1.1941483612271762
+    },
+    {
+      "rule": 178,
+      "invariant_memory_score": 0.009488755102685776,
+      "ti_memory_raw": 1.0222000774380187,
+      "periodicity_penalty": 0.9953478392441474,
+      "novelty_factor": 0.009282678912006959,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 1.0513434861342281
+    },
+    {
+      "rule": 179,
+      "invariant_memory_score": 0.010807064135501884,
+      "ti_memory_raw": 1.0253158491141192,
+      "periodicity_penalty": 0.9947159246330652,
+      "novelty_factor": 0.010540229281386093,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 1.0574047494031347
+    },
+    {
+      "rule": 180,
+      "invariant_memory_score": 0.13536845573575174,
+      "ti_memory_raw": 0.2761654585399917,
+      "periodicity_penalty": 0.7140227113876958,
+      "novelty_factor": 0.4901715676225633,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.2787511020560014
+    },
+    {
+      "rule": 181,
+      "invariant_memory_score": 0.21786264178359047,
+      "ti_memory_raw": 0.4165432936906187,
+      "periodicity_penalty": 0.6906336181338267,
+      "novelty_factor": 0.5230252055033796,
+      "period": 2,
+      "period_confidence": 0.8611861186118612,
+      "spatial_entropy": 1.1169690918140396
+    },
+    {
+      "rule": 182,
+      "invariant_memory_score": 0.2844030534840163,
+      "ti_memory_raw": 0.5491614921512927,
+      "periodicity_penalty": 0.6943442884970684,
+      "novelty_factor": 0.5178860090314998,
+      "period": 2,
+      "period_confidence": 0.820982098209821,
+      "spatial_entropy": 1.5207277817141904
+    },
+    {
+      "rule": 183,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 184,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 185,
+      "invariant_memory_score": 0.14047889863643184,
+      "ti_memory_raw": 0.3790295426110374,
+      "periodicity_penalty": 0.7933297960974731,
+      "novelty_factor": 0.3706278346239418,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.3785069728330279
+    },
+    {
+      "rule": 186,
+      "invariant_memory_score": 0.132028373064615,
+      "ti_memory_raw": 1.145466935514915,
+      "periodicity_penalty": 0.9406053271052172,
+      "novelty_factor": 0.11526161862128748,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 1.1751584587337334
+    },
+    {
+      "rule": 187,
+      "invariant_memory_score": 0.13277334839603758,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6676176889732225,
+      "novelty_factor": 0.5542866213700536,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23966406040866392
+    },
+    {
+      "rule": 188,
+      "invariant_memory_score": 0.11891547085748734,
+      "ti_memory_raw": 2.026482475637955,
+      "periodicity_penalty": 0.9702160945230857,
+      "novelty_factor": 0.05868072992837092,
+      "period": 4,
+      "period_confidence": 0.9754006328467898,
+      "spatial_entropy": 2.1651194953320347
+    },
+    {
+      "rule": 189,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 190,
+      "invariant_memory_score": 0.11768236653676237,
+      "ti_memory_raw": 2.0082599039164544,
+      "periodicity_penalty": 0.970258124673392,
+      "novelty_factor": 0.058599171505272496,
+      "period": 4,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 2.0402496720774455
+    },
+    {
+      "rule": 191,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 192,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 193,
+      "invariant_memory_score": 0.3854612233388959,
+      "ti_memory_raw": 1.1171813401676949,
+      "periodicity_penalty": 0.8093020880517774,
+      "novelty_factor": 0.34503013027503315,
+      "period": 7,
+      "period_confidence": 0.714345902675374,
+      "spatial_entropy": 2.6964659977113214
+    },
+    {
+      "rule": 194,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 195,
+      "invariant_memory_score": 0.2206910450248452,
+      "ti_memory_raw": 0.6834749208830941,
+      "periodicity_penalty": 0.8228635363602586,
+      "novelty_factor": 0.3228956005286895,
+      "period": 1,
+      "period_confidence": 0.8154455445544555,
+      "spatial_entropy": 1.3808580621050441
+    },
+    {
+      "rule": 196,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 197,
+      "invariant_memory_score": 0.04497552716498812,
+      "ti_memory_raw": 1.3624860161071695,
+      "periodicity_penalty": 0.9833565477404075,
+      "novelty_factor": 0.03300990001606774,
+      "period": 1,
+      "period_confidence": 0.9928712871287129,
+      "spatial_entropy": 1.4689796956623187
+    },
+    {
+      "rule": 198,
+      "invariant_memory_score": 0.04690726405555559,
+      "ti_memory_raw": 1.3134414869844482,
+      "periodicity_penalty": 0.9819810334719249,
+      "novelty_factor": 0.03571324990141034,
+      "period": 2,
+      "period_confidence": 0.9903990399039904,
+      "spatial_entropy": 1.4214660939124988
+    },
+    {
+      "rule": 199,
+      "invariant_memory_score": 0.04775597613673143,
+      "ti_memory_raw": 1.3091063543236559,
+      "periodicity_penalty": 0.9815906330320419,
+      "novelty_factor": 0.03647982914375536,
+      "period": 2,
+      "period_confidence": 0.9900990099009901,
+      "spatial_entropy": 1.424216910736743
+    },
+    {
+      "rule": 200,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 201,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.39470464068427935,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 2,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.3957065992947822
+    },
+    {
+      "rule": 202,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 203,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 204,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 205,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.3856055891937721,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.38560558919377214
+    },
+    {
+      "rule": 206,
+      "invariant_memory_score": 0.03264644942654088,
+      "ti_memory_raw": 0.5767620825344201,
+      "periodicity_penalty": 0.9712862737324817,
+      "novelty_factor": 0.05660297445887075,
+      "period": 1,
+      "period_confidence": 0.9951485148514851,
+      "spatial_entropy": 0.6901300833090742
+    },
+    {
+      "rule": 207,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 208,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 209,
+      "invariant_memory_score": 0.13896389116475175,
+      "ti_memory_raw": 0.3190931108884582,
+      "periodicity_penalty": 0.7513345666214686,
+      "novelty_factor": 0.43549636899973,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31926072592030774
+    },
+    {
+      "rule": 210,
+      "invariant_memory_score": 0.2190373610116927,
+      "ti_memory_raw": 0.4203104484703092,
+      "periodicity_penalty": 0.6920026557223824,
+      "novelty_factor": 0.5211323244731698,
+      "period": 2,
+      "period_confidence": 0.8606860686068607,
+      "spatial_entropy": 1.1221255357079596
+    },
+    {
+      "rule": 211,
+      "invariant_memory_score": 0.11817944794183784,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.7117852798898495,
+      "novelty_factor": 0.4933617153321286,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.27946305896038914
+    },
+    {
+      "rule": 212,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 213,
+      "invariant_memory_score": 0.1389650848635519,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7513345666214686,
+      "novelty_factor": 0.43549636899973,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31926072592030774
+    },
+    {
+      "rule": 214,
+      "invariant_memory_score": 0.11729776653364862,
+      "ti_memory_raw": 2.026253951413893,
+      "periodicity_penalty": 0.9706240383979429,
+      "novelty_factor": 0.05788897608406873,
+      "period": 4,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 2.0641135624165976
+    },
+    {
+      "rule": 215,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 216,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 217,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 218,
+      "invariant_memory_score": 0.09341842928656909,
+      "ti_memory_raw": 0.501210342521859,
+      "periodicity_penalty": 0.902005721960162,
+      "novelty_factor": 0.1863856775511269,
+      "period": 2,
+      "period_confidence": 0.9559955995599559,
+      "spatial_entropy": 0.8310723978862082
+    },
+    {
+      "rule": 219,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 220,
+      "invariant_memory_score": 0.03264644942654088,
+      "ti_memory_raw": 0.5767620825344201,
+      "periodicity_penalty": 0.9712862737324817,
+      "novelty_factor": 0.05660297445887075,
+      "period": 1,
+      "period_confidence": 0.9951485148514851,
+      "spatial_entropy": 0.6901300833090742
+    },
+    {
+      "rule": 221,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 222,
+      "invariant_memory_score": 0.0008484778738623209,
+      "ti_memory_raw": 0.044207632158414986,
+      "periodicity_penalty": 0.9903569973162553,
+      "novelty_factor": 0.019193017866730777,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0833560365086314
+    },
+    {
+      "rule": 223,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 224,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 225,
+      "invariant_memory_score": 0.21444355848259994,
+      "ti_memory_raw": 0.6872715383136456,
+      "periodicity_penalty": 0.8294446392079312,
+      "novelty_factor": 0.31202159048922484,
+      "period": 1,
+      "period_confidence": 0.9262376237623762,
+      "spatial_entropy": 0.8713888376746829
+    },
+    {
+      "rule": 226,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 227,
+      "invariant_memory_score": 0.14047889863643184,
+      "ti_memory_raw": 0.3790295426110374,
+      "periodicity_penalty": 0.7933297960974731,
+      "novelty_factor": 0.3706278346239418,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.3785069728330279
+    },
+    {
+      "rule": 228,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 229,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 230,
+      "invariant_memory_score": 0.11891547085748734,
+      "ti_memory_raw": 2.026482475637955,
+      "periodicity_penalty": 0.9702160945230857,
+      "novelty_factor": 0.05868072992837092,
+      "period": 4,
+      "period_confidence": 0.9754006328467898,
+      "spatial_entropy": 2.1651194953320347
+    },
+    {
+      "rule": 231,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 232,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 233,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 234,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 235,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 236,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.2439384375621248,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.24393843756212483
+    },
+    {
+      "rule": 237,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 238,
+      "invariant_memory_score": 0.02629476103077438,
+      "ti_memory_raw": 0.4645473366400712,
+      "periodicity_penalty": 0.9712862737324817,
+      "novelty_factor": 0.05660297445887075,
+      "period": 1,
+      "period_confidence": 0.995049504950495,
+      "spatial_entropy": 0.5809997296628605
+    },
+    {
+      "rule": 239,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 240,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 241,
+      "invariant_memory_score": 0.13896389116475175,
+      "ti_memory_raw": 0.3190931108884582,
+      "periodicity_penalty": 0.7513345666214686,
+      "novelty_factor": 0.43549636899973,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31926072592030774
+    },
+    {
+      "rule": 242,
+      "invariant_memory_score": 0.132028373064615,
+      "ti_memory_raw": 1.145466935514915,
+      "periodicity_penalty": 0.9406053271052172,
+      "novelty_factor": 0.11526161862128748,
+      "period": 2,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 1.1751584587337334
+    },
+    {
+      "rule": 243,
+      "invariant_memory_score": 0.1327733483960376,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6676176889732224,
+      "novelty_factor": 0.5542866213700537,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23966406040866392
+    },
+    {
+      "rule": 244,
+      "invariant_memory_score": 0.13789273842921437,
+      "ti_memory_raw": 0.3190958518959272,
+      "periodicity_penalty": 0.7535676537612305,
+      "novelty_factor": 0.4321357912047943,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.31855010060772665
+    },
+    {
+      "rule": 245,
+      "invariant_memory_score": 0.1327733483960376,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6676176889732224,
+      "novelty_factor": 0.5542866213700537,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23966406040866392
+    },
+    {
+      "rule": 246,
+      "invariant_memory_score": 0.11768236653676237,
+      "ti_memory_raw": 2.0082599039164544,
+      "periodicity_penalty": 0.970258124673392,
+      "novelty_factor": 0.058599171505272496,
+      "period": 4,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 2.0402496720774455
+    },
+    {
+      "rule": 247,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 248,
+      "invariant_memory_score": 0.1318179415178997,
+      "ti_memory_raw": 0.23953915407132886,
+      "periodicity_penalty": 0.6705981653309544,
+      "novelty_factor": 0.5502981006547579,
+      "period": 1,
+      "period_confidence": 0.9801980198019802,
+      "spatial_entropy": 0.23895210350427612
+    },
+    {
+      "rule": 249,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 250,
+      "invariant_memory_score": 0.04876675099628799,
+      "ti_memory_raw": 0.5899414827912416,
+      "periodicity_penalty": 0.9577767438755324,
+      "novelty_factor": 0.08266370889118291,
+      "period": 2,
+      "period_confidence": 0.9900990099009901,
+      "spatial_entropy": 0.7573177404017568
+    },
+    {
+      "rule": 251,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 252,
+      "invariant_memory_score": 0.02629476103077438,
+      "ti_memory_raw": 0.4645473366400712,
+      "periodicity_penalty": 0.9712862737324817,
+      "novelty_factor": 0.05660297445887075,
+      "period": 1,
+      "period_confidence": 0.995049504950495,
+      "spatial_entropy": 0.5809997296628605
+    },
+    {
+      "rule": 253,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    },
+    {
+      "rule": 254,
+      "invariant_memory_score": 0.0008484778738623209,
+      "ti_memory_raw": 0.044207632158414986,
+      "periodicity_penalty": 0.9903569973162553,
+      "novelty_factor": 0.019193017866730777,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0833560365086314
+    },
+    {
+      "rule": 255,
+      "invariant_memory_score": 0.0,
+      "ti_memory_raw": 0.0,
+      "periodicity_penalty": 1.0,
+      "novelty_factor": 0.0,
+      "period": 1,
+      "period_confidence": 1.0,
+      "spatial_entropy": 0.0
+    }
+  ],
+  "rankings": [
+    [
+      75,
+      0.4119567803723712
+    ],
+    [
+      89,
+      0.4119567803723711
+    ],
+    [
+      45,
+      0.41173222534949333
+    ],
+    [
+      101,
+      0.41173222534949316
+    ],
+    [
+      149,
+      0.3971034863461414
+    ],
+    [
+      135,
+      0.3971034863461413
+    ],
+    [
+      30,
+      0.39569433912732355
+    ],
+    [
+      86,
+      0.39569433912732355
+    ],
+    [
+      137,
+      0.38546122333889604
+    ],
+    [
+      193,
+      0.3854612233388959
+    ],
+    [
+      73,
+      0.38301308753400265
+    ],
+    [
+      124,
+      0.3828960969930787
+    ],
+    [
+      110,
+      0.38289609699307864
+    ],
+    [
+      109,
+      0.36467082390577615
+    ],
+    [
+      22,
+      0.33109247261783853
+    ],
+    [
+      122,
+      0.31544982946463407
+    ],
+    [
+      105,
+      0.31240239901064437
+    ],
+    [
+      150,
+      0.31240239901064437
+    ],
+    [
+      182,
+      0.2844030534840163
+    ],
+    [
+      90,
+      0.2776088879298808
+    ],
+    [
+      165,
+      0.2776088879298808
+    ],
+    [
+      126,
+      0.2758573848589276
+    ],
+    [
+      129,
+      0.2758573848589276
+    ],
+    [
+      161,
+      0.2758573848589276
+    ],
+    [
+      18,
+      0.2755432828506497
+    ],
+    [
+      146,
+      0.2755432828506497
+    ],
+    [
+      60,
+      0.2206910450248452
+    ],
+    [
+      102,
+      0.2206910450248452
+    ],
+    [
+      153,
+      0.2206910450248452
+    ],
+    [
+      195,
+      0.2206910450248452
+    ],
+    [
+      26,
+      0.2190373610116927
+    ],
+    [
+      82,
+      0.2190373610116927
+    ],
+    [
+      154,
+      0.2190373610116927
+    ],
+    [
+      210,
+      0.2190373610116927
+    ],
+    [
+      181,
+      0.21786264178359047
+    ],
+    [
+      167,
+      0.2178626417835904
+    ],
+    [
+      225,
+      0.21444355848259994
+    ],
+    [
+      169,
+      0.21444355848259963
+    ],
+    [
+      107,
+      0.1647307701212534
+    ],
+    [
+      121,
+      0.1647307701212534
+    ],
+    [
+      185,
+      0.14047889863643184
+    ],
+    [
+      227,
+      0.14047889863643184
+    ],
+    [
+      9,
+      0.13965525222387257
+    ],
+    [
+      65,
+      0.13965525222387257
+    ],
+    [
+      54,
+      0.1393020704099678
+    ],
+    [
+      143,
+      0.1389650848635519
+    ],
+    [
+      213,
+      0.1389650848635519
+    ],
+    [
+      139,
+      0.13896389116475175
+    ],
+    [
+      171,
+      0.13896389116475175
+    ],
+    [
+      209,
+      0.13896389116475175
+    ]
+  ]
+}

@@ -217,6 +217,81 @@
       "created": "2026-04-01T11:47:43.366655",
       "type": "concept",
       "id": "cultural inheritance"
+    },
+    {
+      "id": "triple point",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "perturbation coherence",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "periodicity trap",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "translation invariance",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "aesthetic phase detection",
+      "type": "concept",
+      "source": "emergence-sim"
+    },
+    {
+      "id": "structured damage",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "spatial transport",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "temporal memory",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "transformation",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "conveyor belt fallacy",
+      "type": "insight",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "tape loop fallacy",
+      "type": "insight",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "computational fraction",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "phase transition",
+      "type": "concept",
+      "source": "both"
+    },
+    {
+      "id": "langton lambda",
+      "type": "concept",
+      "source": "entropy-edge"
+    },
+    {
+      "id": "edge of chaos",
+      "type": "concept",
+      "source": "both"
     }
   ],
   "edges": [
@@ -579,6 +654,106 @@
       "weight": 1.0,
       "created": "2026-04-01T11:47:43.369158",
       "target": "emergent behavior"
+    },
+    {
+      "source": "triple point",
+      "target": "temporal memory",
+      "relation": "axis_of"
+    },
+    {
+      "source": "triple point",
+      "target": "spatial transport",
+      "relation": "axis_of"
+    },
+    {
+      "source": "triple point",
+      "target": "transformation",
+      "relation": "axis_of"
+    },
+    {
+      "source": "triple point",
+      "target": "edge of chaos",
+      "relation": "operationalizes"
+    },
+    {
+      "source": "perturbation coherence",
+      "target": "structured damage",
+      "relation": "measures"
+    },
+    {
+      "source": "structured damage",
+      "target": "transformation",
+      "relation": "distinguishes_from_chaos"
+    },
+    {
+      "source": "periodicity trap",
+      "target": "tape loop fallacy",
+      "relation": "catches"
+    },
+    {
+      "source": "temporal memory",
+      "target": "tape loop fallacy",
+      "relation": "vulnerable_to"
+    },
+    {
+      "source": "spatial transport",
+      "target": "conveyor belt fallacy",
+      "relation": "vulnerable_to"
+    },
+    {
+      "source": "translation invariance",
+      "target": "temporal memory",
+      "relation": "improves"
+    },
+    {
+      "source": "aesthetic phase detection",
+      "target": "phase transition",
+      "relation": "informal_detector_of"
+    },
+    {
+      "source": "phase transition",
+      "target": "emergence",
+      "relation": "produces"
+    },
+    {
+      "source": "langton lambda",
+      "target": "phase transition",
+      "relation": "parameterizes"
+    },
+    {
+      "source": "edge of chaos",
+      "target": "phase transition",
+      "relation": "is_a"
+    },
+    {
+      "source": "computational fraction",
+      "target": "emergence",
+      "relation": "quantifies"
+    },
+    {
+      "source": "emergence simulator",
+      "target": "phase transition",
+      "relation": "exhibits"
+    },
+    {
+      "source": "emergence simulator",
+      "target": "aesthetic phase detection",
+      "relation": "demonstrated_by"
+    },
+    {
+      "source": "consciousness",
+      "target": "aesthetic phase detection",
+      "relation": "may_require"
+    },
+    {
+      "source": "triple point",
+      "target": "integrated information",
+      "relation": "analogous_to"
+    },
+    {
+      "source": "perturbation coherence",
+      "target": "triple point",
+      "relation": "refines"
     }
   ]
 }
