@@ -22,6 +22,46 @@ This is a flickering criticality pattern — the system briefly hits a configura
 3. **High mutation** during reproduction disperses learned conventions
 4. **Context imbalance** — 'friends_near' dominates, diluting signal specificity
 
+## Diversity Modulation Experiment (April 2, 2026)
+
+**Hypothesis:** Culture creates cognitive diversity → diversity enables transformation → transformation enables computation.
+
+**Result:** Partially confirmed, but the real story is different.
+
+### Data (5 conditions, 2000 ticks, 60 agents each)
+
+| Condition | Weight Var | Strategy H | Memory | Transport | Transform | Triple |
+|-----------|-----------|------------|--------|-----------|-----------|--------|
+| NATURAL   | 0.0272    | 3.44       | 0.592  | 0.732     | 0.451     | 0.512  |
+| CLONED    | 0.0006    | 0.23       | 0.514  | 0.691     | 0.487     | 0.496  |
+| SCRAMBLED | 0.0784    | 5.84       | 0.529  | 0.718     | 0.555     | 0.553  |
+| GRADIENT  | 0.0108    | 3.11       | 0.595  | 0.787     | 0.292     | 0.452  |
+| BASELINE  | 0.0254    | 3.73       | 0.384  | 0.698     | 0.353     | 0.311  |
+
+### Correlations
+- Weight variance ↔ Transformation: **r = 0.578** ✅
+- Strategy entropy ↔ Transformation: r = 0.162 (not significant)
+- Diversity ↔ Triple-point: r = 0.376
+
+### Key Insights
+
+1. **Noise drives transformation, not structured diversity.** SCRAMBLED (random weights every 50 ticks) wins. GRADIENT (structured spatial diversity) kills transformation. It's not that agents need different strategies — they need *noisy* weights that create unpredictable signal-context mappings.
+
+2. **Culture's real gift is MEMORY, not transformation.** All cultural conditions (Natural/Cloned/Scrambled/Gradient) have memory ~0.51-0.60. Baseline: 0.38. Culture creates population-level memory — shared conventions that persist.
+
+3. **CLONED still transforms well (0.487)** despite near-zero diversity. Why? The sim re-diversifies between interventions (every 50 ticks). Transformation is so easy to produce that even brief diversity windows suffice.
+
+4. **The triple-point bottleneck is complex.** SCRAMBLED maximizes triple-point by having high transformation + decent memory. But it sacrifices memory vs NATURAL (0.529 vs 0.592). The real challenge: can you have high memory AND high transformation simultaneously?
+
+5. **Transport is robust.** All conditions show 0.69-0.79 transport. Spatial signal propagation is a baseline property of flocking, not a cultural achievement.
+
+### Next Questions
+- Can we boost memory without killing transformation?
+- Why does GRADIENT suppress transformation? Is spatial constraint itself the problem?
+- Is there a sweet spot — moderate noise, high culture — that maximizes all three?
+
+---
+
 ## v4 Results — Cultural Transmission + Convention Enforcement (April 1, 2026)
 
 **Both mechanisms implemented and tested. Results: 12.9x NMI improvement.**
