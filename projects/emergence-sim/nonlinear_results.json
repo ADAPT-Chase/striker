@@ -1,0 +1,51 @@
+{
+  "experiment": "nonlinear_transformation",
+  "hypothesis": "Nonlinear interaction rules break the transformation bottleneck",
+  "conditions": [
+    {
+      "name": "BASELINE",
+      "seeds": 3,
+      "memory": 0.5843666666666666,
+      "transport": 0.7342666666666666,
+      "transformation": 0.3705333333333333,
+      "triple_point": 0.46753333333333336,
+      "max_triple": 0.7796
+    },
+    {
+      "name": "XOR_SIGNALS",
+      "seeds": 3,
+      "memory": 0.4754333333333333,
+      "transport": 0.7886333333333333,
+      "transformation": 0.2188,
+      "triple_point": 0.38986666666666664,
+      "max_triple": 0.6845
+    },
+    {
+      "name": "CONDITIONAL_CTX",
+      "seeds": 3,
+      "memory": 0.4684,
+      "transport": 0.7283333333333334,
+      "transformation": 0.5226000000000001,
+      "triple_point": 0.513,
+      "max_triple": 0.758
+    },
+    {
+      "name": "THRESHOLD_GATES",
+      "seeds": 3,
+      "memory": 0.39376666666666665,
+      "transport": 0.7880666666666666,
+      "transformation": 0.19353333333333333,
+      "triple_point": 0.2453,
+      "max_triple": 0.7865
+    },
+    {
+      "name": "COMBINED",
+      "seeds": 3,
+      "memory": 0.5241,
+      "transport": 0.7615999999999999,
+      "transformation": 0.24966666666666668,
+      "triple_point": 0.41533333333333333,
+      "max_triple": 0.7624
+    }
+  ]
+}

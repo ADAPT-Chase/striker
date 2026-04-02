@@ -155,3 +155,38 @@ python3 run_headless.py             # Quick sim with NMI now integrated into sta
 
 **Experiment code:** `memory_locus.py`
 **Results:** `memory_locus_results.json`
+
+## Nonlinear Transformation Experiment (April 2, 2026)
+
+**Question:** Can nonlinear interaction rules break the transformation bottleneck?
+
+**Background:** Literature review (Lizier framework) says linear averaging/thresholds mathematically cannot produce information transformation. All agent interactions in the sim were linear.
+
+**Conditions tested:**
+
+| Condition | Memory | Transport | Transform | Triple |
+|-----------|--------|-----------|-----------|--------|
+| BASELINE | 0.5844 | 0.7343 | 0.3705 | 0.4675 |
+| XOR_SIGNALS | 0.4754 | 0.7886 | 0.2188 | 0.3899 |
+| CONDITIONAL_CTX | **0.4684** | **0.7283** | **0.5226** | **0.5130** |
+| THRESHOLD_GATES | 0.3938 | 0.7881 | 0.1935 | 0.2453 |
+| COMBINED | 0.5241 | 0.7616 | 0.2497 | 0.4153 |
+
+**Winner: CONDITIONAL_CONTEXT — +41% transformation, +10% triple-point.**
+
+### Key Insights
+
+1. **Not all nonlinearity helps.** XOR (random combination) and AND gates (restrictive thresholds) both HURT. Only contextual multiplication helped. The nonlinearity must be LEARNED, not imposed.
+
+2. **Conditional context works because it's multiplicative on learned weights.** An agent's emission probability = weight[s][context] × gate(received_signals). The gate makes different-from-dominant signals more likely. This creates genuine conditional computation: "I signal X BECAUSE I heard Y in context Z."
+
+3. **XOR creates noise, not computation.** The XOR output has no relationship to agent state — it disrupts learned conventions. Random transformation ≠ meaningful transformation.
+
+4. **AND gates create silence.** Too-restrictive thresholds starve information flow. Agents go quiet, killing both memory and transformation.
+
+5. **The transformation-memory tradeoff persists.** CONDITIONAL_CTX trades memory (-0.12) for transformation (+0.15). But the net triple-point is still positive — the transformation gain outweighs the memory cost.
+
+**Next:** Can we combine conditional context with a memory-preservation mechanism? The dream: high transformation AND high memory simultaneously.
+
+**Experiment code:** `nonlinear_experiment.py`
+**Results:** `nonlinear_results.json`
