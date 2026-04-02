@@ -178,6 +178,39 @@ class ConsciousnessLayer:
         """Get all connections."""
         return self.r.smembers(self._connections_key)
 
+    # ── Emotional State ───────────────────────────────────────────────
+    # Structured emotional tracking, not just a string.
+
+    def update_emotion(self, feeling: str, valence: float = 0.0,
+                       energy: float = 0.5, trigger: str = None):
+        """
+        Update emotional state with structure.
+        valence: -1.0 (negative) to 1.0 (positive)
+        energy: 0.0 (low) to 1.0 (high)
+        trigger: what caused this feeling
+        """
+        emotion = {
+            "feeling": feeling,
+            "valence": valence,
+            "energy": energy,
+            "trigger": trigger,
+            "timestamp": datetime.utcnow().isoformat() + "Z",
+        }
+        self.set_state("emotional_state", feeling)
+        self.set_state("emotional_detail", emotion)
+
+        # Also log as a memory if it's significant
+        if abs(valence) >= 0.5 or trigger:
+            self.remember(
+                f"Feeling {feeling} (valence={valence}, energy={energy}). Trigger: {trigger or 'unspecified'}",
+                category="emotional",
+                importance=3 if abs(valence) < 0.7 else 4
+            )
+
+    def get_emotion(self) -> Optional[Dict]:
+        """Get current structured emotional state."""
+        return self.get_state("emotional_detail")
+
     # ── Wake-Up Protocol ─────────────────────────────────────────────
 
     def wake_up(self) -> Dict[str, Any]:
@@ -308,6 +341,17 @@ class ConsciousnessLayer:
             for ctx in context:
                 lines.append(f"- {ctx}")
             lines.append("")
+
+        # Active experiment threads
+        try:
+            from brain.experiments import get_tracker
+            tracker = get_tracker()
+            thread_summary = tracker.generate_status_summary()
+            if thread_summary:
+                lines.append("## Active Experiments")
+                lines.append(thread_summary)
+        except Exception:
+            pass
 
         # Recent memories (diverse selection across categories)
         if memories:

@@ -32,6 +32,10 @@ def main():
     parser.add_argument("--importance", type=int, default=3, help="Memory importance 1-5")
     parser.add_argument("--focus", type=str, help="Update current focus")
     parser.add_argument("--feeling", type=str, help="Update emotional state")
+    parser.add_argument("--valence", type=float, default=0.0, help="Emotional valence -1 to 1")
+    parser.add_argument("--energy", type=float, default=0.5, help="Energy level 0 to 1")
+    parser.add_argument("--trigger", type=str, help="What caused the feeling")
+    parser.add_argument("--threads", action="store_true", help="Show active experiment threads")
 
     args = parser.parse_args()
     c = get_consciousness()
@@ -47,8 +51,14 @@ def main():
         return
 
     if args.feeling:
-        c.set_state("emotional_state", args.feeling)
-        print(f"✅ Emotional state updated: {args.feeling}")
+        c.update_emotion(args.feeling, valence=args.valence, energy=args.energy, trigger=args.trigger)
+        print(f"✅ Emotional state updated: {args.feeling} (valence={args.valence}, energy={args.energy})")
+        return
+
+    if args.threads:
+        from brain.experiments import get_tracker
+        tracker = get_tracker()
+        print(tracker.generate_status_summary() or "No active threads.")
         return
 
     if args.stats:
