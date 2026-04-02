@@ -13,65 +13,200 @@
         "energy_drain": 0.14,
         "signal_threshold": 0.15
       },
-      "score": 0.5287,
+      "score": 0.4675,
       "outcome": "baseline"
     },
     {
       "iteration": 1,
-      "param": "num_agents",
-      "old": 60,
-      "new": 39,
-      "score": 0.065,
-      "delta": -0.46369999999999995,
-      "outcome": "discard"
+      "param": "energy_drain",
+      "old": 0.14,
+      "new": 0.1591,
+      "score": 0.4888,
+      "delta": 0.021299999999999986,
+      "outcome": "keep"
     },
     {
       "iteration": 2,
-      "param": "food_spawn_rate",
-      "old": 0.06,
-      "new": 0.0405,
-      "score": 0.4894,
-      "delta": -0.039299999999999946,
+      "param": "energy_drain",
+      "old": 0.1591,
+      "new": 0.1473,
+      "score": 0.3566,
+      "delta": -0.13220000000000004,
       "outcome": "discard"
     },
     {
       "iteration": 3,
-      "param": "cultural_rate",
-      "old": 0.15,
-      "new": 0.1694,
-      "score": 0.4918,
-      "delta": -0.03689999999999993,
-      "outcome": "discard"
+      "param": "blend_rate",
+      "old": 0.45,
+      "new": 0.4733,
+      "score": 0.5282,
+      "delta": 0.03939999999999999,
+      "outcome": "keep"
     },
     {
       "iteration": 4,
-      "param": "food_energy",
-      "old": 3.0,
-      "new": 3.1238,
-      "score": 0.1908,
-      "delta": -0.3379,
+      "param": "energy_drain",
+      "old": 0.1591,
+      "new": 0.1633,
+      "score": 0.4323,
+      "delta": -0.09589999999999999,
       "outcome": "discard"
     },
     {
       "iteration": 5,
+      "param": "ticks",
+      "old": 2000,
+      "new": 2475,
+      "score": 0.4199,
+      "delta": -0.10830000000000001,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 6,
+      "param": "cultural_rate",
+      "old": 0.15,
+      "new": 0.1341,
+      "score": 0.5883,
+      "delta": 0.06010000000000004,
+      "outcome": "keep"
+    },
+    {
+      "iteration": 7,
+      "param": "energy_drain",
+      "old": 0.1591,
+      "new": 0.1787,
+      "score": 0.4994,
+      "delta": -0.08890000000000003,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 8,
       "param": "convention_strength",
       "old": 0.03,
-      "new": 0.0268,
-      "score": 0.4503,
-      "delta": -0.07839999999999997,
+      "new": 0.0436,
+      "score": 0.5129,
+      "delta": -0.07540000000000002,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 9,
+      "param": "blend_rate",
+      "old": 0.4733,
+      "new": 0.3767,
+      "score": 0.5604,
+      "delta": -0.027900000000000036,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 10,
+      "param": "cultural_rate",
+      "old": 0.1341,
+      "new": 0.1502,
+      "score": 0.4307,
+      "delta": -0.15760000000000002,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 11,
+      "param": "cultural_rate",
+      "old": 0.1341,
+      "new": 0.1775,
+      "score": 0.4028,
+      "delta": -0.18550000000000005,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 12,
+      "param": "num_agents",
+      "old": 60,
+      "new": 66,
+      "score": 0.5311,
+      "delta": -0.05720000000000003,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 13,
+      "param": "convention_strength",
+      "old": 0.03,
+      "new": 0.0338,
+      "score": 0.2341,
+      "delta": -0.35420000000000007,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 14,
+      "param": "blend_rate",
+      "old": 0.4733,
+      "new": 0.4258,
+      "score": 0.4266,
+      "delta": -0.16170000000000007,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 15,
+      "param": "signal_threshold",
+      "old": 0.15,
+      "new": 0.11,
+      "score": 0.4721,
+      "delta": -0.11620000000000003,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 16,
+      "param": "food_spawn_rate",
+      "old": 0.06,
+      "new": 0.0402,
+      "score": 0.4835,
+      "delta": -0.10480000000000006,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 17,
+      "param": "energy_drain",
+      "old": 0.1591,
+      "new": 0.1774,
+      "score": 0.479,
+      "delta": -0.10930000000000006,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 18,
+      "param": "signal_threshold",
+      "old": 0.15,
+      "new": 0.1369,
+      "score": 0.4295,
+      "delta": -0.15880000000000005,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 19,
+      "param": "signal_threshold",
+      "old": 0.15,
+      "new": 0.1224,
+      "score": 0.4772,
+      "delta": -0.11110000000000003,
+      "outcome": "discard"
+    },
+    {
+      "iteration": 20,
+      "param": "num_agents",
+      "old": 60,
+      "new": 80,
+      "score": 0.4278,
+      "delta": -0.16050000000000003,
       "outcome": "discard"
     }
   ],
   "best_params": {
     "num_agents": 60,
     "ticks": 2000,
-    "cultural_rate": 0.15,
+    "cultural_rate": 0.1341,
     "convention_strength": 0.03,
-    "blend_rate": 0.45,
+    "blend_rate": 0.4733,
     "food_spawn_rate": 0.06,
     "food_energy": 3.0,
-    "energy_drain": 0.14,
+    "energy_drain": 0.1591,
     "signal_threshold": 0.15
   },
-  "best_score": 0.5287
+  "best_score": 0.5883
 }

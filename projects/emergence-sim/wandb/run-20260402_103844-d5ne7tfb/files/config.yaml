@@ -1,0 +1,61 @@
+_wandb:
+    value:
+        cli_version: 0.25.1
+        e:
+            h5dyfnt1ik7boigacwnm5vcrfoooyrnc:
+                args:
+                    - -n
+                    - "20"
+                codePath: projects/emergence-sim/autoresearch_triple.py
+                codePathLocal: autoresearch_triple.py
+                cpu_count: 2
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "47321268224"
+                        used: "35219968000"
+                email: novacline602@gmail.com
+                executable: /usr/bin/python3
+                git:
+                    commit: e75cc018a5da7f4b9c182b63c2334166dc757f56
+                    remote: https://github.com/ADAPT-Chase/striker.git
+                host: xx
+                memory:
+                    total: "33647968256"
+                os: Linux-6.17.0-1007-oracle-x86_64-with-glibc2.39
+                program: /home/x/striker/projects/emergence-sim/autoresearch_triple.py
+                python: CPython 3.12.3
+                root: /home/x/striker/projects/emergence-sim
+                startedAt: "2026-04-02T10:38:44.672073Z"
+                writerId: h5dyfnt1ik7boigacwnm5vcrfoooyrnc
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 92
+                - 105
+            "2":
+                - 92
+                - 105
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+            "4": 3.12.3
+            "5": 0.25.1
+            "12": 0.25.1
+            "13": linux-x86_64
+base_params:
+    value:
+        blend_rate: 0.45
+        convention_strength: 0.03
+        cultural_rate: 0.15
+        energy_drain: 0.14
+        food_energy: 3
+        food_spawn_rate: 0.06
+        num_agents: 60
+        signal_threshold: 0.15
+        ticks: 2000
+iterations:
+    value: 20
