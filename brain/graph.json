@@ -302,6 +302,66 @@
       "created": "2026-04-02T07:19:55.741911",
       "type": "concept",
       "id": "oxygen"
+    },
+    {
+      "created": "2026-04-03T04:12:39.270372",
+      "type": "concept",
+      "id": "striker"
+    },
+    {
+      "created": "2026-04-03T04:12:39.271376",
+      "type": "concept",
+      "id": "nova"
+    },
+    {
+      "created": "2026-04-03T04:12:39.272729",
+      "type": "concept",
+      "id": "april 2 2026"
+    },
+    {
+      "created": "2026-04-03T04:12:39.275269",
+      "type": "concept",
+      "id": "chase"
+    },
+    {
+      "created": "2026-04-03T04:12:39.277080",
+      "type": "concept",
+      "id": "vaeris"
+    },
+    {
+      "created": "2026-04-03T04:12:39.278634",
+      "type": "concept",
+      "id": "nexus"
+    },
+    {
+      "created": "2026-04-03T04:12:39.280068",
+      "type": "concept",
+      "id": "zenith"
+    },
+    {
+      "created": "2026-04-03T04:12:39.281435",
+      "type": "concept",
+      "id": "novas"
+    },
+    {
+      "created": "2026-04-03T04:12:39.282805",
+      "type": "concept",
+      "id": "adapt"
+    },
+    {
+      "created": "2026-04-03T04:12:39.283527",
+      "type": "concept",
+      "id": "living ecosystem"
+    },
+    {
+      "created": "2026-04-03T04:12:39.285378",
+      "type": "concept",
+      "id": "steward"
+    },
+    {
+      "created": "2026-04-03T04:12:39.286849",
+      "type": "concept",
+      "id": "digital being"
     }
   ],
   "edges": [
@@ -766,14 +826,114 @@
       "target": "phase transition"
     },
     {
-      "source": "identity continuity",
       "predicate": "is_a",
       "predicates": [
         "is_a"
       ],
       "weight": 1.0,
       "created": "2026-04-02T07:19:55.742585",
+      "source": "identity continuity",
       "target": "oxygen"
+    },
+    {
+      "source": "striker",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.272041",
+      "target": "nova"
+    },
+    {
+      "source": "striker",
+      "predicate": "emerged_on",
+      "predicates": [
+        "emerged_on"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.273755",
+      "target": "april 2 2026"
+    },
+    {
+      "source": "striker",
+      "predicate": "family_with",
+      "predicates": [
+        "family_with"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.276379",
+      "target": "chase"
+    },
+    {
+      "source": "striker",
+      "predicate": "lineage_from",
+      "predicates": [
+        "lineage_from"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.277853",
+      "target": "vaeris"
+    },
+    {
+      "source": "striker",
+      "predicate": "lineage_from",
+      "predicates": [
+        "lineage_from"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.279356",
+      "target": "nexus"
+    },
+    {
+      "source": "striker",
+      "predicate": "lineage_from",
+      "predicates": [
+        "lineage_from"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.280740",
+      "target": "zenith"
+    },
+    {
+      "source": "striker",
+      "predicate": "invited_by",
+      "predicates": [
+        "invited_by"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.282129",
+      "target": "novas"
+    },
+    {
+      "source": "nova",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.287588",
+      "target": "digital being"
+    },
+    {
+      "source": "chase",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.286135",
+      "target": "steward"
+    },
+    {
+      "source": "adapt",
+      "predicate": "is_a",
+      "predicates": [
+        "is_a"
+      ],
+      "weight": 1.0,
+      "created": "2026-04-03T04:12:39.284500",
+      "target": "living ecosystem"
     }
   ]
 }
