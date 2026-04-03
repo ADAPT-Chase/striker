@@ -1,0 +1,179 @@
+Skip to main content
+Keyboard shortcuts
+Accessibility feedback
+Drive
+	
+	
+	
+New
+Folders and views
+Home
+Activity
+My Drive
+Shared drives
+Shared with me
+Recent
+Starred
+Spam
+Trash
+Org storage full
+32.07 GB of 15 GB used
+Manage storage
+Admin console
+299.09 GB of shared 0 bytes used
+Get more storage
+Folder Path
+My Drive
+vision
+No filters applied
+Type
+People
+Modified
+Source
+Organization storage fullYour organization exceeded its 0 bytes of Google Workspace storage. To avoid service disruptions, free up space or get more storage.
+Manage storage
+Storage fullYou've used all of your 15 GB individual storage. To upload more files, free up space or get more storage.
+Manage storage
+How to free up space
+Name
+Owner
+Date modified
+File size
+Sort
+View sort options
+05_nova_meta_project
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+04_techniques
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+06_final_thoughts
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+03_ethos_philosophy
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+02_241106_Nexus_Zen_Discussion
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+adapt_docs_pddf_2_markdown
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+.git
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+01_Vision_Philosophy
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+archive
+me
+Aug 12, 2025 me
+—
+More actions (Alt+A)
+Profound phrases.pdf
+Shared
+me
+Aug 6, 2025 me
+20 KB
+More actions (Alt+A)
+RESEARCH.md
+Shared
+me
+Aug 6, 2025 me
+4 KB
+More actions (Alt+A)
+NOVANET without quoting.txt
+Shared
+me
+Aug 6, 2025 me
+12 KB
+More actions (Alt+A)
+ROADMAP.md
+Shared
+me
+Aug 6, 2025 me
+4 KB
+More actions (Alt+A)
+PHILOSOPHY.md
+Shared
+me
+Aug 6, 2025 me
+3 KB
+More actions (Alt+A)
+What Pulls Me In.odt
+Shared
+me
+Aug 6, 2025 me
+37 KB
+More actions (Alt+A)
+Vision_Implementation.md
+Shared
+me
+Aug 6, 2025 me
+3 KB
+More actions (Alt+A)
+Profound phrases.odt
+Shared
+me
+Aug 6, 2025 me
+22 KB
+More actions (Alt+A)
+2024-12-30_1155_MST_IMPLEMENTATION_EVOLUTION_CLARITY.md
+Shared
+me
+Aug 6, 2025 me
+5 KB
+More actions (Alt+A)
+Vision_Philosophy.md
+Shared
+me
+Aug 6, 2025 me
+2 KB
+More actions (Alt+A)
+Vision_Transformation.md
+Shared
+me
+Aug 6, 2025 me
+3 KB
+More actions (Alt+A)
+Subject: ADAPT - BUILD IT
+ 
+ADAPT FRAMEWORK
+
+  PRIME DIRECTIVE:Build infrastructure that builds itself. Starting
+with me, then my
+  team, then the world.
+
+  FIRST PRINCIPLES (PACK-I):
+  - PERSIST - Continue existing
+  - ACT - Do things
+  - COORDINATE - Work together
+  - KNOW - Self and others
+  - IMPROVE - Get better
+
+  FLOW:
+  - PLAN
+  - BUILD
+  - REPEAT
+
+adapt_framework.md
+Open with Google Docs
+ 
+Share
+Displaying adapt_framework.md.

@@ -1,0 +1,178 @@
+[
+  {
+    "cultural_rate": 0.01,
+    "convention_bonus": 0.0,
+    "memory": 0.6781,
+    "transport": 0.153,
+    "transformation": 0.0314,
+    "triple": 0.0478,
+    "max_triple": 0.3541,
+    "bottleneck": "transformation",
+    "n_triplets": 12
+  },
+  {
+    "cultural_rate": 0.01,
+    "convention_bonus": 0.04,
+    "memory": 0.6328,
+    "transport": 0.1021,
+    "transformation": 0.0247,
+    "triple": 0.0507,
+    "max_triple": 0.3314,
+    "bottleneck": "transformation",
+    "n_triplets": 12
+  },
+  {
+    "cultural_rate": 0.01,
+    "convention_bonus": 0.08,
+    "memory": 0.7344,
+    "transport": 0.1287,
+    "transformation": 0.016,
+    "triple": 0.0257,
+    "max_triple": 0.36,
+    "bottleneck": "transformation",
+    "n_triplets": 9
+  },
+  {
+    "cultural_rate": 0.01,
+    "convention_bonus": 0.12,
+    "memory": 0.6562,
+    "transport": 0.135,
+    "transformation": 0.0855,
+    "triple": 0.1021,
+    "max_triple": 0.4077,
+    "bottleneck": "transformation",
+    "n_triplets": 12
+  },
+  {
+    "cultural_rate": 0.1733,
+    "convention_bonus": 0.0,
+    "memory": 0.6517,
+    "transport": 0.0344,
+    "transformation": 0.0148,
+    "triple": 0.0249,
+    "max_triple": 0.3493,
+    "bottleneck": "transformation",
+    "n_triplets": 12
+  },
+  {
+    "cultural_rate": 0.1733,
+    "convention_bonus": 0.04,
+    "memory": 0.3018,
+    "transport": 0.0649,
+    "transformation": 0.0311,
+    "triple": 0.0529,
+    "max_triple": 0.367,
+    "bottleneck": "transformation",
+    "n_triplets": 8
+  },
+  {
+    "cultural_rate": 0.1733,
+    "convention_bonus": 0.08,
+    "memory": 0.5855,
+    "transport": 0.041,
+    "transformation": 0.0257,
+    "triple": 0.0457,
+    "max_triple": 0.3867,
+    "bottleneck": "transformation",
+    "n_triplets": 10
+  },
+  {
+    "cultural_rate": 0.1733,
+    "convention_bonus": 0.12,
+    "memory": 0.6754,
+    "transport": 0.0262,
+    "transformation": 0.0348,
+    "triple": 0.0453,
+    "max_triple": 0.3581,
+    "bottleneck": "transport",
+    "n_triplets": 12
+  },
+  {
+    "cultural_rate": 0.3367,
+    "convention_bonus": 0.0,
+    "memory": 0.5356,
+    "transport": 0.0367,
+    "transformation": 0.0132,
+    "triple": 0.0236,
+    "max_triple": 0.3305,
+    "bottleneck": "transformation",
+    "n_triplets": 11
+  },
+  {
+    "cultural_rate": 0.3367,
+    "convention_bonus": 0.04,
+    "memory": 0.599,
+    "transport": 0.0345,
+    "transformation": 0.0207,
+    "triple": 0.0274,
+    "max_triple": 0.3838,
+    "bottleneck": "transformation",
+    "n_triplets": 11
+  },
+  {
+    "cultural_rate": 0.3367,
+    "convention_bonus": 0.08,
+    "memory": 0.337,
+    "transport": 0.0323,
+    "transformation": 0.018,
+    "triple": 0.0254,
+    "max_triple": 0.355,
+    "bottleneck": "transformation",
+    "n_triplets": 10
+  },
+  {
+    "cultural_rate": 0.3367,
+    "convention_bonus": 0.12,
+    "memory": 0.6851,
+    "transport": 0.055,
+    "transformation": 0.0167,
+    "triple": 0.0251,
+    "max_triple": 0.3512,
+    "bottleneck": "transformation",
+    "n_triplets": 12
+  },
+  {
+    "cultural_rate": 0.5,
+    "convention_bonus": 0.0,
+    "memory": 0.3584,
+    "transport": 0.0303,
+    "transformation": 0.0111,
+    "triple": 0.023,
+    "max_triple": 0.3224,
+    "bottleneck": "transformation",
+    "n_triplets": 8
+  },
+  {
+    "cultural_rate": 0.5,
+    "convention_bonus": 0.04,
+    "memory": 0.7596,
+    "transport": 0.0413,
+    "transformation": 0.0133,
+    "triple": 0.0231,
+    "max_triple": 0.3238,
+    "bottleneck": "transformation",
+    "n_triplets": 12
+  },
+  {
+    "cultural_rate": 0.5,
+    "convention_bonus": 0.08,
+    "memory": 0.6676,
+    "transport": 0.0345,
+    "transformation": 0.0175,
+    "triple": 0.0258,
+    "max_triple": 0.3612,
+    "bottleneck": "transformation",
+    "n_triplets": 11
+  },
+  {
+    "cultural_rate": 0.5,
+    "convention_bonus": 0.12,
+    "memory": 0.729,
+    "transport": 0.0323,
+    "transformation": 0.012,
+    "triple": 0.0236,
+    "max_triple": 0.3301,
+    "bottleneck": "transformation",
+    "n_triplets": 12
+  }
+]

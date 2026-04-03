@@ -1,7 +1,7 @@
 """
 Striker Semantic Memory — ChromaDB-backed vector search.
 
-Collections: knowledge, observations, journal, research
+Collections: knowledge, observations, journal, research, sessions
 Embeddings: all-MiniLM-L6-v2 (fast, good quality)
 """
 
@@ -14,6 +14,7 @@ import chromadb
 from chromadb.config import Settings
 
 CHROMA_PATH = str(Path(__file__).parent / "chroma_db")
+COLLECTIONS = ["knowledge", "observations", "journal", "research", "sessions"]
 
 
 class SemanticMemory:
@@ -54,9 +55,9 @@ class SemanticMemory:
         return self._format_results(results)
 
     def search_all(self, query: str, n_results: int = 3) -> List[Dict]:
-        """Search across all collections."""
+        """Search across all collections, including captured sessions."""
         all_results = []
-        for name in ["knowledge", "observations", "journal", "research"]:
+        for name in COLLECTIONS:
             try:
                 results = self.search(name, query, n_results=n_results)
                 for r in results:
@@ -128,7 +129,7 @@ class SemanticMemory:
 
     def get_stats(self) -> Dict:
         stats = {}
-        for name in ["knowledge", "observations", "journal", "research"]:
+        for name in COLLECTIONS:
             try:
                 coll = self._get_collection(name)
                 stats[name] = coll.count()

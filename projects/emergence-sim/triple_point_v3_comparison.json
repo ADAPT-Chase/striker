@@ -1,0 +1,48 @@
+{
+  "Cultural+Convention": {
+    "v2": {
+      "mean_memory": 0.6199,
+      "mean_transport": 0.799,
+      "mean_transformation": 0.2565,
+      "mean_triple": 0.3634,
+      "max_triple": 0.7889,
+      "computing_windows": 19,
+      "total_windows": 28
+    },
+    "v3": {
+      "n_windows": 28,
+      "n_active_cells": 12,
+      "n_triplet_cells": 12,
+      "mean_memory": 0.6199,
+      "mean_transport": 0.0414,
+      "mean_transformation": 0.017,
+      "mean_triple": 0.0262,
+      "max_triple": 0.3821,
+      "bottleneck": "transformation",
+      "strongest": "memory"
+    }
+  },
+  "No culture (baseline)": {
+    "v2": {
+      "mean_memory": 0.5741,
+      "mean_transport": 0.7469,
+      "mean_transformation": 0.4015,
+      "mean_triple": 0.4322,
+      "max_triple": 0.7621,
+      "computing_windows": 20,
+      "total_windows": 28
+    },
+    "v3": {
+      "n_windows": 28,
+      "n_active_cells": 11,
+      "n_triplet_cells": 11,
+      "mean_memory": 0.5741,
+      "mean_transport": 0.0368,
+      "mean_transformation": 0.0087,
+      "mean_triple": 0.01,
+      "max_triple": 0.2797,
+      "bottleneck": "transformation",
+      "strongest": "memory"
+    }
+  }
+}

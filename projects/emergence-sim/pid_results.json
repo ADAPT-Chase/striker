@@ -1,0 +1,46 @@
+{
+  "experiment": "pid_synergy_validation",
+  "question": "Is transformation metric measuring real synergy or distributional drift?",
+  "verdict": "ARTIFACT",
+  "conditions": [
+    {
+      "name": "BASELINE",
+      "seeds": 3,
+      "pid_mean_synergy": 0.221,
+      "pid_mean_redundancy": 0.1724,
+      "pid_mean_synergy_ratio": 0.2761,
+      "pid_max_synergy": 0.4593,
+      "pid_synergy_trend": 0.0,
+      "triple_mean_memory": 0.5844,
+      "triple_mean_transport": 0.7343,
+      "triple_mean_transformation": 0.3705,
+      "triple_mean_triple": 0.4675
+    },
+    {
+      "name": "CONDITIONAL_CTX",
+      "seeds": 3,
+      "pid_mean_synergy": 0.2106,
+      "pid_mean_redundancy": 0.1708,
+      "pid_mean_synergy_ratio": 0.3235,
+      "pid_max_synergy": 0.4076,
+      "pid_synergy_trend": 0.0,
+      "triple_mean_memory": 0.4684,
+      "triple_mean_transport": 0.7283,
+      "triple_mean_transformation": 0.5226,
+      "triple_mean_triple": 0.513
+    },
+    {
+      "name": "SCRAMBLED",
+      "seeds": 3,
+      "pid_mean_synergy": 0.2743,
+      "pid_mean_redundancy": 0.2054,
+      "pid_mean_synergy_ratio": 0.3663,
+      "pid_max_synergy": 0.5319,
+      "pid_synergy_trend": 0.0,
+      "triple_mean_memory": 0.5193,
+      "triple_mean_transport": 0.6619,
+      "triple_mean_transformation": 0.4319,
+      "triple_mean_triple": 0.4337
+    }
+  ]
+}

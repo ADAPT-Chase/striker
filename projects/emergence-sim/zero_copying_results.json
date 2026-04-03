@@ -1,0 +1,245 @@
+{
+  "experiment": "zero-copying-regime",
+  "results": [
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.0,
+      "memory": 0.522,
+      "transport": 0.0559,
+      "transformation": 0.0082,
+      "triple": 0.0123,
+      "max_triple": 0.3448,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.03,
+      "memory": 0.4884,
+      "transport": 0.166,
+      "transformation": 0.022,
+      "triple": 0.0296,
+      "max_triple": 0.3679,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.06,
+      "memory": 0.5823,
+      "transport": 0.0328,
+      "transformation": 0.0091,
+      "triple": 0.0125,
+      "max_triple": 0.349,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.09,
+      "memory": 0.6612,
+      "transport": 0.1556,
+      "transformation": 0.0509,
+      "triple": 0.0621,
+      "max_triple": 0.3879,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.12,
+      "memory": 0.7223,
+      "transport": 0.0755,
+      "transformation": 0.0175,
+      "triple": 0.023,
+      "max_triple": 0.3275,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.18,
+      "memory": 0.6558,
+      "transport": 0.1413,
+      "transformation": 0.0096,
+      "triple": 0.0209,
+      "max_triple": 0.3459,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.24,
+      "memory": 0.653,
+      "transport": 0.0304,
+      "transformation": 0.01,
+      "triple": 0.0126,
+      "max_triple": 0.353,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.3,
+      "memory": 0.5689,
+      "transport": 0.0214,
+      "transformation": 0.0106,
+      "triple": 0.013,
+      "max_triple": 0.3628,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.0,
+      "memory": 0.5782,
+      "transport": 0.0552,
+      "transformation": 0.0398,
+      "triple": 0.0401,
+      "max_triple": 0.4275,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.03,
+      "memory": 0.6106,
+      "transport": 0.051,
+      "transformation": 0.0094,
+      "triple": 0.0126,
+      "max_triple": 0.3521,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.06,
+      "memory": 0.5282,
+      "transport": 0.0549,
+      "transformation": 0.0086,
+      "triple": 0.0124,
+      "max_triple": 0.3462,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.09,
+      "memory": 0.6765,
+      "transport": 0.0924,
+      "transformation": 0.0086,
+      "triple": 0.0126,
+      "max_triple": 0.3536,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.12,
+      "memory": 0.7158,
+      "transport": 0.0608,
+      "transformation": 0.0094,
+      "triple": 0.0128,
+      "max_triple": 0.3571,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.18,
+      "memory": 0.6598,
+      "transport": 0.0434,
+      "transformation": 0.0247,
+      "triple": 0.0345,
+      "max_triple": 0.3356,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.24,
+      "memory": 0.6109,
+      "transport": 0.0499,
+      "transformation": 0.0113,
+      "triple": 0.0133,
+      "max_triple": 0.3721,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.3,
+      "memory": 0.662,
+      "transport": 0.029,
+      "transformation": 0.0099,
+      "triple": 0.0125,
+      "max_triple": 0.3505,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.0,
+      "memory": 0.5811,
+      "transport": 0.0594,
+      "transformation": 0.0089,
+      "triple": 0.0123,
+      "max_triple": 0.3431,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.03,
+      "memory": 0.6509,
+      "transport": 0.1089,
+      "transformation": 0.0386,
+      "triple": 0.0494,
+      "max_triple": 0.3684,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.06,
+      "memory": 0.64,
+      "transport": 0.1118,
+      "transformation": 0.0086,
+      "triple": 0.0126,
+      "max_triple": 0.3533,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.09,
+      "memory": 0.6743,
+      "transport": 0.1388,
+      "transformation": 0.0339,
+      "triple": 0.0439,
+      "max_triple": 0.3596,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.12,
+      "memory": 0.7027,
+      "transport": 0.0474,
+      "transformation": 0.0114,
+      "triple": 0.0229,
+      "max_triple": 0.3711,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.18,
+      "memory": 0.6049,
+      "transport": 0.0218,
+      "transformation": 0.0096,
+      "triple": 0.0122,
+      "max_triple": 0.3427,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.24,
+      "memory": 0.5754,
+      "transport": 0.0084,
+      "transformation": 0.0107,
+      "triple": 0.0136,
+      "max_triple": 0.3798,
+      "bottleneck": "transport"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.3,
+      "memory": 0.222,
+      "transport": 0.0181,
+      "transformation": 0.0255,
+      "triple": 0.0297,
+      "max_triple": 0.4472,
+      "bottleneck": "transport"
+    }
+  ]
+}

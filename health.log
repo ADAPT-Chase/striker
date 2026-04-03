@@ -32,3 +32,24 @@
 [2026-04-02 09:30:23] OK — all systems nominal
 [2026-04-02 10:01:03] HEALTH CHECK — ALL OK (docker: 6 containers up, dragonfly: PONG, disk: 75%, mem: 26Gi avail, striker.db: 35 tables)
 [2026-04-02 10:31:50] All systems nominal
+[2026-04-02 11:10:33 UTC] Health check OK — docker(6 containers up), dragonfly(PONG), disk(75%), mem(26Gi avail), db(ok)
+[2026-04-02 11:41:44 UTC] Health check: ALL GREEN. Docker(dragonfly+firecrawl up 24h), DragonflyDB PONG, Disk 75%, RAM 26Gi avail, striker.db 240KB present. Note: sqlite3 CLI not installed (non-issue, Python sqlite3 works).
+[2026-04-02 13:27:51] Health check OK — all systems nominal
+[2026-04-02 13:58:32] All systems nominal
+[2026-04-02 14:30:14 UTC] Health check OK — docker(6/6), dragonfly(PONG), disk(75%), mem(26Gi avail), db(240K)
+[2026-04-02 15:02:25 UTC] Health check OK — docker✓ dragonfly✓ disk:75%✓ mem:25Gi✓ db✓
+2026-04-02 15:35:10 HEALTH CHECK — ALL OK
+[2026-04-02 16:07:30] ISSUES: ⚠️ striker.db issue: -rw-r--r-- 1 x x 245760 Apr  2 15:15 /home/x/striker/brain/striker.db
+Command sqlite3 not found, but can be installed with:
+sudo apt install sqlite3
+[2026-04-02 16:39:32 UTC] Health check: ALL GREEN — docker(6 containers up 29h), dragonfly(PONG), disk(75%), mem(25Gi avail), striker.db(ok)
+2026-04-02 17:12:56 HEALTH CHECK — ALL OK
+[2026-04-02 17:49:26 UTC] Health check OK — Docker(7 containers up), DragonflyDB(PONG), Disk(75%), Mem(26Gi avail), striker.db(ok)
+[2026-04-02 18:22:49] All systems nominal
+[2026-04-02 18:56:03 UTC] Health check OK — all containers up, DragonflyDB PONG, disk 75%, mem 26Gi avail, striker.db present
+[2026-04-02 19:33:14] All systems nominal — docker, dragonfly, disk, memory, db OK
+[2026-04-02 20:05:33] HEALTH CHECK — 1 issue(s): ⚠️ striker.db issue: -rw-r--r-- 1 x x 245760 Apr  2 15:15 /home/x/striker/brain/striker.db
+Command sqlite3 not found, but can be installed with:
+sudo apt install sqlite3
+[2026-04-03 02:28:44 UTC] Health OK — docker: dragonfly firecrawl-api-1 firecrawl-redis-1 firecrawl-nuq-postgres-1 firecrawl-playwright-service-1 firecrawl-rabbitmq-1  | dragonfly: PONG | disk: 75% used, 12G free | mem: 25Gi avail of 31Gi | brain.db: present | fixes: none
+[2026-04-03 02:29:08 UTC] Health OK — docker: dragonfly firecrawl-api-1 firecrawl-redis-1 firecrawl-nuq-postgres-1 firecrawl-playwright-service-1 firecrawl-rabbitmq-1  | dragonfly: PONG | disk: 75% used, 12G free | mem: 25Gi avail of 31Gi | brain.db: present | fixes: none
