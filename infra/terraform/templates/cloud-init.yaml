@@ -1,0 +1,35 @@
+# Cloud-init script for research workhouse
+# Runs on first boot to synchronize with the control box and set up environment
+
+#!/bin/bash
+set -euo pipefail
+
+# ── SSH access back to the control box ─────────────────────────────────
+# The workhorse pushes results to this box via rsync over SSH
+CONTROL_BOX_USER="x"
+CONTROL_BOX_HOST="__CONTROL_BOX_IP__"  # Will be replaced at provision time
+CONTROL_BOX_SSH_KEY="/home/x/.ssh/id_rsa_workhorse"
+
+# ── Git clone ──────────────────────────────────────────────────────────
+apt-get update -qq
+apt-get install -y -qq git redis-tools > /dev/null 2>&1
+
+# Clone the striker repo
+if [ ! -d "/home/x/striker" ]; then
+  sudo -u x git clone https://github.com/ADAPT-Chase/striker.git /home/x/striker
+fi
+
+# ── Install dependencies from requirements.txt if it exists ────────────
+if [ -f "/home/x/striker/requirements.txt" ]; then
+  pip3 install -r /home/x/striker/requirements.txt -q
+fi
+
+# ── Sync environment from control box ──────────────────────────────────
+# This allows the workhorse to access all API keys, tokens, etc.
+# The control box will push its ~/.hermes/.env and ~/.bashrc to the workhorse
+# via rsync when the box boots up (or on demand)
+
+# ── Ready marker ──────────────────────────────────────────────────────
+touch /home/x/.workhouse_ready
+
+echo "Workhorse provisioning complete."

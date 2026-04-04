@@ -1,0 +1,77 @@
+{
+  "experiment": "zero-copying-verification",
+  "results": [
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.0,
+      "triple": 0.046,
+      "memory": 0.378,
+      "transport": 0.066,
+      "transformation": 0.0312,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.03,
+      "triple": 0.0334,
+      "memory": 0.3554,
+      "transport": 0.0353,
+      "transformation": 0.024,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.06,
+      "triple": 0.0547,
+      "memory": 0.2926,
+      "transport": 0.0245,
+      "transformation": 0.0677,
+      "bottleneck": "transport"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.09,
+      "triple": 0.0466,
+      "memory": 0.1975,
+      "transport": 0.1009,
+      "transformation": 0.0259,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.12,
+      "triple": 0.0324,
+      "memory": 0.2988,
+      "transport": 0.0537,
+      "transformation": 0.0165,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.0,
+      "convention_bonus": 0.18,
+      "triple": 0.0884,
+      "memory": 0.2665,
+      "transport": 0.0619,
+      "transformation": 0.0602,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.005,
+      "convention_bonus": 0.09,
+      "triple": 0.0466,
+      "memory": 0.1975,
+      "transport": 0.1009,
+      "transformation": 0.0259,
+      "bottleneck": "transformation"
+    },
+    {
+      "cultural_rate": 0.01,
+      "convention_bonus": 0.09,
+      "triple": 0.0502,
+      "memory": 0.2853,
+      "transport": 0.0838,
+      "transformation": 0.0445,
+      "bottleneck": "transformation"
+    }
+  ]
+}

@@ -129,7 +129,7 @@ class DialectTracker:
         return '\n'.join(lines)
 
 
-class DialectSimulation(Simulation):
+class DialectSimulation:
     """Modified simulation with a spatial barrier for dialect experiments."""
 
     def __init__(self, num_agents_per_side=25):
@@ -150,6 +150,10 @@ class DialectSimulation(Simulation):
         self.current_season = 0
         self.season_tick = 0
         self.max_generation = 0
+        
+        # Spatial index — cell size covers the largest query radius (cultural=12)
+        from sim import SpatialGrid, WIDTH, HEIGHT
+        self._grid = SpatialGrid(WIDTH, HEIGHT, cell_size=13.0)
 
         # Barrier state
         self.barrier_active = True
